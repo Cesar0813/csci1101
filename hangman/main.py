@@ -2,7 +2,7 @@ import re
 import random 
 
 # Get the answer.
-pool_file = open("HANGMAN SAM.txt")
+pool_file = open ("HANGMAN SAM.txt")
 
 pool_answers = []
 
