@@ -1,0 +1,1759 @@
+id,game_id,name,storyline,first_release_date,follow_count,hype_count,critic_rating_value,critic_rating_count,user_rating_value,user_rating_count
+31048,11810,.hack//Quarantine,"Fresh off the victory against Gorre, Kite finds Elk still searching for Mia. Kite has no information, so Elk continues his search. Kite then moves on to the newly opened Ω Server to discuss the next move, but the server crashes, forcing Helba to connect everyone to her mirror server. Helba's server has all the same functions, except the server looks like Net Slum. Now that they are relatively safe, Helba says that the Wave is still moving and that she will work on a vaccine to defeat it. Lios then orders Kite to measure data fluctuations by going to Ω Bigoted Snowflake's Capsule. 
+ 
+Shortly after getting the data for Lios, it is reported that the Nizato University Hospital, the place Yasuhiko is being hospitalized in, suffered a blackout. Kite does not have much time left. Luckily, he gets another clue from Net Slum resident Spiritas, who tells him of Harald having something to do with Σ Screaming Wind Sand's Fate Castle. At the bottom is yet another room, this time with a lone tree at sunset and another Epitaph fragment.",2003-04-10 00:00:00.000,5,NULL,NULL,NULL,73.9163,6
+13365,3774,1080° Avalanche,NULL,2003-11-28 00:00:00.000,3,NULL,70.0000,1,69.4722,7
+192040,26814,18 Wheels of Steel: Across America,NULL,2003-09-23 00:00:00.000,1,NULL,NULL,NULL,70.0000,3
+61700,12374,1893: A World's Fair Mystery,NULL,2003-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+42818,159403,1942 Wing Baron,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+97947,214662,2 Games: MediEvil & C-12: Final Resistance,NULL,2003-05-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188771,223001,3D Chess,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+5047,204578,3D Live Pool,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166098,79139,5 Days a Stranger,"Get in, get the loot, get out... that's how it usually goes for master cat burglar Trilby. But after he breaks into the supposedly vacated country manor erstwhile of the aristocratic DeFoe family, he quickly finds that things are not that simple. Together with a group of strangers, he finds himself imprisoned by some invisible intelligence. A force prepared to do anything to keep them there.",2003-09-22 00:00:00.000,2,NULL,NULL,NULL,79.8891,8
+180893,44820,5 Star Racing,NULL,2003-12-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+119069,133765,625 Sandwich Stacker,NULL,2003-08-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71436,71170,A Better Mouse Trap,"Elandra has invented a better mouse trap, while Davy Jones wanted to enhance it. It teleports both to the distant planet, where Elandra and Davy are separated. Walking around the planet, talking to inhabitants, and collecting the items, the player should help Elandra and Davy to get united and to return back to Reality-on-the-Norm in this classic point-n-click icon-based adventure game. Davy and Elandra are controlled by the player in non-cooperative way.",2003-03-25 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+164933,23701,A Tale in the Desert,NULL,2003-02-15 00:00:00.000,5,NULL,80.0000,1,95.1515,8
+8275,73550,Abandoned Well,NULL,2003-07-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92031,71108,Abashera,NULL,2003-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+156646,132868,Acquaria,"From a desolate environment comes an exuberant story. ACQUÁRIA shows a distant future in which the ""Blue Planet"" can no longer be called such. The Earth is practically exhausted after constant aggression against nature.
+All that is left are ruined cities and a few groups of people surviving in a devastating scenario. After years of exploitation and aggression against nature, water on planet Earth has come to an end.
+
+In this arid environment, Sarah (Sandy) and Kim (Junior) live the saga and adventure of surviving in ACQUÁRIA, a place full of dangers and mysteries. With their friends Gaspar and Guili, they live challenges and emotions in search of the rarest and most precious commodity on Earth: water.",2003-12-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+116530,45979,Activision Anthology: Remix Edition,NULL,2003-11-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172911,98251,Adiboo & Paziral's Secret,NULL,2003-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189332,1692,Advance Wars 2: Black Hole Rising,"While the Allied Nations were still recovering from the war in Cosmo Land, the Black Hole Army had already recovered and has decided to launch a large-scale invasion on Macro Land. Along with the original Black Hole army's commanding officers (COs), four new COs were recruited, under the command of Sturm. Sturm orders each Black Hole CO to invade and capture each of the four continents controlled by the four other armies from the original game: Orange Star was to be taken by Flak, Blue Moon by Lash, Yellow Comet by Adder, and Green Earth by Hawke. Lash also invented several new war weapons like the Black Cannon and the Mini Cannons that were to be put to use in this invasion. The four allied armies must now work together to drive Black Hole out of their world once and for all.
+
+Once the Black Hole troops are driven from the Allied Nations' continents, their COs convene in Black Hole territory, near Black Hole's base of operations. Here they fight Sturm, the mastermind behind the invasion. The final battle takes place in front of the Death Ray, a powerful new weapon guarding the entrance to a missile, which, if not subdued in time, would destroy half of Wars World.
+
+The Death Ray is eventually destroyed by the COs of the Allied Nations, who manage to disarm the missile and corner Sturm. In an act of desperation, Sturm attempts to blow up the base and inflict damage on Wars World by self-destructing the missile. Andy attempts to stop Sturm to no avail. However, in a surprising turn of events, Hawke, second in command to Sturm, betrays his leader by killing him with Black Storm before the self-destruct is triggered. Hawke takes over as leader of Black Hole, and along with Flak, Lash, and Adder, leaves Macro Land with the few troops he has left.",2003-06-24 00:00:00.000,13,NULL,90.5000,2,85.8395,36
+179572,47306,AFL Live 2004,NULL,2003-09-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+94534,145568,Age of Empires: Pocket PC Edition,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+168926,129851,Age of Mythology: Gold Edition,"AoM: 
+Like many other real-time strategy games, Age of Mythology is based on defeating enemy units and towns, building your own units and towns, and training villagers and fighters. In this way, players are able to defeat and conquer rival towns and civilizations. Players advance their tribe through four ""Ages"": starting in the Archaic Age, the player may upgrade to the Classical Age, the Heroic Age, and finally, the Mythic Age. Each upgrade to a higher Age unlocks new units and technologies for the player, which strengthens their settlement. However, upgrading requires a sum of resources to be paid and a certain prerequisite building to be constructed. 
+ 
+There are three playable cultures in Age of Mythology: the Greeks, Egyptians, and Norse. Each culture has three ""major gods""—important deities such as Ra, Zeus, or Odin. The player chooses their major god before the game begins. Every time a player advances to the next age, a ""minor god"" is selected. Minor gods are slightly less significant historically than their major counterparts. Some minor gods include Bast and Aphrodite. All gods grant the player unique technologies, myth units, and a unique ""god power""—A one-time special ability that can either damage an opponent, or benefit the player that uses it. 
+ 
+ 
+AoM - The Titans: 
+The story begins with Kronos, who is still trapped in Tartarus, watching the Atlanteans, who are attempting to survive the harsh winters in the Norselands after Atlantis was destroyed 10 years ago in the events of Age of Mythology. He sends his unnamed servant to the colony, who kills the Theocrat Krios and possesses his body. Krios tells of a temple he saw in a vision. The Atlanteans leave the Norselands by using the foreseen temple called a Sky Passage, and they come to a resourceful island. Upon their arrival, Krios points out the plant-covered Temples to Oranos and Kronos. He convinces everyone including Kastor to worship them. This angers the Greeks, who promptly attack them. The Atlanteans retaliate by destroying the entire Greek colony. The survivors tell of their defeat to General Melagius. The Atlanteans invade Melagius' city called Sikyos, and slay him. Just as the Atlanteans kill Melagius, his Egyptian and Norse allies come to aid the city. Kastor decides they are too powerful and retreats. He decides to attack their homelands while they are heavily defending Greece. In the Norselands, Kastor destroys Norse temples and replaces them with Atlantean temples, to show his superiority. He also destroys the Tower of Odin (Odin's only stronghold on Earth) by using a god power from Kronos. 
+ 
+Some Atlantean forces then sail to Egypt. Queen Amanra is warned by Arkantos that the Atlanteans are coming to steal relics from the Egyptians. Amanra fortifies the protections around the relics, but the Atlanteans still manage to steal them. Arkantos protects Amanra from Atlantean soldiers then tells her that Kastor is being tricked. He tells her to find Kastor and to help him. Meanwhile, Krios congratulates Kastor on his work and shows him a Sky Passage that he has found, which will take him behind Greek lines. Kastor enters it and finds himself on Mount Olympus. Using special temples that change his men into different myth units, Kastor slays the followers of the Olympian Gods, including Odysseus. However, once he does this, the temple to Zeus on the mountain collapses. Back in Greek territories, the Titan Prometheus and his army of Prometheans from Tartarus are destroying Sikyos. Krios arrives and announces that Kastor's actions in Greece, Egypt and the Norselands, combined with his invasion of Olympus, have weakened the Olympian Gods' control over these territories and allowed minor titans to spawn. Krios reveals his true form, a winged demon and servant of Kronos, and flees.",2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+42735,135588,Age of Wanderer,"Set during the Japanese occupancy of Korea, descendants of both Korea and Japan are embroiled in a power struggle to control the streets of Jongro, the center of Korean trade. Gangsters harass the merchants, joining hands with the Japanese to disturb the peace of the community. Spurred into action, Doo Han Kim, the son of General Jwah Jin Kim, and Sirasoni, the greatest fighter of all time of Manjoo descent, rise up and challenge the tyranny of oppression. The resistance of the Japanese police, military police, and opposing gangs grow stronger... but Doo Han Kim and Sirasoni take to the streets to fight for the common people and restore peace to Jongro. Doo Han Kim and Sirasoni, Together The leader of the Umi Gang and a legendary man of fists, Doo Han Kim comes together with Sirasoni, the greatest Korean fighter of all time to battle injustice and challenge the powers that work with the Japanese to oppress Korea. Defeat the Honmachi Clan, gangsters, and thugs in this fast paced, exciting action game.",2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186381,591,Age of Wonders: Shadow Magic,NULL,2003-07-25 00:00:00.000,2,NULL,89.0000,1,77.1730,20
+74461,55974,AH-64 Apache Air Assault,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+36920,72668,Ai Yori Aoshi,"During winter vacation, Tina sees a TV program about the balmy southern islands and says that she wants to go to the ocean. Aoi proposes that they go visit her villa in the southern islands.
+
+They immediately board a cruise ship to make the journey to the island as a group. However, on the way the weather turns nasty and the ship capsizes. Miyabi calls for help, but the radio is broken and proves of no use. They are left wondering if a rescue team will come looking for them.",2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58390,23751,Airborne Assault: Highway to Reich,NULL,2003-12-03 00:00:00.000,NULL,NULL,60.0000,1,NULL,NULL
+148421,78040,Airport Tycoon 2,NULL,2003-02-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+126193,69843,Airport Tycoon 3,NULL,2003-10-30 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+78600,70123,AirStrike 3D: Operation W.A.T.,"A mysterious terrorist organization named N.I.T.O. has alarmed the international community. Their factories and oil refinery production has suddenly gone up and there is talk about the manufacturing of nuclear warheads. In order to stop them, the military decides to send a single helicopter in to destroy the N.I.T.O. facilities and weaponry.",2003-01-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109974,61628,Akatsuki: Shisei Ichigo,NULL,2003-11-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+65897,146191,Aki: Mahjong Solitaire,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+65918,72286,Alex the Allegator 4,NULL,2003-07-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71458,24188,Alien Blast: The Encounter,"On planet Rexus, located on the far edge of the galaxy a distress call has been sent out. When an Allied Forces freighter arrives to investigate they find that everyone on the planet is dead or has left and the full content of the distress call is a warning to stay away from the planet. Unfortunately it's too late for the Allied Forces investigators, as a large force of alien creatures is spotted incoming on the radar. The only hope is to man the few remaining turret weapons left behind on the planet and destroy all waves of the attack.",2003-01-27 00:00:00.000,NULL,NULL,25.0000,1,NULL,NULL
+187627,8634,Alien Shooter,The player plays as a marine tasked to clear out an experimental laboratory where teleportation devices have allowed legions of aliens to pour into the world. The player has been given explosives to open up the sealed doors into these top secret areas; they had security measures in place so there will be stationery mini-gun turrets available to take them out. The government has given access to all the most advanced weaponry available in hopes of ridding the problem after receiving too many casualties of the previous military assault. A heavy burden is placed on one man.,2003-09-14 00:00:00.000,12,NULL,NULL,NULL,71.6206,30
+32518,93164,Alien Sky,NULL,2003-10-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+35531,5720,Aliens Versus Predator: Extinction,NULL,2003-07-30 00:00:00.000,3,NULL,56.0000,4,67.7100,8
+133933,188569,Alik: Gry i zabawy,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+94309,147515,All Star Action,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+173928,43661,All Star Pro Wrestling 3,NULL,2003-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174970,43930,All Star Racing 2,NULL,2003-05-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174958,11558,All-Star Baseball 2004,NULL,2003-02-25 00:00:00.000,NULL,NULL,80.0000,5,41.0000,1
+36263,99923,Alpha Ball,NULL,2003-12-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174985,1989,Alter Echo,"In a world where psychics, known as shapers, can create any object they want with a substance called Plast, the best shaper of all, Paavo, develops a new type of Plast - EchoPlast. The ship of Nevin and his crew is shot down by Paavo and they crashland on his planet. The EchoPlast, having developed a conscience, asks Nevin to stop Paavo from destroying humanity with the EchoPlast's power. The EchoPlast forms a suit for Nevin to help him.",2003-08-19 00:00:00.000,NULL,NULL,62.5000,3,49.1002,4
+190718,596,American Conquest,NULL,2003-02-05 00:00:00.000,7,NULL,90.0000,2,68.8671,10
+186682,9360,American Conquest: Fight Back,NULL,2003-08-29 00:00:00.000,1,NULL,NULL,NULL,50.0000,2
+141063,6304,American Idol,NULL,2003-11-07 00:00:00.000,NULL,NULL,80.0000,1,NULL,NULL
+97674,15820,America's Army 2,NULL,2003-11-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+83312,5723,AMF Bowling 2004,NULL,2003-11-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93305,5725,Amped 2,NULL,2003-10-28 00:00:00.000,1,NULL,80.0000,3,NULL,NULL
+131597,2141,Amplitude,"In Amplitude, the player controls a ship (referred to as a ""Beat Blaster"") moving down a path of varying shapes and lengths, containing up to six tracks. Each color-coded track corresponds to a different aspect of the song, such as percussion, synth, bass, or vocals, and contains a sequence of notes. As the player hits buttons corresponding to the note placement on the track, the notes activate a small portion of the track. If the player successfully activates enough notes in sequence, the track is ""captured"" and the section will play automatically for a number of bars, freeing the player to capture another section.
+
+The object of the game is to capture a sufficient amount of sections to reach the end of the song. If the player continually misses notes, an energy meter empties until the game is over.",2003-03-24 00:00:00.000,1,NULL,73.0000,5,NULL,NULL
+164880,202376,Angelic Vale,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+182330,72680,Angelique Etoile,"The protagonist is a normal high school girl who was born in the Sacred Bird Cosmos. She and many other girls act as school representatives for a field trip to Holy Land the day after her seventeenth birthday. Like the other girls, she is asked by the Sacred Guardians to walk through a series of doorways. Her path ends at a mystical stone slab which shimmers in her presence. Moments afterwards, a spirit takes the form of her treasured childhood doll to inform her that she is the legendary étoile, or a celestial messenger for the cosmos. Her mission is to help nurture the Sacred Beast Cosmos's growth within a year (365 days).",2003-12-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+84635,72737,Angel's Feather,"It begins when Hamura Shou comes to Yuusei Academy, from there it branches out into the truth behind his past, and his twin brother, Kai's as well (though they both have the same name, they are referenced differently). It also portrays shōnen-ai between Kai and Nagi (his supposed best friend).",2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133872,72046,Angels vs. Devils,NULL,2003-10-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+133814,208375,Animal Football,NULL,2003-06-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144991,24106,Anito: Defend A Land Enraged,NULL,2003-11-22 00:00:00.000,NULL,NULL,70.0000,1,NULL,NULL
+47819,141468,Anstoss 4: Edition 03/04,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+26626,49492,Ao Zora to Nakama Tachi: Yume no Bouken,NULL,2003-01-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+22300,44842,Ao Zora to Nakama Tachi: Yume no Bouken Plus,NULL,2003-12-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+112548,69151,Aoi Namida,NULL,2003-05-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+135746,146570,Aoi Sora no Neosphere,NULL,2003-03-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+60030,5728,APEX,NULL,2003-02-18 00:00:00.000,NULL,NULL,86.5000,2,NULL,NULL
+175683,22278,Apocalyptica,Control your squad of technologically advanced religious soldiers in the quest to destroy Neo-Satan and his legions.,2003-10-24 00:00:00.000,NULL,NULL,30.0000,1,NULL,NULL
+170873,3788,Aquaman: Battle for Atlantis,NULL,2003-07-23 00:00:00.000,1,NULL,NULL,NULL,35.0000,0
+194927,1998,AquaNox 2: Revelation,NULL,2003-08-19 00:00:00.000,2,NULL,NULL,NULL,75.0504,8
+161210,21558,Arc the Lad: Twilight of the Spirits,NULL,2003-03-20 00:00:00.000,3,NULL,80.0000,3,NULL,NULL
+90331,210366,Arcano: El juego de Galicia,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122781,49315,Archer Maclean's 3D Pool,NULL,2003-10-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185376,211,Armed and Dangerous,NULL,2003-12-02 00:00:00.000,9,NULL,82.5000,2,78.0028,14
+114048,50582,Army Men: Air Combat - The Elite Missions,NULL,2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,47.0000,0
+84223,217764,ASCII and the Argonauts,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+31187,143555,Ashita no Joe: Masshiro ni Moe Tsukiro!,NULL,2003-12-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176880,3789,Asterix & Obelix: Kick Buttix,"The story of the game involves Asterix and Obelix returning to their village in Gaul, after a day of hunting. They come to find that all their fellow village people have been captured. Along with their capture is also the theft of their magic potion, a potion that gives them superhuman strength. Caesar has captured the Gauls and spread them out to the furthest corners of the Roman Empire. Asterix and Obelix must find and free their friends and get the potion before it reaches Caesar.",2003-11-21 00:00:00.000,8,NULL,NULL,NULL,66.0453,16
+57680,143217,Asteroids Fighter,NULL,2003-06-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188001,6310,Astro Boy: Omega Factor,NULL,2003-12-18 00:00:00.000,1,NULL,NULL,NULL,70.1642,12
+189032,2641,Atari Anthology,NULL,2003-11-11 00:00:00.000,1,NULL,40.0000,2,NULL,NULL
+109642,49699,"Atelier Marie, Elie & Anis: Message on the Gentle Breeze","The two alchemists Marlone (most commonly refered to as ""Marie"") and Elfir ""Elie"" Traum run a workshop together on the Artisan's Way in the city of Salburg. It's not a big business, but their reputation is steadily going up. One day, their past teacher Ingrid requests them to write books for the new library that is being built. The library will be finished in 5 years, so they are requested to write at least one book every year during that time.
+
+During the years, Marie and Elie are introduced to Anis Ryftchen, a young alchemist studying to become a teacher. While Anis initially seems cheerful, it's soon revealed that she is overworking herself. Anis is struggling to keep up with both her work at the academy and her vision to write books for her school back in the Southern Country. Marie and Elie offers to help her, but this is ultimately up to the player to choose.",2003-01-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109641,26515,Atelier Violet: The Alchemist of Gramnad 2,NULL,2003-06-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14997,43826,Atlantis: The Lost Continent,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+105476,24091,Atlantis: Underwater Tycoon,NULL,2003-03-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144574,57848,ATV Mania,NULL,2003-07-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+131913,4173,ATV Quad Power Racing 2,NULL,2003-02-28 00:00:00.000,NULL,NULL,73.0000,2,51.0000,0
+181452,3790,ATV Quad Power Racing 2,NULL,2003-01-27 00:00:00.000,NULL,NULL,70.0000,1,NULL,NULL
+23609,62261,ATV Racers,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+19430,135869,Awexome Cross,NULL,2003-02-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189288,49444,Azumanga Daioh Advance,"The members came to visit Chiyo-chan's villa for summer vacation, and at Tomo-chan's suggestion, they decided to hold a ""Tomo-chan Contest Card Tournament"".",2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+45050,222493,Azumanga The Fighting T-Style,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+47272,222563,Azu-Race Taisen Battle He-Cho,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133772,218628,Babes & Balls Vol. 1: X-Treme Beach Volleyball,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133784,218629,Babes & Balls Vol. 2: X-Treme Beach Soccer,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+9027,28411,Backpacker 3,NULL,2003-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+123991,67805,Backyard Baseball (2003-2004),NULL,2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67975,49244,Backyard Hockey,NULL,2003-11-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+158712,5734,Backyard Wrestling: Don't Try This at Home,NULL,2003-10-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+74548,49490,Bakuten Shoot Beyblade 2002: Daichi Version,NULL,2003-01-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188745,49489,Bakuten Shoot Beyblade 2002: Takao Version,NULL,2003-01-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98276,43879,Ballerburg: Castle Chaos,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29198,6318,Banjo-Kazooie: Grunty's Revenge,"Two months have passed since Gruntilda fell from her tower, putting the events of the game before those of Banjo-Tooie in the timeline, and she is still trapped beneath the boulder. After trying to push the boulder off of herself, her loyal henchman Klungo decides that a different plan of action is required, so he builds a Gruntilda-shaped robot, the Mecha-Grunty, into which Gruntilda's spirit transfers. While her real body would still be stuck underground, she could now initiate a scheme of revenge against Banjo and Kazooie at will. Kidnapping Kazooie, she goes back in time (supposedly 20 years, although the actual amount of time is unknown) with the plan to prevent the bear and bird duo from ever meeting in order to erase her prior defeat from history and restoring her to her previous self.",2003-09-12 00:00:00.000,5,NULL,65.5000,2,43.0784,17
+110443,218954,Bara no Ki ni Bara no Hanasaku Fandisk,NULL,2003-09-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+124985,3310,Barbie Horse Adventures: Blue Ribbon Race,NULL,2003-09-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+112186,125306,Barbie Horse Adventures: Mystery Ride,NULL,2003-09-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+119381,3311,Barbie Horse Adventures: Wild Horse Rescue,NULL,2003-11-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+46785,43884,Barbie: Gotta Have Games,NULL,2003-12-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160663,200596,Barbie: Treasures in Time,NULL,2003-06-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+68798,175120,Baskelian,NULL,2003-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178614,56973,Basketball Xciting,NULL,2003-05-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+99094,49487,Bass Tsuri Shiyouze!: Tournament wa Senryaku da!,NULL,2003-01-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+116620,3795,Baten Kaitos: Eternal Wings and the Lost Ocean,"The existence of Earth, a planet of continents surrounded by deep oceans, has long become a mere legend. People live now on islands which are floating high in the skies. They also have wings - ""Wings of the Hearts"" - growing on their backs. Kalas is a young man who was born only with one wing - he replaces the second with an artificial wing manufactured by great masters. He is on a quest to find the murderers of his grandfather and his brother. He meets a girl named Xelha, who is out to stop an evil conspiracy that threatens the country, and they join forces against the newly appeared evil.",2003-12-05 00:00:00.000,4,NULL,80.0000,2,87.6756,15
+148443,5738,Batman: Dark Tomorrow,NULL,2003-03-18 00:00:00.000,NULL,NULL,NULL,NULL,39.0000,4
+141589,197871,Batman: Rise of Sin Tzu,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+114488,5739,Batman: Rise of Sin Tzu,NULL,2003-10-16 00:00:00.000,1,NULL,67.3333,4,39.5634,7
+102858,69699,Batman: Toxic Chill,NULL,2003-10-03 00:00:00.000,2,2,NULL,NULL,NULL,NULL
+53049,5741,Battle Engine Aquila,NULL,2003-01-20 00:00:00.000,1,NULL,80.0000,3,NULL,NULL
+137631,17427,Battle Mages,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0
+58039,49486,Battle x Battle: Kyoudai Uo Densetsu,NULL,2003-10-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+33325,6321,BattleBots: Design & Destroy,NULL,2003-08-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+126904,5744,Battlestar Galactica,NULL,2003-11-19 00:00:00.000,NULL,NULL,33.3333,4,NULL,NULL
+36947,52450,Beach Soccer,NULL,2003-03-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+100565,43900,Bear in the Big Blue House,NULL,2003-01-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+69715,81505,beatmania IIDX 9th style,NULL,2003-06-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+120110,46623,Beats of Rage,NULL,2003-11-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+43724,117668,Beetle Ju,NULL,2003-05-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175874,203149,Ben 10: Power Splash,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+150052,206281,Best of Poker,NULL,2003-10-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180437,49164,Beyblade VForce: Ultimate Blader Jam,NULL,2003-12-18 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+162648,44860,BeyBlade: Let It Rip!,NULL,2003-01-05 00:00:00.000,4,NULL,NULL,NULL,52.3077,7
+5243,1341,Beyond Good & Evil,"Jade and Pey'j are care-taking the children of Hillys orphaned by the DomZ. When Jade runs out of money to run the shield that protects them, she finds a photography job, cataloguing all the species on Hillys for a science museum. She is recruited by the IRIS Network, which suspects that the Alpha Sections are behind planet-wide disappearances. Jade's first target of investigation is an Alpha Sections factory.",2003-11-11 00:00:00.000,154,NULL,90.6000,6,86.4013,285
+140561,128445,Bicycle Board Games,NULL,2003-10-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+95984,178205,Big Brother Brasil 3D Online,NULL,2003-02-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+60585,43878,Big League Slugger Baseball,NULL,2003-08-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+23846,7557,Big Rigs: Over the Road Racing,NULL,2003-11-20 00:00:00.000,2,NULL,NULL,NULL,10.8461,19
+149663,43892,Big Strike Bowling,NULL,2003-04-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188434,216262,Bike Banditz,NULL,2003-08-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+19886,67425,Billy Frontier,NULL,2003-07-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+139476,3810,Billy Hatcher and the Giant Egg,NULL,2003-09-23 00:00:00.000,4,NULL,70.0000,1,70.3677,12
+71023,3811,Bionicle: The Game,NULL,2003-09-01 00:00:00.000,4,NULL,43.0000,1,63.4919,9
+92312,3819,Black & Bruised,NULL,2003-01-26 00:00:00.000,NULL,NULL,NULL,NULL,46.0000,1
+999,5750,Black Stone: Magic & Steel,NULL,2003-03-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14831,102073,Blade & Sword,NULL,2003-12-22 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+14148,193611,Blade & Sword,NULL,2003-12-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+127010,10242,Blitzkrieg,NULL,2003-06-04 00:00:00.000,4,NULL,71.0000,1,NULL,NULL
+76494,178552,Blob Wars: Metal Blob Solid,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145357,24104,Bloody Roar 4,NULL,2003-11-11 00:00:00.000,7,NULL,86.0000,1,79.4547,10
+195745,3825,BlowOut,NULL,2003-10-28 00:00:00.000,NULL,NULL,60.0000,1,30.0000,1
+53954,7973,Blue's Clues Kindergarten,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152197,69970,Blue's Clues: Blue Takes You to School,NULL,2003-08-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147138,182407,Blupimania 2,NULL,2003-07-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+46519,47009,Bob the Builder: Bob's Castle Adventure,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+27665,49531,Boboboubo Boubobo: Majide!!? Shinken Shoubu,NULL,2003-09-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149759,6326,Boktai: The Sun Is in Your Hand,"Following in his father's footsteps, you play Django the vampire hunter, who uses the power of the sun to defeat the many evil beings that infest the world. Search out the various levels for the evil inside, and destroy the immortal that rules the area to complete the level.",2003-07-16 00:00:00.000,4,NULL,91.0000,1,71.9427,7
+148994,213956,Bomba: The Explosive Hero,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71743,22280,Bombastic,NULL,2003-09-27 00:00:00.000,NULL,NULL,81.0000,2,NULL,NULL
+87764,64337,Bomberman Collection,NULL,2003-03-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+165770,198055,Bomberman Jetters Vol. 1,NULL,2003-04-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+167929,49528,Bomberman Jetters: Game Collection,NULL,2003-11-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51690,3834,Bomberman Land 2,NULL,2003-07-17 00:00:00.000,NULL,NULL,NULL,NULL,60.0000,0
+154096,56467,Bomberman Selection,NULL,2003-04-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+8988,93086,Bontãgo,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179248,8325,Bookworm,NULL,2003-02-25 00:00:00.000,1,NULL,65.0000,2,40.8010,9
+118566,6717,Border Down,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85769,49527,Bouken Yuuki Pluster World: Densetsu no Plust Gate,NULL,2003-05-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85202,49525,Bouken Yuuki Pluster World: Pluston GP,NULL,2003-05-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+156940,206472,Bowling Mania,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+182748,43425,Boxing Champions,NULL,2003-12-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157714,206491,Bridge 3000,NULL,2003-05-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+17166,10064,Bridge It,NULL,2003-09-25 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+194971,1151,Broken Sword: The Sleeping Dragon,"Powerful seismic events are shaking the world. Something sinister is emerging. An Ancient Conspiracy, the Secret of the Templars, and a fiendish source of pure Evil are responsible. The death of a back bedroom computer hacker in Paris is just the beginning of another extraordinary adventure for George Stobbart and Nico Collard. Welcome to the world of Broken Sword.",2003-11-14 00:00:00.000,16,NULL,60.0000,2,71.9158,63
+148823,6339,Bruce Lee: Return of the Legend,NULL,2003-03-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174152,5759,Brute Force,"The confederation knows your the best at what you do. That's why you and three others have been been chosen for an elite squadron. Sniper, Assault Trooper, Scout, Alien Warrior. Alone, each of you is deadly. United. You are an unstoppable war machine.
+
+Welcome to the newly commissioned 23rd special forces unit. Code Name: Brute Force.",2003-05-27 00:00:00.000,3,NULL,78.0000,4,68.9545,12
+151621,165522,Buccaneer,NULL,2003-08-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+30505,71558,Bud Redhead: The Time Chase,"One day Bud and Rachel were walking in a park when suddenly some strange green-furred creature jumped out of a bright flash of light. The creature grabbed Rachel and ran into the light which then disappeared. 
+ 
+Bud is desperate! Only YOU can help him to rescue Rachel! 
+ 
+Take a journey with Bud through space and time in pursuit of Feyatta, a well known green-furred intergalactic abductor. Your quest will lead you to 4 different places in space-time continuum: from the forest more than 8000 years ago, over Ancient Egypt and Medieval Castles, to a Space Ship orbiting Saturn a couple of million years in the future!",2003-12-31 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+70555,3837,Buffy the Vampire Slayer: Chaos Bleeds,NULL,2003-08-27 00:00:00.000,NULL,NULL,64.5000,3,69.0000,3
+49602,6343,Buffy the Vampire Slayer: Wrath of the Darkhul King,NULL,2003-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133320,19413,Bujingai: The Forsaken City,NULL,2003-12-25 00:00:00.000,1,NULL,74.0000,1,NULL,NULL
+173378,50570,Bust-A-Move 3000,NULL,2003-03-12 00:00:00.000,NULL,NULL,NULL,NULL,65.0000,1
+139116,3841,Butt-Ugly Martians: Zoom or Doom,NULL,2003-05-10 00:00:00.000,NULL,NULL,NULL,NULL,28.0000,0
+87462,5762,C.A.T.: Cyber Attack Team,NULL,2003-07-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+73631,23702,Cabela's 4X4 Off-Road Adventure 3,NULL,2003-07-18 00:00:00.000,NULL,NULL,63.5000,2,NULL,NULL
+168714,5763,Cabela's Dangerous Hunts,NULL,2003-11-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+49248,5764,Cabela's Deer Hunt: 2004 Season,NULL,2003-08-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+118254,209774,Cabela's GrandSlam Hunting: 2004 Trophies,NULL,2003-08-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166237,621,Call of Duty,NULL,2003-10-29 00:00:00.000,189,NULL,86.6667,4,82.2125,565
+102710,64489,Capcom Arcade Hits Volume 1,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+171604,86343,Capcom vs. SNK 2 EO,NULL,2003-07-04 00:00:00.000,NULL,NULL,NULL,NULL,73.0000,2
+133022,49519,Cardcaptor Sakura: Sakura Card de Mini-Game,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51327,43284,Cardinal Arc: Konton no Fuusatsu,NULL,2003-09-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186098,49308,Carrera Power Slide,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+120234,130744,Cartoon Cartoon Summer Resort,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14249,2810,Cartoon Network Speedway,NULL,2003-11-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176092,35438,Casino Inc,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,1
+42772,4149,Castle Shikigami 2,NULL,2003-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+159108,1134,Castlevania: Aria of Sorrow,NULL,2003-05-06 00:00:00.000,29,NULL,86.0000,2,87.9381,150
+167405,1135,Castlevania: Lament of Innocence,"Lament of Innocence is set in the fictional universe of the Castlevania series. Set in 1094, it focuses on the origins of the series' premise—the conflict between the vampire-hunting Belmont clan and the vampire Dracula. The protagonist and primary player character of Lament of Innocence is Leon Belmont, a former baron and member of the Belmont clan. His close friend, Mathias Cronqvist, tells him that Leon's betrothed, Sara, is being held captive by the vampire Walter Bernhard. During the game, he encounters Rinaldo Gandolfi, an alchemist and resident of the forest outside Walter’s castle.
+
+Arriving on the castle grounds, Leon meets Rinaldo, who gives him a whip crafted by alchemy to assist in killing the monsters and enchants his gauntlet so he is able to use magic relics within the castle. Leon also learns that he must defeat five monsters to gain access to Walter's throne room. Arriving at the castle, Leon proceeds to defeat the five monsters, including Joachim, a vampire kept prisoner in the castle by Walter. Before dying, Joachim mentions the Ebony and Crimson Stones, both of which are created from alchemy, and explains to Leon that the Ebony Stone can produce darkness. From Rinaldo, Leon learns that the Crimson Stone converts the souls of vampires into power for its holder.
+
+After Leon reaches Walter’s quarters, he rescues Sara and attempts to slay him with the whip, to no effect. At Rinaldo's cottage, it is revealed that Sara is slowly becoming a vampire. Rinaldo reveals that Leon must sacrifice Sara to make the whip effective against Walter. Overhearing their conversation, Sara begs him to kill her and use her soul to save others from suffering her fate. Leon reluctantly completes the ritual, creating the Vampire Killer whip.
+
+Devastated by the loss of Sara, Leon returns to the castle to confront Walter and defeats him. Death takes Walter's soul and offers it up to Mathias; Mathias appears and reveals he had orchestrated everything to obtain his soul and convert it into power for himself using the Crimson Stone. Mathias explains that he chose immortality as a vampire so he could curse God for taking away his beloved wife. He offers Leon the same, but a disgusted Leon refuses. Mathias orders Death to kill Leon, but Leon defeats Death, vowing that the Belmont clan will hunt down Mathias and destroy him one day. The game's epilogue reveals that Mathias became Dracula, the series' main antagonist.",2003-10-21 00:00:00.000,9,NULL,78.0000,3,79.2965,35
+171362,165201,Castleween,"Alicia and Greg set off with their friends one Halloween night to look for a house in the forest where they could stock up on goodies. Upon reaching the house, Greg and Alicia's friends are turned into stone by a bogeyman. To save their friends, the two heroes must enter the world of the dead. In order to find their friends and set them free, they need to make it through cemeteries, haunted houses and sinister laboratories. Only one person at a time is allowed to enter the world of the dead, so Alicia and Greg must take turns in order to make their way through the danger that awaits them. Friends like the Goblin and Jack O'Lantern will teach them magic tricks that will help them to overcome obstacles along the way. They must find the Mad Scientist's laboratory to get their friends home safe and sound.",2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+161057,5768,Celebrity Deathmatch,NULL,2003-10-14 00:00:00.000,3,NULL,59.0000,1,39.7335,9
+137856,165845,Cement Mixer Simulator 2003,NULL,2003-03-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67569,64399,Centipede & Battlezone,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+1363,49641,Cesti to Meigurumi-tachi no Mahou no Bouken: Kisekko Gurumii,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146638,66743,ChainDive,NULL,2003-10-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+151951,18870,Championship Manager 4,NULL,2003-03-01 00:00:00.000,5,NULL,100.0000,1,89.9260,17
+161423,628,Championship Manager: Season 03/04,NULL,2003-11-21 00:00:00.000,1,NULL,NULL,NULL,71.0483,13
+156453,2917,Chaos Legion,NULL,2003-03-06 00:00:00.000,5,NULL,60.5000,2,60.4413,9
+591,3854,Charinko Hero,NULL,2003-07-17 00:00:00.000,NULL,NULL,NULL,NULL,16.0000,0
+136100,23708,Chariots of War,NULL,2003-03-01 00:00:00.000,NULL,NULL,60.0000,2,NULL,NULL
+114970,3855,Charlie's Angels,NULL,2003-07-04 00:00:00.000,NULL,NULL,19.0000,2,21.0000,2
+186273,84336,Charlie's Angels,NULL,2003-07-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176417,206920,Charlie's Angels: Angel X,NULL,2003-06-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+151881,11272,Chaser,"Mars, 2044. The UN establishes MARSCORP (Martian Security and Economics Committee) under the leadership of Samuel Longwood. In the years that follow, the UN gradually loses control of MARSCORP, mainly due to the non-transparent licence policy of its director. Longwood uses his autonomous status to create vassal relations between the corporations and MARSCORP. The unshakable power position of MARSCORP is supported by the companies and thus they acquire additional rights and licenses. Longwood and his consortium become extremely wealthy from this arrangement. However, dissenting voices in MARSCORP begin to challenge Samuel Longwood's authoritarian policy. They demand his dismissal as director and a complete redistribution of the mining rights.
+But Samuel Longwood keeps an ace up his sleeve for occasions like this…
+John Chaser is a man without memory or friends. Alone, in the middle of a bloody conflict, he is trying to find out who he is. His extraordinary fighting abilities enable him to survive, but they raise more questions than they answer. Chaser awakens on board the spaceship H.M.S. Majestic. He doesn't know who he is, what he's doing here, why he is being sought by men in black uniforms and what they will do to him when they find him…
+The player's goal is to find out who Chaser really is and why he is being hunted. The story leads the player from the H.M.S. Majestic to Montack City on Earth, then on to Siberia and finally to Mars, where the trail ends and hopefully the truth can be found.",2003-08-22 00:00:00.000,1,NULL,69.5000,2,64.3749,17
+168962,18873,Chicago 1930,NULL,2003-12-31 00:00:00.000,3,NULL,NULL,NULL,50.0000,4
+26942,4762,Chicken Shoot,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+36109,27706,Chicken Shoot Gold,NULL,2003-11-01 00:00:00.000,1,NULL,NULL,NULL,50.0000,2
+25963,43418,Cho Aniki: Seinaru Protein Densetsu,NULL,2003-11-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+34879,65457,Chobits: Chii Dake no Hito,NULL,2003-05-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+75383,194712,"Chocolat: Maid Cafe ""Curio""",NULL,2003-12-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186367,27073,ChoroQ,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+190274,7873,Chrome,NULL,2003-10-28 00:00:00.000,5,NULL,59.5000,2,50.7438,10
+105722,6348,CIMA: The Enemy,NULL,2003-11-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+121150,50427,Cinderella's Castle Designer,NULL,2003-03-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+77695,80402,City of Secrets,NULL,2003-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+154887,70075,Clifford the Big Red Dog: Phonics,NULL,2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+154329,170007,Clu Clu Land-e,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+41829,22246,Club Football,NULL,2003-10-10 00:00:00.000,NULL,NULL,30.0000,1,NULL,NULL
+160996,185822,Codename: Kids Next Door - Ice Creamed,NULL,2003-09-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160983,185823,Codename: Kids Next Door - Numbuh Generator,NULL,2003-09-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122492,185820,Codename: Kids Next Door - Operation S.T.A.R.T.U.P.,NULL,2003-09-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175304,52521,Cold Zero: The Last Stand,NULL,2003-08-22 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+30433,110319,Collector's Edition: 251 Awesome Games!,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+48132,649,Command & Conquer: Generals,NULL,2003-02-10 00:00:00.000,65,NULL,NULL,NULL,80.3951,176
+117370,87190,Command & Conquer: Generals - Deluxe Edition,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,2
+191973,477,Commandos 3: Destination Berlin,"Prepare to take the Commandos on their deadliest mission yet. From the shores of France to the heart of the Third Reich, strike fast from land and sea with your small squad of elite special forces infiltrating hostile territories to disrupt the German war machine. These men are the best the Allies have - are you prepared to lead them to victory?",2003-10-14 00:00:00.000,31,NULL,70.0000,2,75.1278,69
+148207,3864,Conflict: Desert Storm II,NULL,2003-09-19 00:00:00.000,2,NULL,62.5000,2,70.2645,12
+161022,1336,Contract J.A.C.K.,NULL,2003-11-11 00:00:00.000,4,NULL,55.0000,1,67.7955,10
+134920,5788,Corvette,NULL,2003-11-11 00:00:00.000,NULL,NULL,50.0000,1,NULL,NULL
+65367,51760,Cossacks Anthology,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+54588,76822,Counter-Strike Neo,NULL,2003-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+184864,1198,Crash Bandicoot 2: N-Tranced,NULL,2003-01-07 00:00:00.000,4,NULL,60.0000,2,73.7029,13
+56103,210237,Crash Nitro Kart,NULL,2003-11-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+105160,1193,Crash Nitro Kart,NULL,2003-11-11 00:00:00.000,7,NULL,77.0000,2,69.3480,55
+122453,68235,Crazy Chicken: Pharaoh's Treasure,NULL,2003-12-31 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+91455,78882,Crazy Chicken: X,NULL,2003-05-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122629,1808,Crazy Taxi: Catch a Ride,NULL,2003-04-09 00:00:00.000,NULL,NULL,40.0000,1,NULL,NULL
+81815,125491,Crimson Alive: Burst Again,NULL,2003-12-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133321,5793,Crimson Skies: High Road to Revenge,"You take the role of the daring air pirate Nathan Zachary, leader of the infamous Fortune Hunters. The high-flying adventure's single player campaign is filled with escapes, defense/escort missions and dogfights. You can take on friends over Xbox Live! as well.",2003-10-21 00:00:00.000,4,NULL,94.0000,3,77.6489,13
+102784,49551,Croket! 2: Yami no Bank to Ban Joou,NULL,2003-08-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+126308,5794,"Crouching Tiger, Hidden Dragon",NULL,2003-11-28 00:00:00.000,NULL,NULL,53.7500,5,NULL,NULL
+138704,50394,Cruise Ship Tycoon,NULL,2003-07-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147861,64564,Crystal Mines II: Buried Treasure,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+171838,5795,CSI: Crime Scene Investigation,NULL,2003-03-26 00:00:00.000,2,NULL,80.0000,1,69.7906,11
+172934,6353,CT Special Forces 2: Back in the Trenches,NULL,2003-06-01 00:00:00.000,NULL,NULL,78.0000,1,NULL,NULL
+91289,45103,CT Special Forces: Back to Hell,NULL,2003-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+25476,27560,CTU: Marine Sharpshooter,"Marine Sharpshooter's story details the adventures of Lieutenant Smith and Sergeant Cooper, a Marine scout sniper, team as they chase down some warlords in Afghanistan and follow the trail of lost nuclear materials. The player assumes the role of the sniper, as you take on an army of terrorists and mercenaries in order to prevent nuclear holocaust.",2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+119677,50317,Cue Club,NULL,2003-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98754,22100,Culdcept,NULL,2003-12-25 00:00:00.000,NULL,NULL,89.0000,2,NULL,NULL
+195215,10118,Cultures: 8th Wonder of the World,NULL,2003-08-15 00:00:00.000,1,NULL,NULL,NULL,60.0000,2
+144919,3867,Curious George,NULL,2003-12-11 00:00:00.000,2,NULL,40.0000,1,36.0000,3
+23986,23696,Curse of Atlantis: Thorgal's Quest,NULL,2003-05-21 00:00:00.000,NULL,NULL,51.0000,1,NULL,NULL
+93672,5796,Curse: The Eye of Isis,NULL,2003-10-21 00:00:00.000,1,NULL,64.5000,2,70.0000,2
+118237,49547,Cyber Drive Zoids: Hatakedamono no Senshi Hugh,NULL,2003-08-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+87421,19252,Cyber Troopers Virtual-On Marz,NULL,2003-05-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+22897,94644,Cycling Manager 3,NULL,2003-06-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+13412,67374,D.N. Angel: Crimson Wings,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79726,196867,Dairantou Kanoair Smash 2002,NULL,2003-01-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113026,3868,Dakar 2: The World's Ultimate Rally,NULL,2003-03-07 00:00:00.000,NULL,NULL,51.5000,2,48.0000,0
+106690,44846,Dalmatians 2,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98185,139244,Dance Dance Revolution Party Collection,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+3541,47301,Dance Dance Revolution: Ultramix,NULL,2003-12-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+40173,95455,Dance: UK,NULL,2003-10-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+43187,73949,Dancing Stage Fever,NULL,2003-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+5700,49252,Dancing Sword: Senkou,NULL,2003-04-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166217,18254,Daredevil,NULL,2003-02-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113730,40687,Dark Mage,NULL,2003-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+99936,7551,Day of Defeat,NULL,2003-05-01 00:00:00.000,13,NULL,70.5000,3,76.0783,38
+150422,1390,Dead or Alive Xtreme Beach Volleyball,"Zack gambles his winnings from the Dead or Alive 3 tournament at a casino. In the process, he hits the jackpot, earning a ridiculously large sum of money. The money is used to purchase a private island, which he promptly turns into a resort named after himself (""Zack Island""). He then invites the women from the previous tournament (along with one newcomer — his girlfriend, Niki) to his island under the pretense that the next Dead or Alive tournament will be held there. The women arrive and after discovering the truth, (namely that it was merely a hoax) decide to make the best of the situation by spending two weeks vacationing on the island.",2003-01-22 00:00:00.000,2,NULL,30.0000,3,56.7040,17
+148032,768,Decisive Battles of WWII: Korsun Pocket,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+84715,50451,Deep Sea Tycoon,NULL,2003-12-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+15811,262,Deer Hunter 2004,NULL,2003-10-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136367,3874,Def Jam Vendetta,NULL,2003-04-01 00:00:00.000,4,NULL,30.0000,2,71.2418,8
+48249,64928,Deka Voice,NULL,2003-02-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92752,5812,Delta Force: Black Hawk Down,NULL,2003-03-23 00:00:00.000,10,NULL,68.2500,4,71.2503,45
+136771,27481,Delta Ops: Army Special Forces,NULL,2003-07-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+111241,39445,Demolish Fist,NULL,2003-07-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145248,6371,Densetsu no Starfy 2,NULL,2003-09-05 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+61251,49540,Derby Stallion Advance,NULL,2003-01-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+55095,9820,Desert Thunder,NULL,2003-11-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+7043,49694,Detective Conan: Nerawareta Tantei,NULL,2003-08-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109152,42,Deus Ex: Invisible War,NULL,2003-12-02 00:00:00.000,24,NULL,80.0000,4,63.0237,85
+101684,97094,Deus Machina Demonbane,NULL,2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176660,9274,Devastation,NULL,2003-03-28 00:00:00.000,4,1,NULL,NULL,50.1607,8
+155014,135,Devil May Cry 2,"Set in modern times in the fictional Vie de Marli island, the story centers on demon hunter Dante and island guardian Lucia in their fight to stop a businessman named Arius from raising the demon Argosax and achieving supreme power.",2003-01-25 00:00:00.000,28,NULL,49.6000,7,56.1248,163
+37792,43409,Devil May Cry 2: Limited Edition,NULL,2003-02-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+7853,203830,Di Gi Charat Fantasy Excellent,"Take on the role of a boy with a crush on Dejiko who, along with Dejiko, Puchiko, and Rabi-en-Rose, gets sucked through a dimensional vortex into a fantasy world. The player finds himself alone with Dejiko in a forest, and she's lost her memory. In this game, players are given a very different view of Dejiko, as the amnesia makes her innocent and shy.",2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+116397,43702,Digimon World 2003,NULL,2003-12-15 00:00:00.000,3,NULL,NULL,NULL,80.0084,6
+184529,5813,Dino Crisis 3,"It is the year 2548 and it has been over more than 300 years since Earth lost contact with the colony spaceship Ozymandias on its trip to a². Somehow, it mysteriously reappeared near one of the moons of Jupiter. A team called S.O.A.R. (Special Operations And Reconnaissance) onboard the investigative Probe ship Seyfert are sent to investigate. A smaller shuttle lifts off from the Seyfert to investigate. Suddenly, the supership launches its turbo cannons at the Probe ship, destroying it. It then aims and fires at the shuttle. The weapon causes a large explosion, killing most of the troops and crew members aboard. Fortunately, a few of the team members of S.O.A.R., Patrick Tyler, McCoy, Sonya Hart and commander Jacob Ranshaw, were able to survive the blast and managed to board the ship. What will await them inside is just the beginning, if they can survive, rescue the other survivors and escape the bowels of the mysterious ship.",2003-06-26 00:00:00.000,4,NULL,30.0000,1,NULL,NULL
+121777,146923,Dino Crisis: Dungeon in Chaos,NULL,2003-11-04 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+102744,85950,Dinosaur Hunting,NULL,2003-09-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+84067,64455,Dinosaurs,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136210,3879,Dinotopia: The Sunstone Odyssey,"Dinotopia: The Sunstone Odyssey follows the story of Drake Gemini, his twin brother, Jacob, and their father, who have been stranded on Dinotopia for 10 years. At the beginning of the game, Drake and Jacob's father is attacked and killed by a rogue Tyrannosaurus while exploring the outer jungles of Dinotopia. After the killing, Drake and Jacob begin to go their separate ways, with Jacob joining a gang of dinosaur-hating humans called the Outsiders and Drake choosing to take on the role of a guardian of Dinotopia.",2003-07-23 00:00:00.000,NULL,NULL,NULL,NULL,34.0000,0
+33634,11403,Disciples II: Guardians of the Light,"A new threat is sweeping over the human lands while self-proclaimed leaders try to take control of the Empire. Meanwhile the Mountain Clans are trying to uncover an ancient ritual that will let them communicate with their god, Wotan.",2003-06-14 00:00:00.000,2,NULL,70.0000,2,NULL,NULL
+154904,11404,Disciples II: Rise of the Elves,NULL,2003-11-20 00:00:00.000,4,NULL,NULL,NULL,76.9431,11
+138587,11402,Disciples II: Servants of the Dark,NULL,2003-07-15 00:00:00.000,NULL,NULL,72.0000,2,NULL,NULL
+192449,11610,Disgaea: Hour of Darkness,"The story of Disgaea opens with Laharl rising out of an open coffin in his room. Etna, one of the castle vassals, is standing next to him, surrounded by various weapons. She explains that he has been sleeping for two years, far longer than he intended, and his father, King Krichevskoy, has died. Laharl vows to reclaim the throne, and, after consulting with Etna and his other vassals, goes to Vyers' castle.
+
+After defeating the demon Vyers, who refers to himself as the ""Dark Adonis"" and is renamed ""Mid-Boss"" by Laharl, he meets Angel Trainee Flonne. Flonne had been sent to the Netherworld by Seraph Lamington, the ruler of Celestia, to assassinate King Krichevskoy (who was already dead). Shocked by Laharl's lack of grief at his father's death, the eternally optimistic Flonne joins Laharl's party to determine if demons are capable of feeling love. Observing them in secret is the paranoid Archangel Vulcanus, who interprets Flonne's actions as treason and is convinced that she is plotting against him.
+
+After Etna demands that Laharl pay the salary of the Prinnies that she has hired, he decides to attack the demon with the most money in the vicinity. This is Hoggmeiser at Dinero Palace. After defeating Hoggmeiser, Laharl is about to kill him, until Hoggmeiser's son rushes out and gets in the way. Flonne convinces Laharl to spare them, and Laharl lets them keep some of the money. In response to this act, Hoggmeiser joins the party.
+
+At one point, Flonne and Etna discover a photograph of Laharl in an embarrassing situation. Laharl refers to this as a ""paparazzi shot"", however, the actual contents of the photo are never actually revealed. A threat on the back of the photograph states that copies of it would be distributed if Laharl did not accept a challenge to fight for the overlordship; thus Laharl was blackmailed.
+
+Responding to this challenge, Laharl meets Maderas, a vampire. He was banished by King Krichevskoy, for stealing the King's favorite snack, black pretzels. Maderas takes advantage of Laharl's two biggest weaknesses – optimism and women with sexy bodies. Maderas was also controlling Etna by holding her memory. He had instructed her to kill the prince, but she had put him to sleep for two years by poisoning him instead. Etna eventually betrays Maderas, and along with Laharl, Flonne, and Mid-Boss, defeats him.
+
+Waking up later at night, Flonne discovers that several Prinnies are chanting and leaving the castle. Laharl, worried that his reputation will be tarnished if it is discovered that he let his vassals escape, chases after them the next morning. Eventually, he runs into Death, and the player learns that Big Sis Prinny is actually Laharl's mother; she became a Prinny because she gave her life to save him.",2003-01-30 00:00:00.000,19,NULL,90.0000,2,85.0668,27
+10539,138359,Disney Hotshots Arcade Frenzy: Mushoot / Rooftop Ruckus,NULL,2003-01-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+4245,4066,Disney Presents: Piglet's Big Game,NULL,2003-02-02 00:00:00.000,NULL,NULL,75.0000,2,53.0000,3
+131695,79718,Disney Princess,NULL,2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141523,50426,Disney Princess Royal Horse Show,NULL,2003-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147241,49304,Disney Sports Snowboarding,NULL,2003-03-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+106593,49305,Disney Sports: Motocross,NULL,2003-05-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+68152,78481,Disney/Pixar Finding Nemo,NULL,2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+187707,3781,Disney/Pixar Finding Nemo,NULL,2003-05-09 00:00:00.000,4,NULL,61.0000,3,61.3241,17
+173186,210734,Disney/Pixar Finding Nemo,NULL,2003-05-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+173043,43737,Disney's 101 Dalmatians II: Patch's London Adventure,NULL,2003-11-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138230,49409,Disney's Brother Bear,NULL,2003-11-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136035,3883,Disney's Extreme Skate Adventure,NULL,2003-09-03 00:00:00.000,4,NULL,NULL,NULL,78.7002,12
+145063,3885,Disney's Hide and Sneak,NULL,2003-12-04 00:00:00.000,NULL,NULL,NULL,NULL,36.0000,0
+79563,188634,Disney's Magical Quest 2 Starring Mickey & Minnie,NULL,2003-07-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+167888,6381,Disney's Magical Quest 3 Starring Mickey & Donald,NULL,2003-11-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145896,142431,Disney's Mahjongg,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+36963,49405,Disney's The Haunted Mansion,NULL,2003-10-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+128839,49463,Disney's The Jungle Book 2,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176611,79813,Disney's The Lion King 1½,NULL,2003-10-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+62132,104988,Diver Down,NULL,2003-12-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122971,141017,Divine Intervention (Pt. 1),NULL,2003-10-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58488,21953,Does Blood: VR,NULL,2003-06-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160636,22251,Dog's Life,NULL,2003-10-31 00:00:00.000,1,NULL,60.0000,1,40.2456,11
+91116,3888,Dokapon DX: Wataru Sekai wa Oni Darake,NULL,2003-04-10 00:00:00.000,NULL,NULL,NULL,NULL,33.0000,0
+150172,3114,Dolphin Blue,NULL,2003-01-01 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+132607,170016,Donkey Kong 3-e,NULL,2003-04-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186725,150028,Donkey Kong Country,"On a dark and stormy night in Donkey Kong Island, Diddy Kong, Donkey Kong's nephew has taken the weighty responsibility of guarding DK's precious banana hoard for one night, as a part of his ""hero training"". DK entrusts Diddy with protecting the hoard until midnight, when he would be relieved, while DK himself goes to sleep as he is tired.
+
+Everything seems to go smoothly in the hoard until Diddy hears some noises. Diddy hears some voices outside and gets scared, asking who's there. King K. Rool, who had commanded his Kremling minions to steal the bananas. Two ropes drop from above and suddenly two Kritters appear. Diddy cartwheels them both easily, but then a Krusha (Klump in the instruction booklet) comes in as backup. As Diddy is not strong enough to defeat Krusha by himself, he is overpowered and defeated by the Kremling. The lizars seal Diddy inside a barrel and then throw it in the bushes.
+Donkey's grandfather, Cranky Kong, rushes inside the treehouse to tell Donkey Kong to wake up so he may tell him what happened. He then tells Donkey to check his Banana Cave. Donkey Kong is infuriated, exclaiming that the Kremlings will pay for stealing his banana hoard and kidnapping his little buddy. Donkey goes on to say that he will hunt every corner of the island for his bananas back.",2003-06-06 00:00:00.000,NULL,NULL,79.5000,2,NULL,NULL
+90127,3889,Donkey Konga,NULL,2003-12-12 00:00:00.000,3,NULL,60.0000,1,70.8422,19
+116199,73175,Dora the Explorer: Barnyard Buddies,NULL,2003-11-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+183628,49201,Dora the Explorer: The Search for Pirate Pig's Treasure,NULL,2003-01-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180017,50587,Doraemon: Minna de Asobou! Minidorando,NULL,2003-08-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+45333,6384,Double Dragon Advance,NULL,2003-11-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185369,124007,Doubutsu no Mori e+,NULL,2003-06-27 00:00:00.000,NULL,NULL,NULL,NULL,74.0000,2
+51925,49264,Doubutsu no Shima no Chobi Gurumi,NULL,2003-09-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+181573,6340,Downhill Domination,NULL,2003-07-22 00:00:00.000,2,NULL,75.0000,2,76.1321,11
+175743,3858,Downtown Run,NULL,2003-03-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+170876,5814,Dr. Seuss' The Cat in the Hat,NULL,2003-11-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+3214,38662,Dragon Ball,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+28402,2564,Dragon Ball Z: Budokai 2,NULL,2003-11-13 00:00:00.000,6,NULL,74.0000,2,71.9980,54
+183132,2580,Dragon Ball Z: Taiketsu,NULL,2003-11-24 00:00:00.000,2,NULL,40.0000,1,19.9426,8
+189278,19834,Dragon Ball Z: The Legacy of Goku II,"The plot of the game picks up where The Legacy of Goku left off, and continues until the end of the Cell Games Saga when Gohan defeats the evil android Cell.",2003-06-17 00:00:00.000,4,NULL,76.0000,2,72.8329,33
+75800,3897,Dragon Drive: D-Masters Shot,NULL,2003-03-30 00:00:00.000,NULL,NULL,NULL,NULL,23.0000,0
+154551,49174,Dragon Drive: World D Break,NULL,2003-08-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+88472,6388,Dragon Quest Monsters: Caravan Heart,NULL,2003-03-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+120195,48685,Dragoon X Omega,NULL,2003-02-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122047,5815,Drake of the 99 Dragons,NULL,2003-11-03 00:00:00.000,NULL,NULL,30.0000,1,50.0000,2
+194775,11635,Drakengard,NULL,2003-09-11 00:00:00.000,11,NULL,70.0000,1,67.4734,40
+69948,49608,Dream Management,NULL,2003-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+1011,3899,DreamMix TV World Fighters,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,54.0000,0
+170796,3902,Duel Masters,NULL,2003-12-18 00:00:00.000,NULL,NULL,75.0000,2,35.0000,1
+92144,9271,Dungeon Siege: Legends of Aranna,NULL,2003-11-11 00:00:00.000,7,NULL,90.0000,1,83.9070,24
+179993,5819,Dungeons & Dragons: Heroes,NULL,2003-09-17 00:00:00.000,1,NULL,60.0000,2,70.0000,5
+102093,50334,Duo Princess,NULL,2003-04-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71027,6843,Dynasty Tactics 2,NULL,2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+126917,3007,Dynasty Warriors 4,"Dynasty Warriors 4 is set in Ancient China during the time of the Three Kingdoms era. The game begins at the fall of the Han Dynasty, shortly after the death of Emperor Ling when the Yellow Turban Rebellion led by Zhang Jiao begun an uprising against the Empire. A number of elements in the game build on aspects of Chinese Mythology and there is a mix between fact and fiction as the game is built on the story of Romance of the Three Kingdoms.
+
+Many of the locations, characters, and events in Dynasty Warriors 4 are reported to have happened in Chinese history although many have been exaggerated to make the game more appealing to the player. There are also some features that are historically inaccurate such as Zhou Tai’s weapon, a Japanese tachi, as there is no historical record of this kind of weapon being used in that era. The game features environments resembling that of ancient China and various items from the era. Common items throughout the game include Fairy Wine and Dim Sum’s.",2003-02-27 00:00:00.000,6,NULL,60.0000,1,65.3298,29
+141580,19631,Dynasty Warriors 4: Xtreme Legends,NULL,2003-09-25 00:00:00.000,2,NULL,NULL,NULL,60.0663,5
+175764,44985,E.T. The Extra-Terrestrial: Interplanetary Mission,NULL,2003-01-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143596,44947,Easter Bunny's Big Day,NULL,2003-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175077,2816,"Ed, Edd n Eddy: Jawbreakers!",NULL,2003-03-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175875,142288,"Ed, Edd n Eddy: Spin Stadium",NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179621,43610,Ejay Clubworld,NULL,2003-08-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109199,22633,Emergency Fire Response,NULL,2003-07-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136018,53999,Empire Earth: Gold Edition,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+135377,23699,Empire of Magic,NULL,2003-04-30 00:00:00.000,NULL,NULL,50.0000,2,NULL,NULL
+14786,678,Empires: Dawn of the Modern World,NULL,2003-10-21 00:00:00.000,2,NULL,80.0000,1,79.9956,8
+80946,142143,Energy Airforce: aimStrike!,NULL,2003-10-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+24501,24099,Enigma: Rising Tide,NULL,2003-08-25 00:00:00.000,NULL,NULL,90.0000,1,NULL,NULL
+170243,92750,Enigmo,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+121731,1003,Enter the Matrix,"The game was written and directed by the Wachowski brothers, and its plot is intertwined with that of the second movie, The Matrix Reloaded. Enter The Matrix casts the player as Niobe or Ghost, captain and first mate of the rebel ship Logos, respectively. Niobe is a master combatant, capable of beating up everyone in her way. She is an excellent pilot, both in the real world and in the Matrix. Ghost is very adept at firearms, and his marksmanship is a mastery. Both characters are very athletic, and throughout the game the player will have to walk, run, jump, strafe, peek, run on walls, climb ladders and pipes, and fight various enemies.",2003-05-14 00:00:00.000,21,NULL,55.8333,8,62.7297,115
+117365,3086,Entropia Universe,NULL,2003-01-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+83825,217762,Episode in the Life of an Artist,NULL,2003-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179670,45081,Equestrian Showcase,NULL,2003-06-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+125428,83808,Espgaluda,NULL,2003-11-14 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+41834,5823,ESPN College Hoops,NULL,2003-11-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+4068,8833,ESPN NBA Basketball,NULL,2003-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+112970,8847,ESPN NFL Football,NULL,2003-09-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+39388,47349,ESPN NFL Football 2K4,NULL,2003-10-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157631,8841,ESPN NHL Hockey,NULL,2003-09-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+155492,11408,Etherlords II,"Ether is everywhere, it knows no boundaries. All life emerges from Ether and returns to it after death. It is the flow of Life and Death itself. You fought for dominance over this precious and powerful resource and claimed it for your own. A new threat emerges from the mists of Chaos, threatening the very fabric of existence. Heroes must be called from every corner of the land, armies trained,creatures summoned, and spells prepared. The war for Ether is rekindled and it’s up to you to win the battle, not just for yourself but for existence itself.",2003-10-01 00:00:00.000,3,NULL,70.0000,1,63.4565,20
+183062,211380,EVA 4 sim date rpg,NULL,2003-08-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147870,2584,EVE Online,"Set more than 21,000 years in the future, the background story of Eve Online explains that humanity, having used up most of Earth's resources through centuries of explosive population growth, began colonizing the rest of the Milky Way. As on Earth, this expansion also led to competition and fighting over available resources, but everything changed with the discovery of a natural wormhole leading to an unexplored galaxy subsequently dubbed ""New Eden."" Dozens of colonies were founded, and a structure, a gate of sorts (which bears the inscription ""EVE"" on the New Eden side), was built to stabilize the wormhole that linked the colonies of New Eden with the rest of human civilization. However, when the wormhole unexpectedly collapsed, it destroyed the gate as well as the connection between the colonies of New Eden and the Milky Way. Cut off from the rest of humanity and supplies from Earth, the colonies of New Eden were left starving and disconnected from one another; many died out entirely. Over the millennia the descendants of the surviving colonists managed to rebuild their own societies, but by this time the memories and knowledge of humanity's origins, of Earth and the Milky Way galaxy, as well as the history of the settling of New Eden, was lost; what little information that survived transmission over the generations was misunderstood, lost in translation, and/or consigned to mythology. Five major distinct societies rose to prominence from the surviving colonies, each growing into interstellar spaceflight-capable civilizations. The states based around these societies make up the five major factions in Eve Online: the Amarr Empire, the Caldari State, the Gallente Federation, the Minmatar Republic and the Jove Directorate.",2003-05-06 00:00:00.000,28,NULL,78.7500,7,77.1435,47
+169955,23742,EverQuest Online Adventures,NULL,2003-03-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140178,43374,EverQuest Online Adventures: Frontiers,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+82770,219100,Evil Dead Pinball,NULL,2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58302,5827,Evil Dead: A Fistful of Boomstick,"The game begins three years after the events of ""Hail to the King"". Ash Williams is telling the story of his battles with the Necronomicon Ex-Mortis to an Asian man, and then starts to tell the story of how he ended up with the man in the first place through a series of flashbacks.
+
+Dearborn, Michigan: Last Night
+A special ""Live"" episode of Mysteries of the Occult starts at the local KLA2 television station (a reference to the movie The Day the Earth Stood Still; KLA2 is pronounced ""Klaatu,"" the name of the protagonist.) Trisha Pettywood, a journalist out to expose the truth of the Necronomicon, is the host, with her guest, the parapsychologist and best-selling author Professor Alex Eldridge, a colleague of the late Professor Raymond Knowby, who has written a book based on the Necronomicon. Ash is sitting at his favorite bar in the red-light district, having a few drinks during the broadcast, and badmouths Eldridge, claiming that he wouldn't know the real Necronomicon from ""a roll of extra-fluffy two-ply"". The bartender, who apparently knows Ash, gives him a free drink, telling him that he is sorry about Jenny, a subject which is apparently still very painful for Ash. Trisha also mentions a local Dearborn man (namely Ash) who claims that the Necronomicon can raise the dead and interdimensionally travel through time, but Eldridge dismisses it as the sad, depraved ramblings of a lunatic, while also claiming that it is easy to get caught up in the book's mythology. Hearing this, a drunken Ash babbles on about his remark, and also about his fights with the Deadites and how he had to amputate his own right hand. Trisha has somehow obtained the tape recording of Professor Knowby, and plays it live as a ""treat"" to the viewers. Ash, knowing what will happen if they do so, shouts at them not to play it, but of course, they do not hear him. The Deadites are released into the world once more, and the Evil Force floats through town, right into the bar, and possesses the bartender who is promptly shot down by Ash who strangely has his boomstick with him.",2003-05-20 00:00:00.000,1,NULL,58.2500,6,NULL,NULL
+138771,63019,ExaSkeleton,"Joe is a competitor in the I.G-1, a mechanized combat sport game. One day, however, reality intrudes on his life, and he and his friends must leave the safety of home to fight on the blasted surface of Earth. His skills from the games, and his Exaskeleton, are the only things that can protect him now.
+
+Exaskeleton is a linear mech-combat game. Each mission in the game is book-ended by long, talking-head dialogue scenes between the various members of Joe's party. Before each mission the model of Joe's (as well as allies, if available) frame can be selected, either the nimble and weak Light Frame, the armored and slow Heavy Frame, or the in between Middle Frame. Two weapon slots are taken up by small arms, either a pistol, machine gun, or grenades, while the other two slots are taken up by more powerful weapons, like missile launchers, sniper riffles, and Gatling guns, with the most powerful only able to be equipped by a Heavy Frame. Weapons have limited ammo and overheat if fired continuously. Each body part of a frame is armored, and after the armor on a part is destroyed any additional damage to that part will damage the frame itself, until eventually the frame is destroyed.",2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+42080,61957,Exodus Guilty Vol. 1 Present,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29835,61955,Exodus Guilty Vol. 2 Past,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+21111,61954,Exodus Guilty Vol. 3 Future,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+165906,221978,eXtinction,"You are Nick Naster, the most talented and the best trained interplanetary agent. You've been chosen to stop an alien invasion and a virus infection on your home planet Tera 2. The scientists have discovered, that the virus infects human soldiers making them able to carry alien embryos inside them.
+
+Any contact with the planet's atmosphere will infect you unavoidably. You were given the last drops of the antidote, that was made, shortly before the biolabs on Zeta 2 have been destroyed. All records of the said antidote have been lost with it, there is no one to help you anymore.",2003-03-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+70841,46723,Extreme 500,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+100521,92099,ExZeus,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+165428,18724,EyeToy: Play,"A cool new gaming idea needs some cool games to play on it. So have a look at EyeToy: Play, the first game made exclusively for EyeToy, a motion sensitive camera that sits on top of your TV and plugs into your PlayStation 2. EyeToy: Play is a collection of 12 addictive games. With Kung Foo, puzzles, dancing, juggling, football, boxing, fireworks, and loads more, there are enough games here to keep you all laughing at each other for hours.",2003-04-04 00:00:00.000,2,NULL,80.0000,1,73.5295,14
+136644,64303,F/A-18 Operation Iraqi Freedom,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176634,5830,F1 Career Challenge,NULL,2003-12-31 00:00:00.000,NULL,NULL,63.0000,2,48.0000,0
+165982,689,F1 Challenge '99-'02,NULL,2003-06-24 00:00:00.000,6,NULL,NULL,NULL,80.7389,15
+168104,44721,Fame Academy: Dance Edition,NULL,2003-12-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+16373,3913,Family Stadium 2003,NULL,2003-05-30 00:00:00.000,NULL,NULL,NULL,NULL,25.0000,0
+164457,188656,Fantasia Sango 1,"The story tells that Ji Xuan and Ji Shuang, two siblings, lost their parents when they were young. They were raised by Xu Shu for eight years, and they painstakingly taught them the knowledge of the art of war. Forbidden Art • The method of summoning ghosts.
+
+One day, Xu Shu's sister Xu Hong secretly worried that her mother would be taken hostage by Cao Cao to Xu Capital, and forced Xu Shu to join Cao's army, but unexpectedly killed a servant of Tianruo Palace and asked him to hand over the treasure of the palace, the ""Seal of Heavenly Brand"". He also revealed the surprising fact that Ji Xuan's parents apostatized and fled back then. Although Ji Shuang tried her best to save Xu Hong, who was dying with the forbidden technique and the method of summoning ghosts, the disaster officially started because of this.",2003-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29849,163158,Fantastic Fortune 2,"This love simulation title features three female main characters: Marine, Aqua and Aoi. You select one of these girls and play as her through a seven month training period as you work to become the ""Star Maiden."" During weekdays, you attend classes, building up your character's parameters. When the weekend comes around, you're off on the town, hunting for men. The game features lots of interactive conversation sequences as you choose to fall in love with a guy, make friends with a girl or work towards your stardom.",2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113954,202913,Fantasy Zone,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90970,145890,Far East of Eden II: Manjimaru,"The setting starts in a beautiful country named Jipang where the Fire clan and Roots clan have been rivals over centuries since the dawn of time, good versus evil. The home town of Manjimaru Sengoku, a descendant of the Fire clan, is attacked by the Roots clan. He begins a long journey to save the world. Along the way he will meet Danjūrō Kabuki, Tarō Gokuraku and Kinu to help him in his quest.",2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138470,70157,Far West,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+111725,5105,Fatal Frame II: Crimson Butterfly,"Fatal Frame II is set in the fictional Minakami region of Japan. While a dam is being planned for construction in a forest at this location in the game's present, the site is also home to Minakami Village (lit. ""All God's Village""), a ""[l]ost"" settlement where the majority of the game takes place. The player learns that Minakami Village was host to the ""Crimson Sacrifice Ritual"", the failure of which caused the settlement to vanish—thus earning it the name ""The Lost Village"". In the game's present, there is an urban legend about the Lost Village, where people who become lost in the Minakami forest will become trapped forever in the village.
+
+The protagonists of Fatal Frame II are Mio and Mayu Amakura, twin sisters who are visiting their favorite childhood playspot in Minakami before it is lost in the dam construction. The main antagonist is the vengeful spirit of Sae Kurosawa, the sole Twin Shrine Maiden sacrificed for the failed ritual. She yearns to reunite with her twin sister Yae, whom she mistakes Mio for, and uses Mayu to try and complete the ritual with her. Other characters include the spirit of Itsuki Tachibana, a young man who also mistakes Mio for Yae, but instead tries to help her and Mayu escape; and Seijiro Makabe, a folklorist who visited Minakami Village with a Camera Obscura prototype (the same camera Mio uses in the game) and his assistant, Ryozo Munakata.[20] Makabe later became a temporary sacrifice for the Abyss, known as a Kusab. Although Mio and Mayu's story takes place after that of Miku Hinasaki, the events of Minakami Village occur before those of the Himuro mansion in the original game.",2003-11-27 00:00:00.000,17,NULL,86.6667,2,85.3018,37
+193065,27496,Fenimore Fillmore: The Westerner,NULL,2003-12-21 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,1
+67580,3136,FIFA Soccer 2004,NULL,2003-10-24 00:00:00.000,11,NULL,80.0000,1,72.5556,42
+159259,414,Final Fantasy Tactics Advance,NULL,2003-02-14 00:00:00.000,26,NULL,90.0000,1,82.2763,110
+167620,413,Final Fantasy X-2,"The game takes place in Spira during the Eternal Calm, two years after Final Fantasy X. It continues the story of Yuna, who has become a sphere hunter and a member of the sphere hunting group, the Gullwings, with Rikku and Paine. Yuna hunts for spheres to find clues about a mysterious man who looks like her lost love Tidus. However, she becomes entangled in political turmoil the Gullwings must resolve to prevent a war, uncovering a plot to destroy Spira with a secret weapon from its ancient past.",2003-03-13 00:00:00.000,33,NULL,75.0000,2,65.7933,150
+192698,412,Final Fantasy: Crystal Chronicles,NULL,2003-08-08 00:00:00.000,15,NULL,80.7500,5,68.6124,34
+109194,73972,Final Stretch: Horse Racing Sim,NULL,2003-04-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+88591,18258,Finding Nemo: Nemo's Underwater World of Fun,NULL,2003-05-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+120853,1439,Fire Emblem: The Blazing Blade,NULL,2003-04-25 00:00:00.000,31,NULL,90.0000,1,87.7113,85
+111074,210482,Fire Man: Incoming Storm,NULL,2003-10-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+17257,67040,Fire Pro Wrestling Z,NULL,2003-06-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+39715,204579,Firefighter 259,NULL,2003-12-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+75019,43652,Fisherman's Challenge,NULL,2003-02-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+139928,191256,Fishhead 3: The Search For a Heart of Gold,NULL,2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+101328,129774,Fixat!,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+63161,196839,Flintstones' Bedrock Boblseddin' Blowout,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58826,28530,Flipnic: Ultimate Pinball,NULL,2003-08-07 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+74176,47563,Flo Boarding,NULL,2003-10-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+104176,79830,Fobos,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67176,43805,Football Madness,NULL,2003-04-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+173568,202609,For Symphony: With All One's Heart,"Playing as a high school student, you experience your senior year of high school with your fellow students. This includes a trip to the beach during the summer and lots of conversation on the whole.",2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+108889,4869,Ford Racing 2,NULL,2003-10-23 00:00:00.000,1,NULL,NULL,NULL,69.9900,6
+138421,44942,Ford Truck Mania,NULL,2003-09-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93906,8301,Formula One 2003,NULL,2003-07-11 00:00:00.000,NULL,NULL,80.0000,1,NULL,NULL
+147849,191258,Frank's Adventure,"Boobs Illustrated – a local nude magazine – is having problems because there are not enough pictures of nude women for the next issue to be published. The character you control – Frank – is about to change that.
+
+As Frank you can freely roam the city in search of nude pictures of women. Certain women are more than willing to repay you with one naked picture of theirs if necessary conditions are met (like for example giving them a certain item) but chances are that some pictures can be found in the most unlikely places as well. Frank starts with a medium health bar and a sum of money. Health points which are lost if hit by a car can be replenished by eating food. Money are needed to bribe women so as to get a picture of them or for buying items that the women may request to trade for one of their pictures. More money can be gained by either playing games in the casino or by selling the pictures you have already acquired to the boss of the Boobs Illustrated magazine.",2003-10-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+80652,212739,Franks Adventure 2,NULL,2003-11-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138428,3918,Freaky Flyers,NULL,2003-08-05 00:00:00.000,NULL,NULL,68.0000,2,47.0000,0
+41917,92716,FreeCol,NULL,2003-01-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+193104,719,Freedom Fighters,NULL,2003-09-26 00:00:00.000,21,NULL,70.0000,1,78.5743,86
+185179,109266,Freedoom,NULL,2003-04-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+24657,2124,Freelancer,NULL,2003-03-04 00:00:00.000,24,NULL,70.0000,2,83.0978,53
+113442,3920,Freestyle MetalX,NULL,2003-06-27 00:00:00.000,NULL,NULL,60.0000,2,35.0000,0
+98356,209570,Friday Night 3D Bowling,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175579,218590,Frogger,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+137269,3923,Frogger's Adventures: The Rescue,NULL,2003-10-21 00:00:00.000,NULL,NULL,77.0000,2,42.0000,1
+171500,11480,Frogger's Journey: The Forgotten Relic,NULL,2003-11-28 00:00:00.000,NULL,NULL,55.0000,1,NULL,NULL
+158289,75751,From TV Animation One Piece: Chopper no Daibouken,"One day, the Straw Hat Pirates travel to a mysterious island. While the Straw Hats explore around the island, they all suddenly turn into animals; Luffy into a monkey, Zoro into a tiger, Sanji into a fox, Nami into a cat, Usopp into a kappa, and Robin into a parrot. Only Chopper remains as he was.
+
+It is up to Chopper to not only help the crew to turn back to their original state, but to also figure out the cause of their mysterious transformation.",2003-10-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+50598,65695,From TV Animation One Piece: Mezase! King of Berry,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+183564,21541,Front Mission 1st,NULL,2003-10-23 00:00:00.000,NULL,NULL,80.0000,1,NULL,NULL
+147468,1503,Front Mission 4,"Set in 2096, the story of Front Mission 4 takes place in Venezuela and Europe. Since the revelations of the true causes behind the 2nd Huffman Conflict in 2092, the world grew wary of the Republic of Zaftra. Zaftra began losing foreign investments and many businesses withdrew from the union, resulting in major economic losses. Superpowers such as the United States of the New Continent (USN) refused offers from the union to import their natural resources, the major economic driver of their economy. With a failing economy and growing distrust from the world community, the Republic of Zaftra disbanded the Peace Mediation Organization (PMO) in 2094. Meanwhile, the discovery of natural resources in Poland led the European Community (EC) to stop importing raw materials from Zaftra. Consequently, Zaftran citizens began migrating to other countries in search for work. In 2096, the Republic of Zaftra returned to the spotlight after a mysterious blitzkrieg of EC military bases leaves Europe in an imminent resource crisis. Elsewhere in the world, Venezuela suddenly declares independence from the USN.",2003-12-18 00:00:00.000,1,NULL,73.0000,2,NULL,NULL
+3453,24101,Fugitive Hunter,NULL,2003-11-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177212,43383,Fugitive Hunter: War on Terror,NULL,2003-11-18 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+148524,19071,Fullmetal Alchemist and the Broken Angel,"Taking place between episodes 17 and 18 of the anime, the game begins with the Elric brothers (somewhat unwillingly being escorted by Major Alex Louis Armstrong) heading to Central City via train. While Ed moans, Al consoles, and Armstrong flexes, the train is suddenly attacked by terrorists. The skirmish eventually ends with one destroyed train and the brothers in the town of New Heissgart, looking for a ride to Central. There, they meet a girl named Armony and learn more of the Philosopher's Catalyst, an item nearly as powerful as the Philosopher's Stone itself, but used to increase the efficiency of alchemy. The Philosopher's Catalyst seems to be directly linked with the berserk chimeras running about, the rogue military force, and the gathering of alchemists in the town. The Elrics soon find that their simple mission for a train turns into much more as they learn about the Catalyst and the dark mysteries surrounding it.",2003-12-25 00:00:00.000,NULL,NULL,70.0000,1,NULL,NULL
+134936,143348,FUMBBL Fantasy Football,NULL,2003-01-03 00:00:00.000,NULL,5,NULL,NULL,NULL,NULL
+142875,47310,Furious Karting,NULL,2003-04-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+126943,142302,Fürst Marigor und die Tobis,NULL,2003-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+16517,143636,Fushigi Densha,"The main character awoke at a bar in front of the station after getting drunk. There he saw a strange tram running through a strange city. A city filled with absurdity, a city lacking common sense. Our hero got on the tram and henceforth he was going to experience a lot of different stories and a lot of different sexual affairs as well. While getting himself involved in various strange happenings he arrives at the terminal station. Though, when he finally got there, the sun has already hidden itself behind the horizon, so he decided to wait for the dawn at the bar in front of the station. Once again drunk, he awakes and finds himself in a strange city with a strange tram running through it. Our hero, having lost all of his previous memories gets on the tram onсe again and sets on a journey through a mysterious town once more. 
+ 
+Will this seemingly indefinitely looping tramway trip continue for a long time? 
+When will our hero finally get home?",2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+27206,49571,Fushigi no Kuni no Alice,NULL,2003-02-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143221,5822,Futurama,"Recurring antagonist Mom buys Planet Express for cynical reasons and the team of Fry, Bender, Leela, and Zoidberg must thwart her evil plot to take over the universe.",2003-08-01 00:00:00.000,4,NULL,50.0000,1,65.2673,8
+145898,78271,F-Zero AX,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145894,3492,F-Zero GX,"The story starts out with Black Shadow driving down a highway after losing a Grand Prix. Deathborn catches up to him and gives him one more chance to succeed but says it's the only other chance he'll get.
+
+F-Zero GX's story mode continues with Falcon training for the Grand Prix, followed by racing his rival, Samurai Goroh, in a desert canyon and being forced to enter the bet race under the disguise of 'Famicom' (a reference to Nintendo's first home console). After winning said bet race, Falcon notices Black Shadow attacking the Lightning area on the news. Falcon makes his way to stop him, but is delayed by a group of thugs lead by Michael Chain. After dealing with Chain's gang, Falcon enters a facility to save Jody Summer. His escape is a close one as the core was set to overload and detonate, with said facility going into lock-down procedures. With Jody out of harm's way, he confronts Black Shadow. The evil overlord, with the help of Blood Falcon, binds Falcon and traps him inside his vehicle, strapping a bomb to the Blue Falcon that will detonate if the Blue Falcon goes too slowly. Falcon managed to survive, by driving the vehicle straight off an unfinished road and right under a crane, knocking the bomb off.
+
+Falcon later attended the Grand Prix, where he emerged victorious. After receiving the champion's belt, he witnessed Black Shadow being punished by his master, Deathborn, for his incompetence. Deathborn challenges Falcon to a one-on-one race for ownership of both belts. Before said race occurs, Deathborn reveals his plan to take over the universe, revealing the energies of light and dark are condensed in each belt, and that when combined, provide ultimate power that will turn him into a god-like being, able to lay waste Falcon's galaxy in an instant. Falcon swears to take him down. Falcon stays true to his word, and Deathborn apparently dies. Both belts unite into one, and Falcon vows to keep winning so he can protect the belt from the forces of evil.
+
+At his garage, Falcon is greeted by the creators. Falcon figures out the creators were behind everything, though they do not elaborate their motives. They challenge Falcon to a race, where, if they win, will rip out Falcon's soul and turn it into their creation, implying that he would replace Deathborn. Falcon defeats even them. Screaming, the creators disappear, though whether they actually die or decide to let Falcon go, honoring (but no less angered by) his victory is unclear. Falcon then removes his helmet and leaves the room, where the credits and an exclusive theme song begins to play. (The camera pans at a downward angle, so Falcon's face is not clearly visible. Only a portion of his head in the back is partially seen.)",2003-07-25 00:00:00.000,11,NULL,90.0000,3,78.0650,46
+112823,3493,F-Zero: GP Legend,NULL,2003-11-28 00:00:00.000,2,NULL,80.0000,1,73.0506,5
+138631,23713,G1 Jockey 3,NULL,2003-06-28 00:00:00.000,NULL,NULL,62.0000,1,NULL,NULL
+70633,49498,Gachasute! Dino Device 2 - Dragon,NULL,2003-07-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+994,49497,Gachasute! Dino Device 2 - Phoenix,NULL,2003-07-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141204,209584,"Gadgets: Design It, Build It, Play It",NULL,2003-07-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176059,125884,Gaia Online,"Discover interesting and beautiful worlds, engage in combat with monsters, interact and play with friends, and more in this casual online massively multiplayer game.",2003-02-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+97601,64610,Gakuen Heaven: Boy's Love Scramble,"Ito Keita, an average high school boy, is surprised to receive an acceptance letter from the renowned Bell Liberty Academy.
+After being involved in an accident (and luckily, surviving) on the day of his transfer, Keita finds himself among a variety of unique people... but what is Keita's ""special ability""? Will he truly be accepted into this school full of elite students?",2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+135828,10344,Galactic Civilizations,"Galactic Civilizations is a space based strategy game in which you are in control of humanity's destiny.
+
+The year is 2178, the Terran Alliance has invented a new technology -- Hyperdrive. But the secret has leaked to the other civilizations starting a race for all the inhabitable worlds in the galaxy! As leader of United Earth, you must research new technologies, build an economy, create a powerful military force, all the while carefully balancing your political, diplomatic and trade skills.",2003-03-26 00:00:00.000,NULL,NULL,80.5000,2,70.0990,7
+19935,70515,Galaxy Angel: Moonlit Lovers,NULL,2003-08-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141283,20145,Gallop Racer 2003: A New Breed,NULL,2003-04-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+81766,40143,Gals Panic S3,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+184597,186464,Ganbare Goemon: Jetto GO! GO! GO!,NULL,2003-03-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143835,186465,Ganbare Goemon: Karakuri Kiteretsu Race,NULL,2003-05-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+187590,186467,Ganbare Goemon: Tentekomai-mai Meikyuu-kan,NULL,2003-05-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+191238,98305,Garfield's Scary Scavenger Hunt 2,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141054,200337,Gefeuert! Dein letzter Tag,NULL,2003-02-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160235,44938,Gekioh: Shooting King,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+82486,3929,Gekitō Pro Yakyū,NULL,2003-09-11 00:00:00.000,NULL,NULL,NULL,NULL,25.0000,0
+82134,6419,Gem Smashers,NULL,2003-07-01 00:00:00.000,NULL,NULL,57.0000,1,NULL,NULL
+5410,8363,Geneforge 2,"You are an apprentice Shaper. You are being given the power to create life and mold it to serve your own needs. The whole world fears and respects the Shapers. Your secrets are many, and your power is absolute. 
+ 
+If you need a servant, you have but to create it, and it will gladly die for you. 
+ 
+But when you and your teacher are sent on what seems to be a simple mission, things go horribly wrong. Monsters roam the countryside. Your allies turn on you. Your teacher disappears. And you find yourself in the middle of a conspiracy to use forbidden powers and overthrow Shaper rule. 
+ 
+Many factions want your help. All have their own rewards to offer. Will you stay loyal to your people? Or will you fight to remake the world? 
+ 
+Geneforge 2 has a huge and open storyline. You can join with any of several factions and reach dozens of different endings. Help the rebels, or fight them. Fight your enemies, or use stealth and diplomacy. When you finish the game, start over, join a different group, and experience a completely different game. No matter what you choose, Geneforge 2 offers an enormous adventure with plenty of replay value.",2003-07-25 00:00:00.000,4,NULL,NULL,NULL,81.7117,6
+53487,3930,Generation of Chaos Exceed,NULL,2003-02-06 00:00:00.000,NULL,NULL,NULL,NULL,25.0000,0
+73700,49606,Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152735,4885,Geometry Wars,"you are a geometric ""ship"" trapped in a grid world, facing off against waves of deadly wanderers, snakes, and repulsars. Your aim is to survive long enough to set a high score! Avoid the spawning enemies, and shoot them down for points.",2003-11-17 00:00:00.000,6,NULL,NULL,NULL,84.8516,14
+20315,49603,GET! Boku no Mushi Tsukamaete,NULL,2003-08-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110129,49602,GetBackers Dakkanya: Jagan Fuuin!,NULL,2003-10-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+76806,49600,GetBackers Dakkanya: Metropolis Dakkan Sakusen!,NULL,2003-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+167202,726,Ghost Master,NULL,2003-05-23 00:00:00.000,3,NULL,67.0000,3,67.7362,19
+30008,22279,Ghosthunter,NULL,2003-12-05 00:00:00.000,NULL,NULL,71.5000,2,NULL,NULL
+18138,75470,Ghostlop (Limited release),NULL,2003-10-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+187374,3931,Giftpia,NULL,2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,45.0000,1
+170289,5846,Gladiator: Sword of Vengeance,NULL,2003-11-05 00:00:00.000,1,NULL,79.0000,1,70.0000,3
+136714,3932,Gladius,"The story of Gladius starts just as two schools begin the pursuit of the Championship. It follows the epic saga of two young heroes: Ursula, daughter of the barbarian king from the land of Nordagh; and Valens, the son of Imperia's greatest gladiator. Become one of these characters and embark upon a spectacular and brutal journey to fulfill their destinies to keep the world from heading into another disastrous war.",2003-10-28 00:00:00.000,6,NULL,89.6667,3,89.6194,11
+121947,43441,Glass Rose,NULL,2003-11-06 00:00:00.000,7,NULL,NULL,NULL,NULL,NULL
+148363,3933,Go! Go! Hypergrind,NULL,2003-11-18 00:00:00.000,2,NULL,NULL,NULL,36.0000,0
+144803,3934,Goblin Commander: Unleash the Horde,NULL,2003-11-11 00:00:00.000,NULL,NULL,75.0000,1,50.0000,1
+143261,73662,Gods and Generals,NULL,2003-03-01 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+99615,194800,Gold Miner,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172872,74013,Golf Adventure Galaxy,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178963,170015,Golf-e,NULL,2003-04-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145150,3936,Gotcha Force,NULL,2003-11-27 00:00:00.000,2,NULL,NULL,NULL,79.9485,7
+103090,93359,Gourmet,NULL,2003-09-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85661,49544,Gourmet Kitchen: Suteki na Obentou,NULL,2003-04-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186144,5849,Grabbed by the Ghoulies,NULL,2003-10-21 00:00:00.000,1,NULL,75.0000,3,62.8371,8
+51505,88893,Gran Turismo / Motor Toon Grand Prix 2 Double Pack,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175959,1604,Gran Turismo 4 Prologue,NULL,2003-12-04 00:00:00.000,1,NULL,70.0000,1,40.2055,7
+181157,7496,Grand Chase,"The story focuses on the adventure of the Grand Chase group originally by Elesis, Lire, and Arme, as the adventure goes on new characters join the team.",2003-08-20 00:00:00.000,2,NULL,NULL,NULL,76.6126,10
+36868,43600,Grand Prix Challenge,NULL,2003-04-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58172,212692,Grand Unified Game,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+127118,22252,Gregory Horror Show,NULL,2003-08-07 00:00:00.000,4,NULL,70.0000,1,73.8922,5
+172361,24097,Greyhawk: The Temple of Elemental Evil,NULL,2003-09-16 00:00:00.000,NULL,NULL,78.0000,1,NULL,NULL
+118915,3937,Grooverider: Slot Car Thunder,NULL,2003-09-26 00:00:00.000,NULL,NULL,69.0000,1,23.0000,0
+54620,5856,Group S Challenge,NULL,2003-11-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+107019,72430,Growlanser Collection,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+170010,21313,Growlanser IV: Wayfarer of the Time,NULL,2003-12-18 00:00:00.000,1,NULL,80.0000,1,NULL,NULL
+118945,169891,Grr! Bearly Sane,NULL,2003-12-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133942,43624,G-Surfers,NULL,2003-02-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+76680,3938,GT Cube,NULL,2003-06-20 00:00:00.000,NULL,NULL,NULL,NULL,36.0000,0
+154515,5857,Guilty Gear Isuka,NULL,2003-12-17 00:00:00.000,NULL,NULL,NULL,NULL,58.7806,11
+27025,134303,Guilty Gear X: Ver 1.5,"The context for Guilty Gear X is presented thusly in its game manual: In 2181, less than a year later after the incident with Justice, information about the discovery of a particular Gear rose to the public's attention. The report stated that the Gear was functioning properly, undamaged and with no abnormalities detected, and that no civilians were harmed by it, either intentionally or accidentally. There were attempts to destroy it, but all were unsuccessful due to its combat capabilities. 
+ 
+As most Gears should be dormant without Justice's leadership, these news stunned the public. People were terrified by the possible emergence of a second self-reliant Gear like Justice, exarcerbated by rumors of each nation having their own Gears for military use. Driven by an all-time high anti-Gear sentiment, humanity did not want to give up their peace after the hundred year-long Crusades. Soon, an announcement was made: ""Whosoever brings about the demise of this dreadful Gear shall be rewarded with the lofty sum of 500,000 World Dollars!"".",2003-02-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195708,9143,Guilty Gear X2 #Reload,NULL,2003-03-26 00:00:00.000,4,NULL,60.0000,2,95.6120,21
+36828,43531,Gunfighter II: Revenge of Jesse James,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+22794,49595,Hachiemon,NULL,2003-07-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+168603,17299,Haegemonia: The Solon Heritage,NULL,2003-10-28 00:00:00.000,1,NULL,NULL,NULL,50.0000,4
+65520,146192,Hamlet: The Text Adventure,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+99461,49592,Hamster Club 4: Shigessa Daidassou,NULL,2003-08-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+23252,49590,Hamster Monogatari 3 GBA,NULL,2003-01-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+114381,49589,Hamster Monogatari Collection,NULL,2003-06-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+13901,49588,Hamster Paradise: Pure Heart,NULL,2003-08-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+42214,6427,Hamtaro: Rainbow Rescue,NULL,2003-05-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+128288,63223,Hamtaro: Wake Up Snoozer!,NULL,2003-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142951,51230,Harbinger,NULL,2003-02-26 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+176507,49296,Hardcore Pinball,NULL,2003-01-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+154473,209792,Hardwood Solitaire III,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177608,218539,Harry Buster,NULL,2003-10-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+42970,117003,Harry Potter and the Sorcerer's Stone,"The story follows protagonist Harry Potter, who discovers he is a wizard, and is sent to Hogwarts School of Witchcraft and Wizardry where he makes friends and receives magical training, and along with his friends stop Lord Voldemort from returning to power.",2003-12-09 00:00:00.000,2,NULL,NULL,NULL,69.9656,9
+143294,166523,Harry Potter: Quidditch World Cup,NULL,2003-10-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+143481,3944,Harry Potter: Quidditch World Cup,NULL,2003-10-28 00:00:00.000,20,NULL,78.0000,3,70.0462,44
+86169,137002,Harukanaru Toki no Naka de: Banjyou Yuugi,"Sometime after the first protagonist and her friends arrive in the parallel world, Shirin traps the White Dragon Priestess's soul within an eternal dream. The dreaming protagonist encounters three copies of herself, each claiming themselves to be parts of the priestess's divided conscious. Trapped in a replica of the capital with dream versions of their comrades, the four priestesses compete to expose the impostor who is preventing the real priestess's return to reality. Their goal is to gain Fujihime's trust by retrieving legendary treasures: the Robe of the Fire-rat, the Jeweled Branch, the Dragon's Throat Gem, and Buddha's Stone Bowl.",2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122937,138992,Harum Scarum,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+190578,3384,Harvest Moon: A Wonderful Life,"""He wasn't unhappy. But he didn't seem to have a direction in life. One day, I went to see him. I told him about the farm you left to him. Your son didn't seem to know much about farming, but he was willing to give it a try. So I brought him to Forget-Me-Not Valley.""
+True to its name, this is the first Harvest Moon game that progresses through the main character's entire adult life, from young adulthood to old age. However, numerous years are skipped as the game is progressed.
+
+NPCs in the game, including the main character's son and wife also grow older as time passes. The game takes place in a new setting for the Harvest Moon series - a small village called Forget-Me-Not Valley, populated entirely by new characters.
+
+The basic plot is familiar from several previous Harvest Moon games: the main character, a young man, inherits a somewhat run-down farm in Forget-Me-Not-Valley after the death of his father. Unlike most games however, the game features a variety of chapters.",2003-09-12 00:00:00.000,6,NULL,84.5000,2,89.3552,18
+15228,3383,Harvest Moon: Friends of Mineral Town,NULL,2003-04-18 00:00:00.000,8,NULL,NULL,NULL,79.8744,21
+172281,49188,Harvest Moon: More Friends of Mineral Town,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+128818,61241,Heartbeat Boxing,NULL,2003-02-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+88713,140225,HEAT Project 2,NULL,2003-05-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+137867,50406,Heaven & Hell,NULL,2003-09-15 00:00:00.000,NULL,NULL,90.0000,1,NULL,NULL
+71353,64452,Herkules,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+74495,143505,Heroes of the Three Kingdoms 4,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+173304,107,Hidden & Dangerous 2,NULL,2003-10-21 00:00:00.000,9,NULL,86.0000,2,79.9977,19
+138063,73774,Hidden & Dangerous Deluxe,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+45942,24089,High Heat Major League Baseball 2004,NULL,2003-03-04 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+18101,9356,Highland Warriors,NULL,2003-01-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145407,32626,Higurashi no Naku Koro ni: Chapter 3 - Tatarigoroshi,"The 58th year of Shouwa, early summer.
+It’s June, and the summer heat has arrived earlier than it does most years.
+By day there are crickets, and by night there are cicadas.
+
+We’re in Hinamizawa, a small village in the countryside.
+There are fewer than two thousand people here. But every year, there is an event.
+
+This event is a mysterious death.
+
+On a certain day in June, someone dies, and someone else goes missing.
+The series of deaths is connected to the upheaval surrounding the dam construction project.
+A murder case that was covered up is being reenacted.
+Is it a conspiracy? A coincidence? Or perhaps a curse?
+
+Someone who was supposed to be there isn’t.
+Someone who wasn’t supposed to be there is.
+
+Someone who was alive last night is dead now.
+And someone who is here right now isn’t alive.
+
+So, there is no way to avert tragedy. There is no choice but to give up.
+But don’t give up.
+
+Only you can stand up to this.",2003-08-15 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,2
+86981,62379,Hikaru no Go 3,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,36.0000,0
+44536,64642,Hinokakera the Fragments of Innocent Sinner,NULL,2003-12-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149914,172462,Homerun,NULL,2003-09-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+27706,750,Homeworld 2,NULL,2003-09-16 00:00:00.000,16,NULL,75.0000,3,87.5079,28
+194844,204439,Hot Shots Golf: Fore,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141088,10626,Hot Wheels World Race,NULL,2003-10-29 00:00:00.000,4,NULL,NULL,NULL,59.9383,6
+28580,210070,Hoyle Friday Night Poker,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+27220,43656,HSX: Hypersonic Xtreme,NULL,2003-02-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+70758,70024,Huanxiang Sanguozhi,NULL,2003-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85329,50580,Hudson Selection Vol. 3: PC Genjin,NULL,2003-12-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+95598,50574,Hudson Selection Vol. 4: Takahashi Meijin no Bouken-jima,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146836,77828,Hudson Selection Volume 1: Cubic Lode Runner,NULL,2003-07-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141387,165052,Hugo: Bukkazoom,"For unexplained reasons, Hugo, his family, and some of his best friends and worst enemies have been shrunk to the size of an aphid. They now drive through the world of aphids with carts.",2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142156,49423,Hugo: Bukkazoom,"For unexplained reasons, Hugo, his family, and some of his best friends and worst enemies have been shrunk to the size of an aphid. They now drive through the world of aphids with carts.",2003-12-01 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+181552,3949,Hulk,NULL,2003-05-27 00:00:00.000,6,NULL,NULL,NULL,64.6238,27
+52186,43433,Hungry Ghosts,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142171,37440,Hunter X Hunter: Greed Island,NULL,2003-05-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142191,49623,Hunter X Hunter: Minna Tomodachi Daisakusen!!,NULL,2003-05-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136349,5865,Hunter: The Reckoning - Redeemer,NULL,2003-10-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144473,24096,Hunter: The Reckoning Wayward,NULL,2003-10-09 00:00:00.000,1,NULL,80.0000,2,NULL,NULL
+88512,24100,Hunting Unlimited 2,NULL,2003-09-28 00:00:00.000,NULL,NULL,73.0000,1,NULL,NULL
+175127,64183,Hyakuretsuken: Hokuto no Ken Gekiuchi 3,NULL,2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110589,45198,Hyper Street Fighter II: The Anniversary Edition,NULL,2003-12-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14693,24086,Hypersonic Xtreme,NULL,2003-01-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71129,73162,I Spy Fantasy,NULL,2003-11-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+103021,24084,I Was An Atomic Mutant!,NULL,2003-02-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185349,8559,I.G.I.-2: Covert Strike,NULL,2003-03-03 00:00:00.000,19,NULL,68.3333,3,76.7662,36
+18020,67054,Ichigeki Sacchu!! HoiHoi-san,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142132,755,IL-2 Sturmovik: Forgotten Battles,NULL,2003-03-02 00:00:00.000,6,NULL,NULL,NULL,75.1440,7
+177797,209431,Imaginext: Battle Castle,NULL,2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+194922,187,Indiana Jones and the Emperor's Tomb,NULL,2003-02-24 00:00:00.000,13,NULL,59.3333,6,74.4751,32
+32969,5866,IndyCar Series,NULL,2003-05-21 00:00:00.000,NULL,NULL,65.0000,3,NULL,NULL
+183156,3951,I-Ninja,NULL,2003-09-09 00:00:00.000,2,NULL,78.3333,4,68.1287,10
+151430,43588,Initial D: Special Stage,NULL,2003-07-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+66646,23800,Inside the Park Baseball,NULL,2003-12-19 00:00:00.000,NULL,NULL,60.0000,1,NULL,NULL
+49358,49293,Inspector Gadget Racing,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189885,4865,Inspector Gadget: MAD Robots Invasion,NULL,2003-07-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142652,92472,International Pool Championship,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122899,3958,International Superstar Soccer 3,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,71.0000,1
+142629,49280,International Superstar Soccer Advance,NULL,2003-02-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142613,49619,Inuyasha: Naraku no Wana! Mayoi no Mori no Shoutaijou,NULL,2003-02-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+15067,46157,Iraq War 2003,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+13922,6450,Iridion II,NULL,2003-05-12 00:00:00.000,1,NULL,82.0000,2,NULL,NULL
+173612,9578,Istaria: Chronicles of the Gifted,NULL,2003-12-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+52364,143745,Itch!,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+37824,20410,Jack the Ripper,NULL,2003-12-31 00:00:00.000,NULL,NULL,64.0000,1,NULL,NULL
+135381,124685,Jacked,NULL,2003-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195355,1529,Jak II,"Like Jak and Daxter: The Precursor Legacy, the game's begins with a speech by Samos Hagai. Jak, Daxter, Samos and Keira are in the process of activating the rift rider, the precursor device hidden behind the large door at the end of Precursor Legacy, and its accompanying rift gate. When the gate is activated a large figure steps out, accompanied by a swarm of creatures. Jak panics and activates the rift rider, propelling the group through the gate. As they are travelling through the rift, the rider is destroyed. The group fall out of the rift and are separated, though all find themselves in Haven City. Jak and Daxter land and are immediately identified by a patrol of the Krimzon Guard, led by Captain Erol. Jak is taken into custody, as Daxter promises to rescue him (see the events of Daxter). Two years later, Jak is in the Fortress, where he has been the subject of a super soldier program. His body has been infused with dark eco. Erol and the Baron Praxis are there. They declare the 'Dark Warrior Program' a failure. They leave, just as Daxter appears to rescue Jak. As Daxter fidgets with the restraints, Jak transforms into the Dark Warrior Program's ultimate goal, Dark Jak. He breaks the binds and then returns to normal, after speaking his first words, ""I'm going to kill Praxis!"" The pair then escape the fortress into Haven City.",2003-10-14 00:00:00.000,41,NULL,90.0000,2,80.6053,148
+173983,1644,James Bond 007: Everything or Nothing,NULL,2003-11-17 00:00:00.000,10,NULL,79.8000,7,75.5375,30
+154862,145186,Jet Grind Radio,"Like in the Dreamcast version, the player assumes the role of the GG's, a gang of graffiti-spraying youths, led by Beat (who is also the first playable character). The Rokkaku group and the Tokyo-to construction conglomerate have teamed up to clamp down on the ""rudies"", the game's term for the law-breaking teenagers. The object of the game is to ""Tag"" certain parts of the surroundings before the time limit runs out or ""before the indomitable array of cops arrives"".",2003-06-26 00:00:00.000,NULL,NULL,76.0000,2,NULL,NULL
+122422,71283,Jetfighter V: Homeland Protector,NULL,2003-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+46772,139124,Jewel of Arabia: Dreamers,NULL,2003-06-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+16257,43918,Jigsaw Madness,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149339,22223,Jinx,NULL,2003-01-31 00:00:00.000,NULL,NULL,40.0000,1,NULL,NULL
+193040,32597,Journey to the Center of the Earth,NULL,2003-11-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85510,81425,Journey to the Center of the Earth: Gold Edition,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+193798,3961,Judge Dredd: Dredd Vs. Death,NULL,2003-10-17 00:00:00.000,2,NULL,60.0000,2,68.0332,7
+96168,210169,JumpStart Study Helpers: Spelling Bee,NULL,2003-06-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+80570,49657,Jurassic Park Institute Tour: Dinosaur Rescue,NULL,2003-08-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+120512,5871,Jurassic Park: Operation Genesis,NULL,2003-03-10 00:00:00.000,40,1,74.0000,5,73.1091,33
+145874,170042,Just Another Point n Click Adventure,NULL,2003-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138357,6485,Justice League: Chronicles,NULL,2003-11-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147645,23710,K-1 World Grand Prix,NULL,2003-08-09 00:00:00.000,NULL,NULL,75.5000,3,NULL,NULL
+47962,43660,Ka 2: Let's Go Hawaii,NULL,2003-07-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179037,43424,Kamen Rider 555,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+80803,61914,Kamen Rider: Seigi no Keifu,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+131930,3962,Kao the Kangaroo: Round 2,NULL,2003-11-04 00:00:00.000,5,NULL,NULL,NULL,79.6180,17
+176109,80460,Karaoke Revolution,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0
+173019,194435,Karaoke Revolution Anime Song Selection,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+53441,49754,Kawaii Koinu Mini: Wanko to Asobou!! Kogatainu,NULL,2003-08-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+124297,49649,Kawaii Pet Game Gallery,NULL,2003-10-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+46464,110887,Keptosh: The Search for Junc,"It is the year 2084. 
+ 
+You live in ServaCor city. The city is ruled by the massive corporation called ServaCor. Humans have come to rely on electricity and data to sustain their lives. The slang term of ""junc and flow"" has been given to these two vices. ServaCor supplies junc to the entire city, while flow is gathered from a Lunar based computer network. 
+ 
+Most citizens of ServaCor and the millions of other cities just like it hate their rulers. The corporations provide the citizens with free food, beer, shelter, junc, and flow in exchange for what is almost slave labor in huge robot factories. Most people are not happy with their situation, they see these ""free"" provisions as thinly masked ways to keep the citizens in line. 
+ 
+Welcome to the future. 
+ 
+You are Adis Keptosh.",2003-01-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+44570,7035,Ketsui: Kizuna Jigoku Tachi,"In the year 2054, chaos spreads over the globe as global warming finally exacts its toll on Earth: the ice caps quickly melt, causing a tremendous series of cataclysms and for entire nations to disappear under the sea. The near apocalyptic setting and the quickly depleting resources of the remaining dry lands force nations into constant war, eventually culminating into World War III; all efforts by the United Nations to cease hostilities are thwarted by a seemingly endless supply of technologically advanced weaponry being sold to each side of every conflict. After investigation, the source is tracked back to EVAC Industry co. ltd, an arms dealer who's been reaping tremendously high profits from the situation, at times directly intervening to fuel the hostilities with utter disregard towards human lives; any attempt to negotiate with the board of directors has utterly failed, the earnings having proven high enough for the company to build its own cities, shipyards, defensive emplacements and even a private airport, to the point of assembling its own army of extremely well equipped mercenary troops.
+
+Being unable to enter the fray officially, the UN sets up a strike team of four pilots, each pair given one of two advanced helicopters: the plan is to simulate a rebellion within EVAC forces and bring down the company's headquarters, where research on a series of tremendous warmachines is taking place; for this reason, the planes both bear EVAC insignia and callsigns and are built according to stolen prototype blueprints - by no means, in success or failure, must the operation be traced back to the United Nations. However, for all this secrecy to be effective, even in victories the assault choppers will have to be destroyed... and the pilots killed. However, to compensate for their sacrifice, the UN shall fulfill one of their wishes, no matter what it is. And this, on board a stolen EVAC carrier plane, is how the story begins...",2003-01-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+131151,214717,Ketsui: Kizuna Jigoku Tachi,NULL,2003-07-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+148701,37371,Kidou Senshi Gundam Seed,NULL,2003-04-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+148682,37367,Kidou Senshi Gundam: Giren no Yabou - Tokubetsu-hen Aokisei no Hasha,NULL,2003-06-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+170415,200641,Kids Station: Hello Kitty to Album Nikki wo Tsukurimasho!,NULL,2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+156625,213258,Kiki Kaikai: The Bizarre World,NULL,2003-06-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+158565,5881,Kill.Switch,NULL,2003-10-28 00:00:00.000,5,NULL,75.0000,5,80.0653,11
+97350,159199,Kim Possible: A Sitch in Time - Episode 1: Present,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+97371,159200,Kim Possible: A Sitch in Time - Episode 2: Past,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+97398,159201,Kim Possible: A Sitch in Time - Episode 3: Future,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+60771,72817,King of Colosseum Green,NULL,2003-03-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92323,57705,Kiniro no Corda: La Corda d'Oro,"Kahoko Hino is a student at a Seisou Academy, one with an ordinary life. One day, Lili - the mischievous musical fairy who had blessed the original founder of the school - finds Kahoko running late to class. Delighted that she is able to see him, Lili grants Kahoko a magical violin, and a place in the school's annual musical competition, which many students in the music department vie to partake in.
+
+Kahoko refuses, only to be pressed on by the fairy, who constantly nags her until she finally gives way to his pleads. She reluctantly accepts the instrument. As she practices her pieces, Kahoko is amazed that she can play any piece on the violin as long as she knows the tune and plays it with her heart.",2003-09-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79367,37366,Kinnikuman Nisei: Choujin Seisenshi,NULL,2003-03-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138221,140688,Kino no Tabi -the Beautiful World-,"The protagonist, Kino, accompanied by a talking motorcycle, a Brough Superior motorcycle named Hermes, travels through a mystical world of many different countries and forests, each unique in its customs and people. Kino only spends three days and two nights in every town, without exception, on the principle that three days is enough time to learn almost everything important about a place, while leaving time to explore new lands.",2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+148257,2777,Kirby Air Ride,NULL,2003-08-11 00:00:00.000,13,NULL,NULL,NULL,76.5887,54
+68172,84259,Kirby Slide,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+34117,16705,KnightShift,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,2
+153040,172694,KnuckleFighter-XPlus,NULL,2003-02-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+61774,198591,Knuckles Soccer,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+55330,49683,Koino no Kokoro Ikusei Game,NULL,2003-12-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+23143,49637,Koinu to Issho! Aijou Monogatari,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+70060,49678,Konjiki no Gash Bell!! Unare! Yuujou no Zakeru 2,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+183603,213868,Konohana 3: Itsuwari no Kage no Mukou ni,NULL,2003-05-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186759,10491,Konung 2: Blood of Titans,NULL,2003-02-01 00:00:00.000,2,NULL,45.0000,1,50.0000,3
+120896,24186,Korea: Forgotten Conflict,NULL,2003-11-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149271,49676,Kotoba no Puzzle: Mojipittan Advance,NULL,2003-02-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+15100,95498,Kreed,NULL,2003-08-29 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+149283,70220,Kuma Uta,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142930,5898,Kung Fu Chaos,NULL,2003-02-25 00:00:00.000,2,NULL,81.5000,2,75.9448,5
+65404,49670,Kurohige no Kurutto Jintori,NULL,2003-05-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+50606,85233,Kutar Burger Factory,NULL,2003-12-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+89444,22283,Kya: Dark Lineage,NULL,2003-11-18 00:00:00.000,2,NULL,65.0000,2,NULL,NULL
+6027,140655,Lara Croft: The Sun Obelisk,"The Sun Obelisk follows Lara’s attempts to find the forgotten Sun Obelisk, an artifact that grants special powers to anyone who has contact with. However, the map that was showing the location of the Sun Obelisk has been stolen by Lara’s former friend, Damian Strathairn. But Lara had a copy of that map.... and the adventure begins...",2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+103645,140511,Law & Order: Double or Nothing,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67330,43449,Le Tour de France: Centenary Edition,NULL,2003-07-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93295,180239,Left To My Own Devices,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152092,5901,Legacy of Kain: Defiance,"Defiance continues from where Soul Reaver 2 ended. In Soul Reaver 2, Kain saved Raziel's life by drawing the Soul Reaver from him - Raziel was meant to enter the blade and become its soul-devouring spectral half. This causes a paradox that changes time for the worse, and separates Kain and Raziel. 
+ 
+Kain's part of the game follows him seeking Moebius the Time Streamer, a time traveling mystic for answers to where Raziel is, how he has changed time, and later following a lead Moebius gives him to explore a Vampire citadel. During his quest, Kain finds and completes a broken talisman of Vampire construct known as the Balance Emblem. Kain discovers murals during his quest dictating an ancient war between the first races to inhabit Nosgoth, the Ancient vampires and the Hylden. After sealing the Hylden in an alternate dimension using the Pillars of Nosgoth, the Hylden cursed the Ancients with blood-thirst, sterility and immortality, turning them into the first Vampires. Kain discovers from the murals that it was prophesied that both races would have a champion arise - a Vampire champion wielding the Soul Reaver, and a Hylden champion wielding a flaming sword. Because he possesses the material Soul Reaver depicted, Kain comes to believe he is the prophesied Vampire champion. The outcome of the battle between the two champions remains ambiguous.",2003-11-11 00:00:00.000,22,NULL,NULL,NULL,82.3042,51
+149581,49669,Legend of Dynamic Goushouden: Houkai no Rondo,NULL,2003-11-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85090,64453,Legend of Mulan,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+84217,210319,LEGO Orient Expedition: The Quest for the Golden Dragon,"It follows the Lego Adventures: Orient Expedition storyline, specifically during the final sets' (7419 Dragon Fortress) storyline. You switch between playing 3 characters: Johnny Thunder, Dr. Kilroy and Pippin Reed. You must explore the maze, guiding all three characters to the chamber at the top left corner of the fortress that holds the Dragon Fortress Statue. On the way, collect the golden sword, shield and helmet in order to unlock the secret of the Golden Dragon.",2003-12-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+61247,24103,Lethal Skies II,NULL,2003-09-09 00:00:00.000,NULL,NULL,81.0000,1,NULL,NULL
+161144,83829,Lifeline,NULL,2003-01-30 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+192044,24087,Line Of Sight: Vietnam,NULL,2003-03-04 00:00:00.000,1,NULL,84.0000,1,50.0000,0
+184417,2971,Lineage 2,NULL,2003-10-01 00:00:00.000,18,NULL,80.0000,1,72.7924,45
+136587,72540,Links 2003: Championship Edition,NULL,2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136348,5902,Links 2004,NULL,2003-11-11 00:00:00.000,2,NULL,70.0000,2,NULL,NULL
+71402,56805,Lion and the King 2,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+150027,7505,Lionheart: Legacy of the Crusader,"Richard the Lionheart's massacre of 3000 prisoners at the Siege of Acre, during the Third Crusade, was used by a villainous character as fuel for a ritual which tore the fabric of reality. This resulted in magic invading the world from other mysterious dimensions. Our world has changed forever when it was ravaged by this uncontrolled magic and hordes of demonic creatures.",2003-08-13 00:00:00.000,6,1,72.0000,1,69.9605,7
+169400,9492,Live for Speed,NULL,2003-06-13 00:00:00.000,4,NULL,NULL,NULL,79.9561,6
+138290,49394,Lizzie McGuire: On The Go!,NULL,2003-09-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+191730,10201,Lock On: Modern Air Combat,NULL,2003-11-20 00:00:00.000,NULL,NULL,84.0000,1,NULL,NULL
+52831,35676,Locoland,NULL,2003-11-22 00:00:00.000,1,NULL,NULL,NULL,50.0000,2
+185519,3979,Looney Tunes: Back in Action,NULL,2003-11-11 00:00:00.000,4,NULL,62.5000,2,59.6512,7
+139432,19633,Lords of EverQuest,NULL,2003-12-01 00:00:00.000,3,NULL,50.0000,1,NULL,NULL
+168936,3982,Lost Kingdoms II,NULL,2003-05-21 00:00:00.000,NULL,NULL,68.0000,2,76.0000,4
+35098,165536,Lost Passage: Ushinawareta Hitofushi,NULL,2003-10-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+153626,170337,Lost Valley,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67932,45249,Lotus,NULL,2003-06-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180091,213715,Lunar Jetman,NULL,2003-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+129534,36790,Lupin III: Umi ni Kieta Hihou,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98860,5904,Mace Griffin: Bounty Hunter,NULL,2003-06-20 00:00:00.000,2,NULL,64.0000,5,NULL,NULL
+174989,777,Madden NFL 2004,NULL,2003-08-11 00:00:00.000,3,NULL,NULL,NULL,51.9063,5
+63566,58361,Madness Interactive,NULL,2003-08-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+38904,59329,Magatama,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+116264,210408,Mage Bros.,NULL,2003-08-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+20101,5907,Magic: The Gathering – Battlegrounds,NULL,2003-11-18 00:00:00.000,1,NULL,79.5000,2,NULL,NULL
+47656,93300,Magische Kristalle,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+931,123223,Mahjong Haoh: Taikai Battle,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185870,214431,Mahoromatic Adventure,"Vesper is a secret agency fighting an army of alien invaders by using super-powerful battle androids. Mahoro is Vesper's most powerful battle android and has won many battles, but she has little operating time left and soon will cease to function. However, if she lays down her arms and conserves her remaining power, the time she has left can be prolonged to just over a year. Mahoro is given an opportunity to live the remaining time she has as a normal human. She chooses to live as a maid for Suguru, a phenomenally messy middle school student who lives by himself after his family passed away.",2003-07-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51806,72579,Mahoromatic: Moetto! Kira Kira Maid-san,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+107884,43421,Maken Shao: Demon Sword,NULL,2003-08-26 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+24328,73420,Mall Tycoon 2,NULL,2003-09-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51473,62652,Maluch Racer,NULL,2003-08-23 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+69739,52013,Manchester United Club Football,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+89342,21463,Manga Puzzle,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+73789,49700,Manga-ka Debut Monogatari: Akogare! Manga Ka Ikusei Game!,NULL,2003-01-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195855,1971,Manhunt,"The game takes place in the gritty crime-infested Carcer City. The story opens with a female journalist reporting on the convict James Earl Cash, a criminal on death row who has supposedly been executed by lethal injection. Cash is awoken to the voice of a person coming from an earpiece, revealing that Cash was only sedated. Cash puts on the earpiece and the person, who refers to himself as ""The Director"", promises Cash his freedom before the night is over, but only if Cash follows the Director's instructions. Released in a dingy neighborhood, Cash is directed to slaughter his way through the streets, populated by a gang calling themselves The Hoods while the Director, watching through security cameras scattered throughout the city, repeatedly mentions the need to please the audiences, revealing his occupation as a snuff film director. However, despite the Director's promise of freedom, Cash is beaten and thrown into the back of a van by a group of mercenaries known as the Cerberus.
+
+After his battle against the Hoods, he is also hunted by other violent gangs in various locations across the city. The gangs are organized by Ramirez, an ex-soldier and leader of the Wardogs, a gang of army veterans and experienced hunters. First, Cash is pitted against a gang of white supremacists known as The Skinz in a scrap yard. After that, faces off against Ramirez's Wardogs in an abandoned zoo where Cash has to save kidnapped members of his own family. Following the zoo encounter, Cash is forced to battle a gang of devil worshipers and perverts known as the The Innocentz in an abandoned mall. After retrieving a video tape in the mall and finding a VCR player, Cash witnesses his family being slaughtered by The Innocentz. Betrayed, Cash is forced to endure the humiliating task of escorting a drunken hobo through the hostile streets of East Los Albos. After finishing off the Innocentz in a derelict chemical factory, Cash takes on a gang of psychotics, known as The Smileys, who have taken over a mental asylum. Here, Cash survives the ending to the snuff film as planned by the Director. Consequently, the remaining Wardogs and Ramirez are hired to kill Cash. However, Ramirez and his gang are killed by Cash, and Cash quickly turns on the Director.
+
+The Carcer City Police Department (CCPD), are working for the Director; the CCPD are ordered by the Director to re-capture or kill Cash. However, the journalist seen at the game's beginning encounters Cash and imparts that she is on a mission to expose the Director's snuff film industry and CCPD corruption, and that Cash is vital for this important task; the journalist also reveals the Director's name is Starkweather. Protecting her from the police, Cash manages to take the journalist safely to her apartment, but Cash himself is re-captured by Cerberus. Back at Starkweather's mansion, he is ordered to be killed by Cerberus. However, Piggsy, an insane, chainsaw-wielding man, who wears a pig's head as a mask and was kept chained up in Starkweather's attic, has broken free and slaughters the investigating Cerberus. This allows Cash to work his way through the garden and mansion, killing the Cerberus leader along the way. Cash finally reaches the upper levels of the mansion, where he and Piggsy stalk one another. Cash triumphs after luring Piggsy onto a trapdoor that collapses, and as Piggsy tries to hold on, Cash chainsaws Piggsy's hands off, sending Piggsy falling to his death. After hacking his way through the last of the Cerberus, Cash finally confronts Starkweather and despite his pleas, brutally disembowels and decapitates him with the chainsaw. Soon, the press turns up at the mansion with the journalist exposing Starkweather's snuff ring and the police's involvement in Starkweather's operations. Cash is nowhere to be found.",2003-11-18 00:00:00.000,46,NULL,71.6667,3,78.0888,141
+56340,93035,Maniac Jackson and the Moonwalking Mindbenders,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+158764,9804,MapleStory,NULL,2003-04-29 00:00:00.000,7,NULL,50.0000,1,79.6920,25
+113574,26191,Marble Blast Gold,NULL,2003-05-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+191107,3351,Mario & Luigi: Superstar Saga,NULL,2003-11-17 00:00:00.000,38,NULL,86.0000,1,87.2579,125
+150097,127882,Mario Forever,"Mario Forever is another from Mario games series, that tells the story of a courageous plumber, whose ultimate goal is to rescue the imprisoned princess.",2003-09-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189502,3403,Mario Golf: Toadstool Tour,NULL,2003-07-29 00:00:00.000,8,NULL,76.5000,2,71.0334,29
+111456,2344,Mario Kart: Double Dash!!,NULL,2003-11-07 00:00:00.000,75,NULL,85.0000,3,83.3378,252
+125059,186098,Mario Left the Cheese Out,"Mario and Luigi are leaving the city for a relaxing stroll. Mario suddenly realizes he left the cheese out and runs in the opposite direction. Luigi follows.
+
+Mario must obtain the secret cheese and confront users from MFGG and its forum admin Supertoad2k to rescue his cheese from Supertoad2k.",2003-09-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186082,2331,Mario Party 5,NULL,2003-11-10 00:00:00.000,16,NULL,50.0000,2,69.5543,51
+117515,77789,Mario Party-e,NULL,2003-02-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+74205,3991,Mark Davis Pro Bass Challenge,NULL,2003-08-27 00:00:00.000,NULL,NULL,NULL,NULL,25.0000,0
+120473,165594,Marl Jong!!,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157474,203155,Marshie's Malloween Mix-Up,NULL,2003-10-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+190696,9378,Massive Assault,NULL,2003-10-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147769,69,Master of Orion III,NULL,2003-02-25 00:00:00.000,1,NULL,55.0000,2,59.0893,8
+28429,125378,Mata Nui Online Game II: The Final Chronicle,"One night, a storm ravaged Ga-Koro, and Hahli had to repair the bridge to the rest of Ga-Koro from the lily pad that her and Amaya's huts on the outer edge of the village. She performed errands for the other Ga-Matoran and spoke with Nixie, who showed her a formula to find coordinates based on the six Toa. Nokama, recently returned from a Turaga meeting, announced the villages would hold a Kolhii Tournament, and chose Hahli over Kotu to play for Ga-Koro, with Macku as her defense player. While talking with the other Ga-Matoran, Hahli received the Charm from Shasa representing Unity, the Speed Charm from Kai, and the Purity Charm from Marka. Pelagia took Hahli into Naho Bay to swim with a Takea to improve her Speed. When Onepu and Taipu came to play the Ga-Matoran, Hahli used her Speed to get the better of the team. The Onu-Matoran invited her to Onu-Koro, where she explored the Marn Tunnels. After diving in the now flooded Great Mine to recover mining equipment, she helped Azibo recover his Sluice, and he gave Hahli the Prosperity Charm in return. Taipu trained Hahli in the Onu-Matoran discipline of Stamina and gave her its Charm. Hahli also met Nuparu, who gave her fitness check-ups.
+
+Hahli had to go to Ko-Koro for the approaching Kolhii match. While exploring, she met Jaatikko and Toudo, who gave her the Destiny Charm and Peace Charm, respectively. Hahli traversed The Drifts and found Kantai, who trained her in Willpower and gave her its Charm. Using Willpower and Stamina, Hahli defeated Matoro and Kopeke in the match. Arriving in Le-Koro, Hahli was greeted by Kongu and Matau and found the Faith Charm. During training in Accuracy with Bamboo Disks under Tamaru, Hahli found the Accuracy Charm. Using her improved Accuracy, Hahli won the match against Kongu and Tamaru, and left for Po-Koro. In Po-Koro, she learned about Creation from Hewkii and found its Charm. She practiced in Strategy with Golyo by herding Mahi and also found its Charm. In the subsequent match, she used her new skills to defeat Hafu and Hewkii. Leaving the village, she travelled to Ta-Koro to play Jaller and Takua, and Jaller directed her to Keahi to train in Strength. After learning about the last Principle of Courage from Kapura, she used her full knowledge of the Skills and Principles to defeat Ta-Koro, securing a spot in the Championship.
+
+In the Championship, the Ga-Koro team played against Po-Koro and Ta-Koro at the Ta-Koro Kolhii Stadium, and Hahli and Macku won narrowly. At the end of the game, the Mask of Light slipped out of Jaller's bag, leading the Turaga to proclaim Jaller the herald of the Seventh Toa and set him upon a quest. Hahli wanted to speak to Jaller, but he had to leave quickly on his quest. Trying to find him, she found the Courage Charm in Jaller's home the and Duty Charm at the Wall of History. She returned to Ga-Koro and looked at the formula Nixie had showed her. Because of the announcement of the Seventh Toa, she used seven as the base number instead six, calculating a coordinate in Naho Bay. Pelagia sailed her to the coordinate, and Hahli found the Temple of Purity in the ocean She located the Crystal of Purity deep in the ocean, and unlocked its Temple with the Charms. After showing the Crystal to Nixie, Hahli went to find the other temples. In Onu-Koro, Hahli swam again in the Great Mine, diving to the bottom to find the Temple of Prosperity. Unlocking it, she retrieved the Crystal of Prosperity and swam back up to the surface. The Drifts contained the Temple of Peace, a grouping of three statues Hahli unlocked to reveal another Crystal. In Le-Wahi, the highest tree-top contained the Temple of Faith, and using Charms she retrieved the Crystal of Faith. The Temple of Creation was a statue half covered in sand in Po-Wahi, that Hahli entered to retrieve the Crystal of Creation. With five Crystals, Hahli returned to Ta-Koro to look for the final Temple, Charm, and Crystal.
+
+Arrival of the Rahkshi
+
+Hahli unlocking the Crystal's secret
+Three Rahkshi suddenly attacked Ta-Koro, but Hahli was able to raise the bridge so the Matoran could escape. Confronted by Lerahk, she fled Ta-Koro as it was destroyed and ran into Ta-Wahi. Hahli stumbled upon the Temple of Courage and found Courage's Charm. Using it to enter the Temple, she found the last Crystal. Wandering the Ta-Wahi Beach, Hahli found the Great Telescope and a carving of The Legend of Mata Nui. Noticing slots in the carving, Hahli inserted the Crystals, and was teleported to Kini-Nui where she watched as three more Rahkshi flew overhead.
+
+When Jaller died and Takua transformed into Takanuva, Hahli mourned Jaller deeply. Once the Toa built the Ussanui, she placed his mask upon the helm to lead Takanuva to victory and a new light. She then hid in the Ussanui and traveled with Takanuva into Mangaia for his conflict with Makuta Teridax. There, Takanuva sent her to bring the other Turaga and Toa Nuva from the surface. This incited quarreling among the islanders, whom Hahli quieted with a hopeful speech about Jaller and the Three Virtues. After Takanuva defeated Teridax and transformed with him into Takutanuva, he lifted the gate for the Matoran. When Hahli ran by with Jaller's mask, Takutanuva stopped her and gave up part of his life force to bring Jaller back to life. Takutanuva then perished, and Takanuva emerged from the rubble of the gate.
+
+Hahli was given the position of Chronicler by Nokama, and was one of a handful of Matoran who witnessed the Turaga tell the tales of their adventures as Toa Metru and Toa Hordika, recording the legends in her position as Chronicler.",2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+22481,49698,Matantei Loki Ragnarok: Gensou no Labyrinth,NULL,2003-11-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188297,125576,Max Blaster and Doris de Lightning Against the Parrot Creatures of Venus,NULL,2003-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144986,3999,Medabots Infinity,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,2
+88154,7583,Medabots: Metabee,NULL,2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141349,1317,Medal of Honor: Infiltrator,NULL,2003-11-17 00:00:00.000,2,NULL,74.5000,2,NULL,NULL
+43089,1316,Medal of Honor: Rising Sun,NULL,2003-11-11 00:00:00.000,13,NULL,40.0000,1,66.4208,71
+79675,1767,Mega Man Battle Chip Challenge,"From the wikia:
+""A new netbattling tournament has opened for the world, called the Battle Chip GP. Yai Ayanokoji is sponsoring the event while the others enter it. Even Eugene Chaud enters the tournament, but only for official business. It turns out that there is some type of new organization behind the scenes of the tournament who will delete the winning NetNavi and take its data for themselves. Will Lan Hikari and friends be able to stop whoever is behind these threats?""",2003-08-08 00:00:00.000,2,NULL,NULL,NULL,49.7221,8
+170240,1758,Mega Man Battle Network 3 Blue,NULL,2003-03-28 00:00:00.000,2,NULL,85.0000,1,89.2130,12
+148980,71396,Mega Man Battle Network 4,NULL,2003-12-12 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+180570,1760,Mega Man Battle Network 4 Blue Moon,NULL,2003-12-14 00:00:00.000,3,NULL,68.0000,1,68.6046,11
+159317,1759,Mega Man Battle Network 4 Red Sun,NULL,2003-12-12 00:00:00.000,1,NULL,NULL,NULL,67.8463,10
+16115,1766,Mega Man Network Transmission,"The storyline of Megaman Network Transmission takes place during the first decade of the 21st century (""200X""), one month after the original Megaman Battle Network. Following the defeat of the ""Life Virus"", the ultimate weapon of Dr. Wily and the ""WWW (World Three)"" organization, Lan Hikari and his network navigator (NetNavi) MegaMan.EXE return to a life of ease. However, no sooner does Lan begin to relax when he hears of a mysterious and destructive computer virus called the ""Zero Virus"" that infects Navis and causes mayhem via his personal information terminal (PET) e-mail. Lan has other qualms to deal with however, receiving an e-mail detailing fellow NetNavi Roll.EXE being trapped in the internet. MegaMan goes to save her, finding an infected FireMan.EXE as the cause of trouble. Defeating him, the duo talk to FireMan's operator, Mr. Match, and learn of the vaccine being distributed to amend the Zero Virus is actually doing just the opposite, having caused FireMan to go berserk.",2003-03-06 00:00:00.000,NULL,NULL,63.5000,2,61.4142,9
+152511,1747,Mega Man X7,"Following the Eurasia and Nightmare incidents, Reploids work diligently to rebuild the Earth. Growing weary of the seemingly never-ending Maverick Wars, X decides to retire in search of more peaceful solutions, leaving Zero in charge.[6] In X's absence, Maverick activity rapidly begins to rise, which leads to the formation of an unsanctioned anti-Maverick vigilante group known as Red Alert. As the group grows more and more reckless, one of their members, a new generation Reploid prototype named Axl, decides to defect. Red, the group's leader, is angered by Axl deserting them, and goes on a rampage to get him back.",2003-07-17 00:00:00.000,6,1,NULL,NULL,41.1052,24
+161543,1776,Mega Man Zero 2,"One year has passed since Zero defeated Copy X. He has since spent his time wandering the desert defeating wave after wave of Pantheons. As the game opens, Zero wearily makes his way through a sandstorm wrapped in a tattered cloak. As the sands die down he realizes he is once more being chased by enemies. Despite being in disrepair, with cracked armor and broken weapons (his rod and shield being useless), his cloak is thrown to the winds and his Buster Shot gun is drawn in defense.
+
+Elsewhere, the three surviving members of the Four Guardians (Phantom self-destructed trying to stop Zero's assault on Area X in previous game) assumed command of Neo Arcadia, with Harpuia as the leader. Copy X's death was covered up, as the humans revered him as their savior. Harpuia leaves Neo Arcadia and comes across Zero after his battle in the desert. Harpuia brings him to the new Resistance Base where Zero is repaired and reunited with Ciel and the rest of the Resistance, and also meets their new commander, Elpizo. Alone in her office, Ciel tells Zero of the changes that have taken place in the year he was missing, as well as reminding him of her ultimate goal of creating a new energy system. She shows him a Baby Elf, which is the basis of her current research.",2003-05-02 00:00:00.000,9,NULL,NULL,NULL,82.2229,42
+132921,9787,Mercedes-Benz World Racing,NULL,2003-12-31 00:00:00.000,NULL,NULL,60.0000,1,39.0000,3
+159002,49691,Mermaid Melody: Pichi Pichi Pitch,NULL,2003-11-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+81761,4004,Metal Arms: Glitch in the System,NULL,2003-11-18 00:00:00.000,7,NULL,83.2500,5,70.1719,14
+114067,49690,Metal Max 2 Kai,NULL,2003-07-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+171205,191479,Metal Slug 3,NULL,2003-06-19 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+183989,1410,Metal Slug 5,"The laboratory developing the next generation of METAL SLUGs comes under attack and a data disk containing METAL SLUG secrets is seized.
+
+Marco and Tarma are ordered to retrieve the disc and rush to track it down. Meanwhile, Eri and Fio, who are investigating the paramilitary organization Ptolemaic Army that is raiding historical ruins, succeed in tracking it down at an ancient ruin known as the ""Corridor of Fire."" They storm the site and attempt to overtake them, but they are repulsed by the natives and giant METAL SLUGs. This incident makes it clear that the enemy behind the pilfering of METAL SLUG secrets is the Ptolemaic Army.
+
+The Government Forces decide to carry out a second assault on the ""Corridor of Flame"" using an elite force of PF Squad and S.P.A.R.R.O.W.S. members to retrieve the secrets and destroy the paramilitary organization!!
+
+A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.",2003-11-13 00:00:00.000,12,NULL,50.0000,1,80.2009,57
+20476,62650,MicroMan's Crazy Computers,NULL,2003-06-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+121075,712,Microsoft Flight Simulator 2004: A Century of Flight,NULL,2003-07-29 00:00:00.000,2,NULL,82.6667,3,71.0479,6
+187667,4631,Midnight Club II,NULL,2003-04-09 00:00:00.000,12,NULL,85.2500,7,75.2606,30
+142825,5929,Midtown Madness 3,NULL,2003-06-17 00:00:00.000,3,NULL,85.0000,3,62.4831,9
+144524,4007,Midway Arcade Treasures,NULL,2003-11-18 00:00:00.000,NULL,NULL,80.0000,2,69.0000,3
+82805,49687,Minami no Umi no Odyssey,NULL,2003-11-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+11484,41471,Minehunter,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+101789,87547,Minesweeper X,NULL,2003-01-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+181222,209506,Mini Golf,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144924,186457,Mini Kyodai Robo Goemon Compact,"The giant robot Goemon Impact and a new character in the SD style, Goemon Compact, take on a training fighting simulation to save the world from evildoers. The game takes place all over Japan, where the heroes can gain experience points and travel to many stores in order to acquire more powerful weapons.",2003-05-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172162,49685,MiniMoni: Onegaio Hoshisama!,NULL,2003-01-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90698,61214,Minna no Ouji-sama: The Prince of Everyone,NULL,2003-12-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+21301,49731,Minna no Shiiku Series: Boku no Kabuto - Kuwagata,NULL,2003-07-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110347,49728,Minna no Soft Series: Hyokkori Hyoutan Shima,NULL,2003-12-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+13310,49727,Minna no Soft Series: Minna no Mahjong,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172194,49725,Minna no Soft Series: Shanghai,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+26543,49724,Minna no Soft Series: Tetris Advance,NULL,2003-12-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143912,43779,Miracle Space Race,NULL,2003-06-06 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+65694,64675,Missing Parts 3: The Tantei Stories,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+167207,68204,Missing: Since January,NULL,2003-10-17 00:00:00.000,NULL,NULL,70.0000,1,NULL,NULL
+131540,4013,Mission: Impossible – Operation Surma,NULL,2003-12-02 00:00:00.000,1,NULL,51.7500,4,43.0000,3
+167553,23700,MLB 2004,NULL,2003-04-30 00:00:00.000,NULL,NULL,66.0000,2,NULL,NULL
+167778,47568,MLB Slam!,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+132686,23819,MLB SlugFest 2004,NULL,2003-04-17 00:00:00.000,NULL,NULL,80.0000,1,36.0000,0
+39006,43242,MLF 2,NULL,2003-04-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+21272,43392,Mobile Suit Gundam Encounters In Space,NULL,2003-09-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+97641,25097,Mojib-Ribbon,NULL,2003-11-20 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+136119,5931,Mojo!,NULL,2003-08-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146146,4015,Momotaro Dentetsu 12: Nishi Nihon-hen mo Ari Masse!,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,25.0000,0
+181087,122220,Mondschein,"Old Fynn tells of his life. He always wanted to go to the stars. When the opportunity arose, he joined the alliance for a space mission. But on this mission, the ship is attacked and destroyed by an unknown force. In a rescue capsule Fynn crashes on a strange planet and is found by the girl Ki. Here the adventure begins. With the help of his new girlfriend Ki, he goes in search of the so-called people from the moon, always pursued by terrible nightmares.
+
+Moonlight has its own combat system and some nice animations. Furthermore, there are a number of side quests that make the game even more interesting. But also with the rest the game makes an excellent impression.",2003-03-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+132261,23767,Monopoly 2003 Edition,NULL,2003-10-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+131792,4017,Monster 4x4: Masters of Metal,NULL,2003-11-25 00:00:00.000,NULL,NULL,30.0000,1,23.0000,0
+183562,5580,Monster Attack,NULL,2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+56566,49715,Monster Maker 4: Flash Card,NULL,2003-01-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+77543,49714,Monster Maker 4: Killer Dice,NULL,2003-01-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+131780,43630,Monster Rancher 4,NULL,2003-12-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+73781,190208,Moorhuhn Adventure: Der Schatz des Pharao,NULL,2003-12-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+342,92853,Moorhuhn Kart Extra,NULL,2003-12-31 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+96398,26635,Mortal Kombat: Tournament Edition,"Mortal Kombat: Tournament Edition has the same story as Mortal Kombat: Deadly Alliance, it adds three more characters to the plot.",2003-08-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+151420,78585,Mother 1+2,"Mother
+
+EarthBound Beginnings follows the young Ninten as he uses his great-grandfather's studies on psychic powers to fight hostile, formerly inanimate objects and other enemies. His adventure leads him to new friends and eventually uncovering an alien plot that must be stopped.
+
+Mother 2
+
+The story begins when Ness is awakened by a meteor that has plummeted to the earth near his home, whereupon he proceeds to investigate the crash site. When Ness gets to the crash site he discovers a police roadblock and Pokey Minch, his friend and neighbor, who tells him to go home. Later, Ness is woken up again by Pokey knocking at his door, demanding help to find his brother Picky.
+
+They find him near the meteor sleeping behind a tree and wake him up. Then the three encounter an insect from the meteor named Buzz Buzz who informs Ness that he is from the future where the ""universal cosmic destroyer"", Giygas, dominates the planet. Buzz Buzz senses great potential in Ness and instructs him to embark on a journey to seek out and record the melodies of eight ""sanctuaries,"" unite his own powers with the Earth's and gain the strength required to confront Giygas.",2003-06-20 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+45235,73932,Motion Gravure Series: Kitagawa Tomomi,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+59138,71071,Motion Gravure Series: Megumi,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180609,71487,Motion Gravure Series: Mori Hiroko,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180652,72297,Motion Gravure Series: Nemoto Harumi,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+55146,45100,Motocross Mania 2,NULL,2003-07-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+4774,175917,MotoGP,NULL,2003-11-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79992,5933,MotoGP 2,NULL,2003-05-15 00:00:00.000,5,NULL,82.0000,5,78.7664,9
+132672,5938,MotoGP 3,NULL,2003-02-27 00:00:00.000,2,NULL,79.5000,2,NULL,NULL
+108521,43235,Motorbike King,NULL,2003-10-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+16503,44637,Motorsiege: Warriors of Primetime,NULL,2003-09-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+181778,26359,MU Online,"In a millennium's time, the Land of MU has advanced and developed the empire in great bounding strides. However, as foretold in the Great Prophecy, Secromicon, the Continent of MU fell into overwhelming chaos. Great leaders who had once controlled the MU Continent now have fallen low, and the central government; due to the internal strife and warfare amongst power hungry feudal lords, have brought the kingdom asunder and thus the empire crumbled. The millennium of peace and bounty is now a mere memory and dark stains of blood now cover the land. The ravages of war have laid waste to the once beautiful land and the shedding of blood still knows no end. Even now, petty feudal lords endlessly build up their machines of war and futilely attempt to re-establish what once was.
+
+And it was during this time of endless blood letting that the Gates of Hell were thrown open as the blind ambitions of a foolish man had been led far astray.
+
+Antonias a foolish Lord, blinded by ambition, deceived by the evil Sorceress Lemulia, unknowingly let loose upon the world, Kundun, the Devil of Darkness, a demon difficultly confined by the Seal of Etramu.
+
+""Now this land shall be mine again. I have banished Peace for all time… the Sun will no longer shine. This earth shall be mine, and cunning men will be my slaves and cattle.""
+
+The Ancient Devil Kundun awake from its long sleepless slumber now walks amongst the living defiling the land with his touch. Amidst the chaos, the stars have lost their course and the stench of fear and blood pervades throughout. Kundun released upon the land his rage and vengeance for his long confinement. Quickly, the now forsaken land of MU has become home to Kundun's minions and for 2 long years the evil of his reign befouled all that was once pure. Nightmare's Day, a passage in the Great Prophecy, had come true and was no longer merely the words of days gone by. Wise men began their studies anew and hopingly and longingly referred to the ray of light mentioned within the writings of the prophecy. Their last remaining hope lay in the power of the seal of Etramu, the very seal that maintained Kundun's imprisonment. Into 8 pieces the seal has been scattered and only when the seal is made whole shall peace return to the land once more.",2003-10-06 00:00:00.000,5,NULL,NULL,NULL,62.6338,14
+118260,49710,Mugenborg,NULL,2003-02-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+16067,3260,Muppets Party Cruise,NULL,2003-11-11 00:00:00.000,2,NULL,76.0000,1,25.0000,0
+36241,45831,Musapey's Choco Marker,NULL,2003-01-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86647,22236,Music 3000,NULL,2003-06-30 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+119615,140524,Muv-Luv,NULL,2003-02-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+191422,11778,Muv-Luv,NULL,2003-02-28 00:00:00.000,6,NULL,78.5000,3,79.4326,15
+143847,11556,MVP Baseball 2003,NULL,2003-03-11 00:00:00.000,NULL,NULL,72.5000,3,NULL,NULL
+143155,19306,My Street,NULL,2003-03-09 00:00:00.000,NULL,NULL,40.0000,1,NULL,NULL
+82284,72063,Mysterious Journey II,NULL,2003-11-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+18265,5940,N.U.D.E.@ Natural Ultimate Digital Experiment,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188201,219416,Namco Arcade Classics,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71857,10580,Nancy Drew: Danger on Deception Island,NULL,2003-10-03 00:00:00.000,NULL,NULL,NULL,NULL,60.0487,6
+138644,10586,Nancy Drew: The Haunted Carousel,NULL,2003-08-22 00:00:00.000,NULL,NULL,NULL,NULL,66.0992,6
+42638,91415,Narcolepsy,NULL,2003-12-27 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+154040,4026,Naruto: Clash of Ninja,NULL,2003-04-11 00:00:00.000,4,NULL,65.0000,2,66.9740,13
+107154,24289,Naruto: Clash of Ninja 2,NULL,2003-12-04 00:00:00.000,1,NULL,62.0000,1,66.4766,10
+123379,37358,Naruto: Konoha Ninpouchou,NULL,2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29377,75842,Naruto: Konoha Senki,NULL,2003-09-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176048,24066,Naruto: Ninja Council,NULL,2003-05-01 00:00:00.000,3,NULL,63.0000,1,68.2841,10
+5161,44784,Naruto: Shinobi no Sato no Jintori Kassen,NULL,2003-07-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147535,18386,Naruto: Ultimate Ninja,NARUTO - ULTIMATE NINJA follows the story of the manga from the Introduction Arc up to the Invasion Arc.,2003-10-23 00:00:00.000,9,NULL,70.0000,4,67.6948,41
+139861,804,NASCAR Racing 2003 Season,NULL,2003-02-13 00:00:00.000,NULL,NULL,100.0000,1,NULL,NULL
+137377,5947,NASCAR Thunder 2004,NULL,2003-09-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138678,23706,Naval Ops: Warship Gunner,NULL,2003-07-24 00:00:00.000,NULL,NULL,68.0000,1,NULL,NULL
+135489,72523,Navy SEALs: Weapons of Mass Destruction,NULL,2003-07-18 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+118614,24124,NBA Inside Drive 2004,NULL,2003-12-18 00:00:00.000,NULL,NULL,82.0000,2,NULL,NULL
+78161,8997,NBA Jam,NULL,2003-09-23 00:00:00.000,NULL,NULL,90.0000,2,NULL,NULL
+102608,4032,NBA Live 2004,NULL,2003-10-14 00:00:00.000,1,NULL,91.0000,1,70.1209,5
+137601,20267,NBA ShootOut 2004,NULL,2003-10-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+65637,4036,NBA Street Vol. 2,NULL,2003-04-28 00:00:00.000,7,NULL,85.0000,3,90.1963,23
+147083,5956,NCAA Football 2004,NULL,2003-07-16 00:00:00.000,1,NULL,84.6667,4,40.0000,3
+145303,175918,NCAA Football 2004,NULL,2003-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+53714,43638,NCAA Gamebreaker 2004,NULL,2003-09-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+82309,5959,NCAA March Madness 2004,NULL,2003-11-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+76792,96,Need for Speed: Underground,NULL,2003-11-17 00:00:00.000,194,NULL,76.5000,2,84.0278,579
+191087,3132,Neighbours from Hell,"Woody is an average man who has a happy life, until his neighbor Mr. Rottweiler, makes his life miserable. Woody decides to take full revenge on Mr. Rottweiler. In the game Neighbors from Hell, the player creeps around the neighbour’s house performing tricks upon the unsuspecting resident. The player is the star of a new TV show with the same name, with cameras that track every move as the player sets traps such as sawing the chair, banana peels/soap on the floor, smeared paintings and messing with home equipment. The game's objectives are to create disarray, increase ratings, and win awards. Obstacles in the game include the watchful neighbour himself, also - his guard dog, and a parrot called Chilli, both of whom will try to alert the Neighbour of Woody's presence.",2003-06-20 00:00:00.000,36,NULL,72.0000,2,78.7407,96
+132847,191679,Nekketsu Kakutou Densetsu,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157749,10593,Nemesis of the Roman Empire,"Nemesis of the Roman Empire is a real-time strategy role-playing game. Set during the Punic Wars, the player can take control of one of four nations: the Romans, the Gauls, the Carthaginians, and the Iberians.
+
+Seeing the power and influence of Carthage, Roman legions were sent to Africa with orders to attack the rival city of Carthage, led by its general Hannibal.",2003-11-27 00:00:00.000,NULL,NULL,90.0000,1,70.0000,0
+143299,75876,Neon Genesis Evangelion 2,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110495,27100,Neon Genesis Evangelion: Ayanami Raising Project with Asuka Supplementing Project,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+57410,75879,Neon Genesis Evangelion: Girlfriend of Steel 2nd,NULL,2003-05-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+155075,7682,New Star Soccer,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90527,19215,New World Order,NULL,2003-12-31 00:00:00.000,NULL,NULL,45.0000,2,NULL,NULL
+134850,23691,Nexagon: Deathmatch,NULL,2003-07-23 00:00:00.000,NULL,NULL,61.0000,1,NULL,NULL
+108551,43443,Next Generation Tennis 2003,NULL,2003-06-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140135,47337,NFL Blitz Pro,NULL,2003-10-28 00:00:00.000,NULL,NULL,NULL,NULL,53.0000,0
+136570,24094,NFL Fever 2004,NULL,2003-08-26 00:00:00.000,NULL,NULL,80.0000,2,NULL,NULL
+136726,43705,NFL GameDay 2004,NULL,2003-09-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90585,816,NHL 2004,NULL,2003-09-22 00:00:00.000,3,NULL,NULL,NULL,78.0315,13
+18495,4048,NHL Hitz Pro,NULL,2003-09-25 00:00:00.000,NULL,NULL,80.0000,2,58.0000,0
+140117,45126,NHL Rivals 2004,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+78284,61204,Nickelodeon Toon Twister 3D,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+30107,10224,Nightshade,"In Nightshade, the player plays as Hibana, a female counterpart to Shinobi‍ '​s Hotsuma. She is a government-employed ninja tasked with the elimination of members of the Nakatomi Corporation, which has unwittingly unleashed hellspawn upon futuristic Tokyo. She is also ordered to recover the shards of ""Akujiki"", the legendary cursed sword that Hotsuma used to seal the hellspawn the last time.",2003-12-04 00:00:00.000,1,NULL,60.6667,5,NULL,NULL
+178117,24090,Nina: Agent Chronicles,NULL,2003-04-08 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+144012,6524,Ninja Five-O,NULL,2003-04-11 00:00:00.000,1,NULL,79.0000,1,70.1189,6
+184679,4049,Nintendo Puzzle Collection,NULL,2003-02-07 00:00:00.000,NULL,NULL,NULL,NULL,80.0000,0
+131494,27583,No Man's Land,NULL,2003-08-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+190169,8960,Nosferatu: The Wrath of Malachi,NULL,2003-10-21 00:00:00.000,4,NULL,80.0000,1,70.4586,15
+39459,72126,O2Jam,NULL,2003-06-29 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+120296,78020,Ochakumi,"First you will have to find a bit of Ice Cream or Cake in the area. And well the perfect thing to wash down such a rich snack is a little tea. You will have to get to the tea ingredients after which the tea itself will appear in the office. Once you down the tea the level is over. However your co-workers and bosses want to see you being productive (What Rubbish!) If they run into you Ooe will lose one of three lives. 
+ 
+Seeing as you are in your chair pushing the up arrow key will cause you to move in which ever way your back is facing via the pushing actions of your legs. When facing a wall you may press the space bar to quickly launch yourself backward, if you hit anyone they will be momentarily stunned.",2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+16201,71433,Ochakumi +,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29656,134025,Oddworld: Munch's Oddysee,"Munch is the last surviving Gabbit living on Oddworld after their poaching to the verge of extinction. And now the greedy, vile Vykkers Labs have big plans for their fortune and glory through his doom. Meanwhile, veteran Oddworld saviour and outlaw Abe learns he needs Munch's help to save his species from industrial atrocity and vice versa. In an all new 3D oriented world using familiar gameplay, travelling through military bases, factories and the natural world, the two must work together and succeed together to lead the oppressed natives to freedom, decommissioning local police forces and shutting down industrial pollution in order to return balance to Oddworld.",2003-09-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14371,4051,Ohenro-San,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,23.0000,0
+68728,49739,Ojarumaru: Gekkou Machi Sanpo de Ojaru,NULL,2003-10-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+26856,24098,Once Upon A Knight,NULL,2003-09-23 00:00:00.000,NULL,NULL,68.0000,1,NULL,NULL
+56997,14430,One Must Fall: Battlegrounds,NULL,2003-12-31 00:00:00.000,NULL,NULL,60.0000,1,NULL,NULL
+133640,75752,One Piece: Grand Battle! 3,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,61.0000,1
+180439,75750,One Piece: Ocean's Dream!,"One night, while all the Straw Hats, except for Robin who was reading a book, were sleeping in their beds, they all dream of a cloaked young man playing beautiful music from a sea horn underwater. In the morning, the crew wakes up and Robin is shocked to discover they have no memories of her or their being in a Pirate Crew. With only the memories from before joining the crew still in their heads the crew begins to splinter, Nami runs away from the ship with all the gold as she has reverted herself back into a pirate-hating thief, and Zoro causes a fight with the crew and also retreats, believing that he is once again a bounty hunter.
+
+It is now up to Robin to reunite the crew and help her friends get their memories back, as well as to find out the cause of their mysterious memory loss.",2003-05-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+106149,37446,One Piece: Treasure Wars 2: Buggyland e Youkoso,NULL,2003-01-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+80849,126296,Onegai ☆ Teacher,NULL,2003-11-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+162913,6526,Onimusha Tactics,"Young warrior, Onimaru is given the Oni Gauntlet as he rushes to defend his village from the demon hordes of Nobunaga Oda. Onimaru soon discovers from the old man Sandayu, that although he has been living in the peaceful province of Iga, he is of the Oni clan and had been secreted away. Additionally, with the power of the Oni Gauntlet, he can absorb the souls of enemies and use the demon Genma stones to recreate lost weapons and armor. With this new knowledge of who his is and of his destiny, he assembles a hasty squad of fighters including his sister Ororo and sets off to avenge his province and stop Nobunaga's demonic war upon the land.",2003-07-25 00:00:00.000,1,NULL,60.0000,1,68.9888,5
+164759,10551,Onimusha: Blade Warriors,The story takes place months after the events in Onimusha 2 and 11 years before the events in Onimusha 3.,2003-11-27 00:00:00.000,2,NULL,76.0000,2,NULL,NULL
+17218,27256,Online Bomberman,NULL,2003-12-31 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+18704,49319,Operation: Armored Liberty,NULL,2003-12-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172542,49414,Oriental Blue,NULL,2003-10-24 00:00:00.000,5,NULL,NULL,NULL,NULL,NULL
+27227,49767,Oshare Princess 2 + Doubutsu Kyaranabi Uranai,NULL,2003-01-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+104053,49772,Oshare Princess 3,NULL,2003-09-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110332,5976,Otogi 2: Immortal Warriors,NULL,2003-12-25 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+180496,73544,Out of Order,"The game's protagonist is Hurford Schlitzting, who is woken in the night by a thunderstorm. Hurford discovers that he, along with his entire bedroom, have been transported to a place called ""The Town,"" set in an alternate future inhabited by aliens. He navigates the environment in his bathrobe and teddy bear slippers in an attempt to resolve the mystery of why he has been kidnapped.",2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145080,47311,Outlaw Golf: 9 More Holes of X-Mas,NULL,2003-12-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+192951,3806,Outlaw Volleyball,NULL,2003-07-09 00:00:00.000,NULL,NULL,70.0000,3,NULL,NULL
+141483,47379,Outlaw Volleyball Red Hot,NULL,2003-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+163984,2052,OutRun 2,NULL,2003-12-13 00:00:00.000,3,NULL,80.0000,2,78.3923,6
+44450,137319,Over the Monochrome Rainbow featuring Shogo Hamada,NULL,2003-03-19 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145074,49318,Ozzy & Drix,NULL,2003-12-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+116667,4060,P.N.03,NULL,2003-03-27 00:00:00.000,1,NULL,70.0000,1,61.1457,6
+142862,43435,P.T.O. IV,NULL,2003-03-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+31079,47025,Pac Brothers,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+35829,43448,Pacific Warriors II: Dogfight!,NULL,2003-11-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+182922,4062,Pac-Man Vs.,NULL,2003-12-03 00:00:00.000,1,NULL,60.0000,2,74.0000,3
+183151,150107,Panel de Pon,NULL,2003-02-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138090,71647,Paradise Cracked,"For many years the world had suffered from overpopulation and ecological destruction, until the leading scientists created CyberBrain - a supercomputer that solved all the global problems and turned the overpopulated and polluted Earth into Paradise. You are a young hacker. Once, while in cyberspace you managed to break into a secured area and came across a series of strange data packets. You hurriedly copied these to disk, not even having the time to read their contents. Only a few minutes later you hear a police siren, followed by banging on the door and demands to open up...",2003-09-30 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+144540,43847,Patriotic Pinball,NULL,2003-05-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+75597,115512,Pax Romana,NULL,2003-11-06 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,0
+176622,94449,Pekka Kana 2,NULL,2003-08-06 00:00:00.000,2,1,NULL,NULL,NULL,NULL
+27750,65106,Pet Racer,NULL,2003-01-01 00:00:00.000,1,2,NULL,NULL,NULL,NULL
+55217,79149,Phantasy Star Online Episode I & II Plus,"Episode I begins as Pioneer II arrives at Ragol, attempting to land and begin colonizing the new planet. While preparing to land, a huge explosion rocks the surface of Ragol, causing all connection with the first colony down below, Pioneer I, to be lost. The Principal reaches out to the group of warriors called Hunters to go onto the surface and search for clues of what happened to Pioneer I, the colonists, and the Principal's daughter, Rico Tyrell. The player will make their way through four different areas of Ragol, Forest, Caves, Mines, and Ruins in search of what happened to Red Ring Rico and the cause of the mysterious explosion. 
+ 
+After Episode I, the player is asked to help the government explore a recently found laboratory on Gal Da Val Island. After some training missions, you begin to explore the island, only to find mysterious voice capsules from Healthcliff Flowen, a military commander that the government had presumed dead. The player will travel through 7 different areas,Temple, Spaceship, Jungle, Mountain, Seaside, Central Control Area, and Seabed in search of the fate of Healthcliff Flowen and the mysterious plan begun by Dr. Osto.",2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,87.0000,2
+116499,23329,Phantasy Star Online Episode III: C.A.R.D. Revolution,"In Phantasy Star Online Episodes I and II, the spaceship Pioneer 2 arrived at the uninhabited planet Ragol in hopes of colonization in response to the failing ecosystem of the home planet Coral. In Episode III, Pioneer 2 remains in orbit above Ragol, but still has not begun colonization. The inner strife of the government of Pioneer 2, which has since gained independence from Coral, in addition to the exploitation of the planet's resources prevent colonization. 
+ 
+The government of Pioneer 2 also hopes to exploit ""the germ"", a mysterious substance discovered on the planet, which they use to power the newly developed ""C.A.R.D. technology"", which is used to store items such as weapons as cards and allow them to be used much more efficiently.[1] C.A.R.D. is an acronym for ""compressed alternate reality data"". The game can be played as either the ""Heroside"" or the ""Darkside"". The ""Heroside"" are government-appointed officials, who take orders from the government to explore, research, and capture the Arkz, an anti-government faction. The ""Darkside"" are the Arkz, founded by a man known only as Red. The Arkz try to intercept and destroy the government's plans for the exploitation of the planet. They also oppose the use of C.A.R.D. technology due to its unpredictability and the lack of complete understanding of the germ. They still, however, use a stolen version of the technology in order to be able to compete with Heroside. Both sides also search for the location of the ""Great Shadow"", which is believed to be the source of the germ. 
+ 
+Within the two factions, each character has their own goals and aspirations, and playing as certain characters in battle will reveal different aspects of the story. When both sides of the story are completed, one after another, it is discovered that the government, while experimenting with the germ for clone technology, is attempting to create bio-soldiers with the genetic material of Red's deceased twin daughters. The final boss for Heroside is a rejected mutated clone of Pollux. The final boss for Darkside is a rejected mutated clone of the other twin, Castor. After completing the storylines and their boss battles, there is a final battle with the source of the germ, Amplam Umbra. Once the source is destroyed, Pioneer 2 finally lands on Ragol, and the colonization of the planet begins.",2003-11-27 00:00:00.000,1,NULL,NULL,NULL,74.0000,2
+75774,194720,Pia Carrot he Youkoso!! 2,NULL,2003-02-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166666,43245,Pinball Fun,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+73004,64477,Pinball Tycoon,NULL,2003-01-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+130602,142495,Pingwinek Kelvin,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+115404,66750,Piposh 3D: The Revolution,"Piposh is fired after performing weakly at a hotdog commercial. Meanwhile Mr. Shik wants to send a vase to the US, but the vase falls from the plane and is smashed to pieces across the country of ""Pozpozmijistan"" and Piposh must collecrt and piece together the vase fragments without Mr. Shik ever knowing something happened.",2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+183294,5982,Pirates of the Caribbean,"After a fierce storm, Captain Nathaniel Hawk arrives on the island of Oxbay. His first mate Malcolm Hatcher is retiring, and so Hawk must hire a new first mate and crew. As he leaves Oxbay, a French armada attacks the colony and captures it. Hawk manages to slip away and warn the English governor on Redmond Island, Robert Christopher Silehard, that Oxbay was attacked.
+
+The governor sends Hawk on a series of quests to aid him in the war against France: Nathaniel is sent to investigate the condition in Oxbay; prevent a supply ship from reaching Oxbay; unload English troops in the jungles of Oxbay and rescue the English spy from the clutches of the French.
+
+While preparing for his next quest - annexing Oxbay, Nathaniel meets his old friends: Danielle Greene and Ralph Fawn. However, Ralph is killed when the soldiers arrive to arrest Danielle and Nathaniel himself is captured and imprisoned. While in prison he gets to know an old ex-cannoneer Edgar Attwood who was fired for drinking too much rum. He can be later hired by the player into his crew.
+
+Some time later governor Silehard arrives and tells Nathaniel that a big mistake has occurred. He sends Nathaniel Hawk on another series of quests until Nathaniel meets an old inventor who aids him in finding a treasure that could defeat the ghost ship called the Black Pearl.
+
+There is also a large number of side quests. For instance, in one such side mission Hawk is enlisted to help a Dutch colonist find several kidnapped children.",2003-06-30 00:00:00.000,18,NULL,49.3333,5,91.3124,40
+138652,19218,Pirates of the Caribbean: The Curse of the Black Pearl,NULL,2003-05-19 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+21863,1829,PlanetSide,NULL,2003-05-20 00:00:00.000,NULL,NULL,74.5000,3,65.3320,4
+96129,194758,Playing with Fire,"""You have lost your mates, your on your own. The local neighbourhood gang are hunting you down. Blast your way to them before they kill you!!""",2003-06-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+21998,40188,Pochi and Nyaa,NULL,2003-01-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+117034,93046,Pokémon Box: Ruby & Sapphire,NULL,2003-05-30 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+174466,2643,Pokémon Channel,NULL,2003-07-18 00:00:00.000,4,NULL,NULL,NULL,53.2150,17
+195646,2725,Pokémon Colosseum,NULL,2003-11-21 00:00:00.000,21,NULL,NULL,NULL,69.9949,91
+18592,45690,Pokémon Crazy Drummer,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92310,144721,Pokémon Mini: Snorlax's Lunch Time,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79864,4069,Pokémon Pinball: Ruby & Sapphire,NULL,2003-08-01 00:00:00.000,5,NULL,75.0000,2,79.9500,31
+129822,64033,Pokémon: Masters Arena,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+40900,137478,Police Quest: SWAT Generation,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+25254,82131,Police: Chase Down,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+168420,49434,Polly Pocket!: Super Splash Island,NULL,2003-10-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+9839,135850,Population: Tire,"In the year 19xx, the citizens of Strongbadia are terrorized by a faceless foe. As a top secret crack commando operative, it is you job to protect the last remaining citizen from touching the tainted soil. You are soldier! 
+ 
+Score points by bouncing tire with mouse. Hit infidels to increase the value of each bounce. String combos to prevent the value from dropping over time. 
+ 
+You one are of brave few. Accept your mission and step fourth. And remember; never, ever break a cold one.",2003-06-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+20156,834,"Port Royale: Gold, Power and Pirates",NULL,2003-04-04 00:00:00.000,1,NULL,85.0000,2,78.0649,7
+179762,3109,Postal 2,"Live a week in the life of ""The Postal Dude""; a hapless everyman just trying to check off some chores. Buying milk, returning an overdue library book, getting Gary Coleman's autograph, what could possibly go wrong?",2003-04-13 00:00:00.000,75,NULL,59.2500,4,69.8395,184
+22324,49505,POWDER,NULL,2003-07-01 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+179576,39543,Power Instinct Matrimelee,NULL,2003-01-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178457,3291,Power Rangers Ninja Storm,NULL,2003-09-03 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+111300,8103,Powerpuff Girls Learning Challenge 2: Princess Snorebucks,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+71383,8008,Powerpuff Girls: Mojo Jojo's Clone Zone,NULL,2003-07-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195196,9058,Praetorians,NULL,2003-02-28 00:00:00.000,6,NULL,83.5000,2,87.4910,15
+143710,27250,Premier Manager 2003-04,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+76164,18276,Pride FC: Fighting Championships,NULL,2003-02-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+163790,11789,Primal,NULL,2003-03-25 00:00:00.000,9,NULL,50.0000,2,79.9578,19
+87989,212850,Prince of Persia: Harem Adventures,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+103957,142650,Prince of Persia: The Sands of Time,NULL,2003-10-28 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+29687,27317,Princess Maker Refine,NULL,2003-03-03 00:00:00.000,NULL,NULL,NULL,NULL,70.0000,1
+24355,50856,Priston Tale,NULL,2003-03-01 00:00:00.000,3,NULL,NULL,NULL,NULL,NULL
+59019,27599,Pro Bass Fishing 2003,NULL,2003-03-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+94872,47346,Pro Beach Soccer,NULL,2003-08-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138640,91678,Pro Cast Sports Fishing,NULL,2003-08-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+47796,3321,Project Gotham Racing 2,NULL,2003-11-17 00:00:00.000,10,NULL,93.0000,3,83.4357,19
+47960,46510,Protector YASI,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+35336,6010,Pulse Racer,NULL,2003-01-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138885,5995,Pure Pinball,NULL,2003-05-28 00:00:00.000,NULL,NULL,74.0000,1,NULL,NULL
+137947,3740,Putt-Putt: Pep's Birthday Surprise,NULL,2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,50.0000,0
+177620,86662,Puyo Pop,NULL,2003-10-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+69992,49798,Puzzle & Tantei Collection,NULL,2003-04-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138353,47567,Puzzle Bobble VS,NULL,2003-10-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188242,179406,Puzzle League,NULL,2003-02-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166667,98663,Puzzle Maniacs,NULL,2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+53689,111321,PUZZLE MONKEY,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157618,15129,Puzzle Pirates,NULL,2003-12-08 00:00:00.000,NULL,NULL,87.5000,2,50.0000,2
+94227,6540,Quad Desert Fury,NULL,2003-09-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67426,112143,Quiz Magic Academy,NULL,2003-07-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145220,4076,R: Racing Evolution,NULL,2003-11-27 00:00:00.000,NULL,NULL,59.6667,3,64.0000,3
+178618,51159,Radio Helicopter,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+153210,43324,Raging Blades,NULL,2003-04-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109479,840,Railroad Tycoon 3,NULL,2003-10-27 00:00:00.000,7,1,85.0000,2,81.4158,12
+105680,205645,Rakuen Yuki,"Taisei spends his days working at a convenience store. Nothing ever changes--until the day a briefcase full of cash was dropped in front of him. Suddenly there are scary guys after him and the briefcase. Now, with the help of his friends, he is on the run to stay alive....",2003-03-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138870,174128,Rammy No Daibouken Ⅱ,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185185,1770,Ratchet & Clank: Going Commando,"Having defeated Chairman Drek in their last intergalactic adventure, Ratchet and Clank find themselves returning to a more sedate lifestyle. That is, until they are approached by Abercrombie Fizzwidget, the CRO of Megacorp, who needs the duo to track down the company’s most promising experimental project, which has been stolen by a mysterious masked figure. Initially, the mission seemed like a Sunday stroll in the park, but we soon find our heroes entangled in a colossal struggle for control of the galaxy. Along the way, the duo unleashes some of the coolest weapons and gadgets ever invented upon the most dangerous foes they have ever faced. Ratchet and Clanks set out to destroy anything and anyone who stands in their way of discovering the secrets that lie behind “The Experiment.”",2003-11-11 00:00:00.000,51,NULL,90.0000,2,81.3945,139
+154237,203060,Rave Slaves,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177433,193324,Rayman,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195854,49843,Rayman 3,"One night, a Black Lum, who was supposedly said to have grown out of pure evil, named André appears, and transforms other Red Lums into Black Lums to join him. The group eventually gains enough hair from various animals throughout the forest to dress themselves as scarecrow-like Hoodlums. In the middle of the process, Murfy, one of the residents and workers of the Fairy Council, discovers them. André later discovers him hiding nearby, and he and his Black Lums pursue him. Murfy is chased to a small clearing, where Rayman and his friend Globox are sound asleep. Just after Murfy reaches them, Globox is awakened by the commotion. Now aware of the situation, Globox helps Murfy to try and get Rayman, who is still asleep, to safety. In the process, Globox accidentally removes Rayman's hands, forcing Murfy to pick Rayman up by his hair and fly him away from the clearing himself. In an attempt to save himself, Globox runs away to safety, taking Rayman's hands along with him.",2003-02-21 00:00:00.000,NULL,NULL,30.0000,2,40.0000,4
+81868,193325,Rayman 3,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+81746,193326,Rayman 3,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188315,1966,Rayman 3: Hoodlum Havoc,"The game starts off with Andre, a black lum, flying around and turning red lums into black lums, and therefore creating his army of hoodlums. He then chases Murfy until they stumble upon Rayman and his friend Globox, peacefully resting under a tree. Attempting to hide Rayman up in the tree, Globox grabs the limbless hero's hands, and they naturally come right off. Globox then runs away, and Rayman goes and retrieves his hands.
+No Caption Provided
+
+Andre then proceeds to the heart of the world, and Rayman goes to stop him. He manages to head him off, but the lum flies straight into Globox's mouth and gets stuck in his stomach! The duo sets out for a doctor's office, where the expert can supposedly get Andre out. Unfortunately, the doctor's musical treatment fails to get the villain out, and he then refers them to another doctor. The second doctor refers them to yet another doctor, and finally the three doctors team up and get Andre out.
+
+Of course, they were unable to catch Andre before he flew away, and so he sets out to take over the world and destroy Rayman. Of course, Rayman sets out to stop him once and for all.",2003-02-21 00:00:00.000,35,NULL,65.0000,2,78.4976,92
+79072,61654,Rayman 3: Hoodlum Havoc Print Studio,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+70170,193323,Rayman Ultimate,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186887,36386,RC Cars,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,56.3090,4
+177473,44895,RC Helicopter,NULL,2003-04-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+120938,141135,Real Madrid Club Football,"Club Football is a soccer series designed to re-create the individual team experience. A total of 17 games released in the Club Football series are tailored to the specific European teams on which they are based, including character facial mapping from each of the 22 position players on the roster. Authentic uniforms, stadiums, and play styles are all included as part of the featured team. The following 17 clubs are available in the series, seven of which are from the United Kingdom: Arsenal, Aston Villa, Chelsea, Leeds United, Liverpool, Manchester United, Rangers, Borussia Dortmund, Hamburg SV, FC Bayern Munich, Ajax, FC Barcelona, AC Milan, Inter Milan, Real Madrid, Juventus, and The Celtic Football Club.
+
+Each game features bespoke content - including media archive clips of great goals and famous victories - and allows fans to add themselves to the 2003/04 starting line-up of their favourite side. Featuring photo-realistic player likenesses and stadia, and authentic crowd chants.
+
+Codemasters have put together a range of different Club Football games, each centred on one of Europe's top teams. UK club editions include Arsenal, Aston Villa, Chelsea, Leeds United, Liverpool FC, Manchester United and Rangers. The Club Football development team has been busy digitally building some of Europe's greatest football landmarks: the home stadium of each team. In the game, matches will be played in an exact replica of each club's stadium, recreated using architectural detail and photographic reference.
+
+Playing a game will be just like experiencing the genuine match day atmosphere in the ground--with you as part of the team. During a home match, you and your team will walk out onto the hallowed turf through the players' tunnel. The stadium, packed with supporters in the teams' colours, will fill with the sound of chants, songs and crowd atmospherics taken from real match days, specific to each club. Ten different in-game camera views, in addition to replay cameras, will relay the on-pitch action in televisual style.
+
+Features:
+The only football game dedicated to real fans and real clubs
+Score in a faithful replica of your club's home ground
+A totally immersive experience with fully accurate strips, sponsors, and chants from your team's fans
+Create your own likeness and put yourself in the game using the powerful player editor
+Collect photos and video footage of the greatest goals from your club's history
+Multiple game modes including: Domestic Season, European Super League, and Custom Tournaments
+Presented by famous football pundits and commentators from across Europe",2003-10-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140024,71233,Rebels Prison Escape,NULL,2003-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141525,215080,Red Faction,NULL,2003-12-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+125719,43390,Reel Fishing III,NULL,2003-10-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+66107,4085,Rei Fighter Gekitsui Senki,NULL,2003-03-06 00:00:00.000,NULL,NULL,NULL,NULL,23.0000,0
+146064,159004,Reksio i Ortografia,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+153019,85963,Reksio i Ufo,"Somewhere in a galaxy far away ... on a planet where a mole says goodnight ... a mysterious Curator builds a mighty egg with which he wants to conquer the entire universe ...
+
+Meanwhile, Rex, after solving the mystery of the Pirate Treasury, returns home ... Here he learns that the hens from his yard have been abducted by UFOs ... Rex decides to save the hens and sets off in pursuit of the cosmic kidnappers.",2003-12-31 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+188138,10236,Republic: The Revolution,"The game is set in Novistrana, a fictional Soviet breakaway state highly reminiscent of other recently post-Soviet countries in the design of its buildings and the naming of its streets and suburbs. Game characters speak a fictional language reminiscent of Ukrainian or Russian. The population is largely white, and the country's churches are Eastern Orthodox. Novistrana is rife with political turmoil, with many differing political forces vying for power representing a range of ideologies. The ideologies of Novistranans are generally influenced by their class or career. Police brutality and political corruption are prevalent.
+
+Novistrana has its own national anthem, which is sung in a fictional language. Similarly, the alphabet used in Novistrana is fictional although it draws heavily from the Cyrillic alphabet. ""Novistrana"" can be translated in Russian and some Eastern European/Slavic languages as ""New Country"". In other Slavic languages it could be translated as ""New Party"".",2003-08-01 00:00:00.000,2,NULL,60.0000,1,NULL,NULL
+178663,44977,Rescue Copter,NULL,2003-01-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177610,49431,Rescue Heroes: Billy Blazes,NULL,2003-09-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+184616,972,Resident Evil Outbreak,"Resident Evil Outbreak takes place over five scenarios, ranging from the beginning of the outbreak to the moment when Raccoon City is destroyed by the United States government. You play one of eight ordinary citizens of Raccoon city attempting to survive the carnage caused by the T-Virus.",2003-12-11 00:00:00.000,12,NULL,70.0000,2,57.9748,37
+184629,971,Resident Evil: Dead Aim,"The game starts on board the Umbrella-owned ocean liner Spencer Rain, which has been contaminated by the T-Virus stolen from Umbrella's Paris labs by bioterrorist and former employee Morpheus D. Duvall. A US government agent named Bruce McGivern is sent to stop Morpheus from spreading the zombie T-virus any further.",2003-02-13 00:00:00.000,7,NULL,71.3333,3,55.8477,23
+142816,10766,Restaurant Empire,NULL,2003-03-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+64428,106670,Return of Egypt,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51843,77219,Return to Castle Wolfenstein: Operation Resurrection,NULL,2003-05-27 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+183904,77220,Return to Castle Wolfenstein: Tides of War,NULL,2003-05-06 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+77871,40772,Revenge Of The Apes,NULL,2003-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146407,4087,Ribbit King,In Ribbit King you play as a boy named Scooter. The king of your home planet informs you that they are running out of super ribbonite and ask you to bring back more. The king's assistants send you off to win first place in a frolf tournament in order to save your planet and win a new supply of Super Ribbonite.,2003-07-11 00:00:00.000,NULL,NULL,39.5000,2,76.0000,2
+107671,203282,Ripple no Tamago: Apprentice Magician,"This is the Avenchurin Kingdom.
+One day a great accident befell the kingdom.
+The beautiful prince Legrand fell into a deep sleep because of the curse of a forbidden magic book.
+
+The day of the prince's succession test is in one hundred days, somehow the curse has to be dispelled before then.
+
+It is written in a legend that in order to dispel the curse you need a special 'magic stone' with great power.
+That stone is a troublesome thing that chooses the ones who can use it and also needs to be charged up by people it chooses.
+
+The one who is chosen by the stone is a one of the 'Ripple' Court Magician apprentices Crim.
+She also has a rival apprentice Richil.
+The ones chosen to power up the stone are the princes of the six countries of Water, Fire, Wind, Earth, Flowers, and Snow.
+
+From now on Crim and the six princes have to work together to power up the magic stone and dispel Legrand's curse before the succession test.",2003-06-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188068,848,Rise of Nations,NULL,2003-05-20 00:00:00.000,54,NULL,92.0000,3,80.7792,132
+176436,19184,Risk: Global Domination,NULL,2003-12-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147661,49178,Road Rash: Jailbreak,NULL,2003-10-17 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+24242,4089,RoadKill,NULL,2003-10-13 00:00:00.000,NULL,NULL,NULL,NULL,57.0000,1
+139682,6012,Robin Hood: Defender of the Crown,NULL,2003-09-30 00:00:00.000,1,NULL,NULL,NULL,46.0000,5
+140262,44975,Robo-Pit 2,NULL,2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176259,8854,Robot Arena 2: Design and Destroy,NULL,2003-02-25 00:00:00.000,3,NULL,NULL,NULL,NULL,NULL
+144341,8095,Rocket Power: Zero Gravity Zone,NULL,2003-09-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+183843,37354,RockMan EXE N1 Battle,NULL,2003-09-08 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133378,1768,Rockman EXE WS,NULL,2003-02-08 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+129992,4094,Rogue Ops,NULL,2003-10-29 00:00:00.000,NULL,NULL,40.0000,2,58.0000,4
+126254,85842,Rollercoaster World,NULL,2003-07-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+56936,6017,Rolling,NULL,2003-10-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+152708,7492,Romance of the Three Kingdoms IX,NULL,2003-05-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92247,110414,Rosso Rabbit in Trouble,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+164966,43556,RPG Maker II,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+41863,49795,RPG Tsukuru Advance,NULL,2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+62933,25169,rRootage,NULL,2003-03-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51238,144348,RTL Alarm für Cobra 11: Teil 2,NULL,2003-11-25 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+45834,94245,RTL Skispringen 2003,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143014,22243,RTX Red Rock,NULL,2003-07-17 00:00:00.000,NULL,NULL,54.5000,3,NULL,NULL
+139421,24109,R-Type Final,NULL,2003-07-17 00:00:00.000,NULL,NULL,80.0000,2,NULL,NULL
+167632,22247,Rugby 2004,NULL,2003-09-16 00:00:00.000,2,NULL,40.0000,1,NULL,NULL
+75459,6021,Rugby League,NULL,2003-12-09 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+6510,7999,Rugrats Go Wild!,NULL,2003-05-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+104773,18541,Rush Hour,NULL,2003-12-31 00:00:00.000,NULL,NULL,60.0000,1,NULL,NULL
+73085,63279,Saint Seiya Typing: Ryu Sei Ken,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+41070,37353,Saint Seiya: Ougon Densetsu-hen - Perfect Edition,NULL,2003-07-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+76751,56960,Sakigake!! Kuromati Koukou,NULL,2003-02-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+62197,43412,Sakura Taisen: Atsuki Chishio ni,NULL,2003-02-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+30703,36310,Salammbo: Battle for Carthage,"In 264 BC, Hannibal's proud city has just been overrun by its rival Rome in the first Punic War. Tired of waiting to be paid, the mercenaries who fought for Carthage against Rome revolted and laid siege to the city. In the very heart of the disruptions and massacres, Salammbo, the daughter of the Shophet Hamilcar, commander of the Carthaginian forces, falls in love with the chief of the rebels, Matho, who is leading the war against the city. Portraying Spendius, an escaped slave and companion of Matho, the player will discover the fantastic history of these mercenaries who fought against Carthage. Spendius is a survivor and an opportunist more than a conqueror. He is a man who stays in the shadows, much more suited to slipping in the night into an enemy city than confronting an enemy face to face...To save his life, he will have to encourage this war and try to take advantage of the disturbances to gain power, fortune and perhaps the love of the beautiful Salammbo.",2003-05-08 00:00:00.000,NULL,NULL,NULL,NULL,60.0000,1
+62836,15731,Samorost,NULL,2003-12-31 00:00:00.000,13,NULL,NULL,NULL,72.9014,50
+165764,2822,Samurai Jack: The Amulet of Time,NULL,2003-03-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+61554,6026,Samurai Shodown V,NULL,2003-10-01 00:00:00.000,1,NULL,57.0000,2,70.3746,12
+105553,132863,Sandy & Junior: Aventura Virtual,"A program was run on one of the university's computers where Sandy and Junior study. In fact, it is a powerful virus that will destroy all information on computers and spread over the internet in 24 hours. Enter the computer lab and remove the virus immediately without being seen by security guards and cameras. Enter buildings, use elevators, ventilation ducts, stairs, etc. Explore the entire campus area. Use modern infiltration technologies, such as night-vision goggles, communicator, etc. Avoid security systems, surveillance cameras and guards.",2003-09-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113775,49789,Sanrio Puro Land All-Characters,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+135175,60901,Sanyo Pachinko Paradise 8: Shin Umi Monogatari,"New in this installment is the first episode of the Pachi-Pro Fūunroku story mode. The player takes control of a young man who has just arrived in PachiPara Town looking to solve the mysteries surrounding his father's death. The player can move between three different pachinko parlors, as well as return home to the protagonist's apartment, which can be customized with items won from playing pachinko. The game proceeds much like a basic adventure game, speaking to other characters to gain information or challenge them to a pachinko duel. There are three different female characters with whom relationships can be pursued, and the ending will change depending on which character the player becomes closest to.",2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138405,2247,Savage: The Battle for Newerth,NULL,2003-09-09 00:00:00.000,NULL,NULL,83.3333,3,NULL,NULL
+174361,15830,Saya no Uta,NULL,2003-12-26 00:00:00.000,20,NULL,NULL,NULL,84.6362,55
+13247,2861,Scooby-Doo! Mystery Mayhem,NULL,2003-09-10 00:00:00.000,1,NULL,NULL,NULL,45.0000,3
+13337,49225,Scooby-Doo!: Mystery Mayhem,NULL,2003-10-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+182503,138946,Scooby-Doo: Case File #2 - The Scary Stone Dragon,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+4197,73995,Scrabble 2003 Edition,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+168113,49787,SD Gundam G Generation: Advance,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+88156,49386,Sea Trader: Rise of Taipan,NULL,2003-02-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+164719,73288,SeaWorld Adventure Parks Tycoon,NULL,2003-10-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+137337,10391,Second Life,NULL,2003-06-23 00:00:00.000,3,NULL,NULL,NULL,52.9348,8
+69590,134076,Secret Maryo Chronicles,NULL,2003-01-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136606,203,Secret Weapons Over Normandy,NULL,2003-11-18 00:00:00.000,NULL,NULL,81.7500,4,NULL,NULL
+18366,80592,Secret Wives' Club,NULL,2003-09-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58272,43454,Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1,"Phantasy Star is set in the Algol star system which consists of three planets: the lush and green Palma, the arid and barren Motavia, and the icy and desolate Dezoris. Algol is ruled by King Lassic, who while originally benevolent, becomes a cruel, sociopathic tyrant. After a string of harsh political changes, small pockets of rebellion emerge but are mostly ineffective against Lassic's iron rule. One such rebel named Nero is killed by Lassic's forces, and his sister Alis swears revenge. Alis builds a party of adventurers including a warrior named Odin,[b] a wizard named Noah,[c] and a catlike creature named Myau. Together, they embark on an adventure spanning the three planets, meeting with townspeople, battling enemies, and finding special items that will help in the fight against Lassic. Eventually, the party engages and defeats Lassic, after which an ethereal voice tells them to return to Motavia. There, they encounter a more evil force, Dark Falz, and after destroying him, finally return peace to the Algol system.",2003-09-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14081,98915,Sega Ages 2500 Vol. 2: Monaco GP,NULL,2003-08-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144044,72315,Sega Ages 2500 Vol. 3: Fantasy Zone,NULL,2003-08-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+101452,96512,Sega Ages 2500 Vol. 4: Space Harrier,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195045,73128,Sega Ages 2500 Vol. 5: Golden Axe,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+53600,99692,Sega Ages 2500 Vol. 7: Columns,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+91662,22241,Sega Arcade Gallery,NULL,2003-06-21 00:00:00.000,NULL,NULL,54.5000,2,NULL,NULL
+145098,6040,Sega GT Online,NULL,2003-12-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177034,202900,Sega Mega Pack,NULL,2003-11-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29894,214549,Seikai no Senki,"Three years after their adventure, Lafiel becomes captain on the brand new assault ship Basroil and Jinto finishes his training to become a supply officer and joins Lafiel's crew. They set out to join a large fleet with the mission to defend the strategically important Aptic Gate from a force 15 times larger than their own. And to make matters worse, their new fleet commander is from the Bebous family, a family notorious for their ""Spectacular Insanity"".",2003-09-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+78085,19116,Seiklus,NULL,2003-08-15 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+21893,49786,Sengoku Kakumei Gaiden,NULL,2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113790,153607,Sentou Yousei Yukikaze: Yousei no Mau Sora,NULL,2003-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+150322,172075,September 12th: A Toy World,NULL,2003-09-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+148806,22421,Sexy Beach 2,NULL,2003-07-11 00:00:00.000,4,NULL,NULL,NULL,NULL,NULL
+183830,198590,Shadow Grinder,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+164746,9503,Shadow Tower: Abyss,NULL,2003-10-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+125623,49783,Shaman King: Chou Senjiryakketsu 3,NULL,2003-01-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79067,4147,Shaman King: Soul Fight,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,35.0000,2
+171058,43270,Shepherd's Crossing,"Plant Grow, Reap The Rewards
+
+After a lifetime wandering, a girl named Claire in the village of Shepherd's Crossing has convinced you to settle down.
+
+With a little car, an untamed plot of land becomes a thriving farm with a wide variety of crops and animals.
+
+Trade your products at the market for new crops, animals, and friends. Go hunting wild beasts and defend your livestock.
+
+Guard your home against storms, snow, and infestation. Your farm is the heart of the town of Shepherd's Crossing.",2003-12-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+30466,123412,Shikigami no Shiro II,NULL,2003-10-24 00:00:00.000,NULL,NULL,NULL,NULL,59.0000,0
+99546,49779,Shimura Ken no Bakatono-sama: Bakushou Tenka Touitsu Game,NULL,2003-01-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+18115,49777,Shin Kisekae Monogatari,NULL,2003-10-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+105225,65864,Shin Megami Tensei: Devil Children – Book of Fire,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86194,92475,Shin Megami Tensei: Devil Children - Book of Ice,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+101211,49821,Shin Megami Tensei: Devil Children - Puzzle de Call!,NULL,2003-07-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+82650,49775,Shin Megami Tensei: Devil Children 2 - Koori no Sho,NULL,2003-10-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172350,9669,Shin Megami Tensei: Nocturne,NULL,2003-02-20 00:00:00.000,20,1,NULL,NULL,83.0751,54
+163044,6594,Shining Soul II,NULL,2003-07-24 00:00:00.000,2,NULL,77.0000,1,79.9426,5
+171175,222358,Show do Milhão Júnior Volume 2,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138819,49222,Shrek: Reekin' Havoc,NULL,2003-08-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+22704,215852,Shutokou Battle Online,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+167921,55119,Sid Meier's Civilization III: Gold Edition,NULL,2003-11-04 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+186401,482,Silent Hill 3,"Seventeen years have passed since the events of the first game, and the baby whom the Incubator gave to Harry Mason at the end of the first game, Heather Mason, is now a teenage girl. Harry took Heather into his care to raise as his own daughter. One fine day, Heather goes shopping but is suddenly thrust into a strange alternate reality filled with demonic imagery and twisted monsters. She hears footsteps, disgusting, creepy monsters attack her, and she has to defend herself. Heather quickly comes to find that the events unfolding around her have something to do with her past. Exploring the eerie town of Silent Hill, she must find a way to escape.",2003-05-23 00:00:00.000,100,NULL,88.0000,4,83.7930,278
+149882,44703,Silent Line: Armored Core,NULL,2003-01-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+182244,10844,Silent Storm,"The game's story takes place during World War II in an alternate history. Thor's Hammer Organization (THO), is a shadowy organization with connections all over Europe and the goal of world domination. THO knows that this goal cannot be attained while there are powers capable of challenging them, and aims to use its connections and advanced technology to make sure the two sides of WWII devastate each other, while THO makes a grab for power when both are exhausted. The obvious influence of Norse mythology on the organization's name is further shown by the fact that all THO members use a mythological name as their call sign.
+
+In exchange for the services of both Allied and Axis higher-ups, Thor's Hammer provides them with some of their inventions, including Panzerkleins. Panzerkleins are very difficult to destroy, as they are essentially immune to small arms fire.",2003-11-07 00:00:00.000,3,NULL,80.0000,1,79.5771,15
+141456,1275,SimCity 4,NULL,2003-01-12 00:00:00.000,75,NULL,85.0000,2,81.1296,171
+192563,27891,SimCity 4: Deluxe Edition,NULL,2003-09-22 00:00:00.000,7,NULL,NULL,NULL,76.6675,19
+22201,171245,SimHarbor,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+95345,151843,Simple 1500 Series Vol. 101: The Sentou,NULL,2003-01-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+159007,203129,Simple 1500 Series Vol. 103: The Ganso Densha Utenshi - Densha De Go!,NULL,2003-01-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178918,203347,Simple 2000 Honkaku Shikou Vol.005: The Kiryoku Kentei,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+108440,203354,Simple 2000 Series Ultimate Vol. 11: Wandaba Style - Totsugeki! Mix Live Juice,NULL,2003-11-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+108627,203356,Simple 2000 Series Ultimate Vol. 14: Topai Dramatic Mahjong,NULL,2003-11-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176933,70557,Simple 2000 Series Vol. 11: The Offroad Buggy,NULL,2003-10-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+181525,203200,Simple 2000 Series Vol. 21: The Bishoujo Simulation RPG - Moonlight Tale,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166895,203208,Simple 2000 Series Vol. 27: The Pro Yakyuu - 2003 Pennant Race,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178624,203257,Simple 2000 Series Vol. 29: The Renai Board Game Seishun 18 Radio,NULL,2003-05-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176954,203260,Simple 2000 Series Vol. 34: The Renai Horror Adventure - Hyouryuu Shoujo,NULL,2003-07-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178609,203261,Simple 2000 Series Vol. 36: The Musume-Ikusei Simulation - Otousan to Issho,NULL,2003-10-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109370,49818,Simple 2960 Tomodachi Series Vol. 1: The Table Game Collection,NULL,2003-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+109372,49819,Simple 2960 Tomodachi Series Vol. 2: The Block Kuzushi,NULL,2003-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174715,49817,Simple 2960 Tomodachi Series Vol. 3: The Itsudemo Puzzle - Massugu Soroete Straws,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141384,57821,Simple Character 2000 Series Vol. 17: Sentou Mecha Xabungle: The Race in Action,NULL,2003-04-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141444,203146,Simple Characters 2000 Series Vol. 16: Ganba no Bouken Puzzle,NULL,2003-04-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140483,27605,Sinbad: Legend of the Seven Seas,NULL,2003-10-14 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+170215,18935,Singles: Flirt up your life,NULL,2003-12-31 00:00:00.000,1,NULL,65.0000,1,71.6595,5
+2920,57016,Sinjid: Battle Arena,NULL,2003-08-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179077,14522,Siren,NULL,2003-11-06 00:00:00.000,9,NULL,70.0000,2,70.0787,12
+109401,49815,Sister Princess: Re Pure,NULL,2003-04-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90155,111165,SKATEBOARD PARK TYCOON: BACK IN THE USA 2004,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110753,60084,Slaves to Armok: God of Blood,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186058,1823,Slime Mori-mori Dragon Quest: Shougeki no Shippo-dan,NULL,2003-11-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+61024,65300,Slotter UP Core,NULL,2003-07-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+40025,65299,Slotter UP Core 2,NULL,2003-07-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+8217,60141,Slouching Towards Bedlam,NULL,2003-09-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+132112,16267,Smash Cars,NULL,2003-08-13 00:00:00.000,1,NULL,60.0000,1,60.0000,2
+23866,183610,Smilinguido: Desafio na Floresta,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+103074,119435,Snake EX2,NULL,2003-03-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86727,133868,Snake Xenzia,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+80639,6184,SNK vs. Capcom: SVC Chaos,NULL,2003-07-24 00:00:00.000,2,NULL,68.0000,2,70.1590,16
+45151,166450,Snow,"The story of Snow starts when the main protagonist Izumo Kanata visits a small village called Ryujinmura (village of the dragon god) to help his cousin Tsugumi manage a local hotel with hot springs. In the village there is an old legend: In ancient times, the village is protected by the dragon goddess. However, one day the dragon goddesses fell in love with a human, which is strictly forbidden, and this incident finally caused the village to be always covered by snow after that. The game then tells the daily life of the protagonist in the village, and finally links the story to the legend of dragon goddess.",2003-09-25 00:00:00.000,NULL,1,NULL,NULL,NULL,NULL
+137885,221025,Snow,NULL,2003-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185031,8240,SOCOM II: U.S. Navy SEALs,NULL,2003-11-04 00:00:00.000,5,NULL,NULL,NULL,89.0679,9
+81443,23695,Sonic Adventure DX: Director's Cut,"Doctor Robotnik seeks a new way to defeat his longtime nemesis Sonic and conquer the world. During his research, he learns about an entity called Chaos—a creature that, thousands of years ago, helped to protect the Chao and the all-powerful Master Emerald, which balances the power of the seven Chaos Emeralds. When a tribe of echidnas sought to steal the power of the Emeralds, breaking the harmony they had with the Chao, Chaos retaliated by using the Emeralds' power to transform into a monstrous beast, Perfect Chaos, and wipe them out. Before it could destroy the world, Tikal, a young echidna who befriended Chaos, imprisoned it in the Master Emerald along with herself. Eggman releases Chaos and Sonic and his friends must act against Eggman's plans and prevent the monster from becoming more powerful.",2003-06-17 00:00:00.000,8,1,53.5000,2,63.4085,49
+188567,6600,Sonic Battle,"Many years ago, a sentient weapon was created by an ancient civilization. After being lost for millennia, the weapon, known as the Gizoid, was unearthed and researched by Professor Gerald Robotnik. It remained dormant for another half century before being discovered by, of all people, Gerald's grandson, Dr. Eggman. Frustrated at his inability to get the dormant Gizoid to work properly, Eggman dumped it at Emerald Beach where it was found once more, this time by Sonic the Hedgehog.
+
+Sonic names the Gizoid ""Emerl"", who gets wrapped up in the affairs of Sonic's friends, both allies and rivals. Through his encounters with Sonic, Tails, Knuckles, Amy, Cream, Gamma, Rouge, and Shadow, Emerl turns from a soulless robot into a fun-loving mech with personality traits from all of those he had met. But while the gang is having fun raising their new mechanical friend, there are those who recognize Emerl's true power. Now that Emerl is working again, Eggman has his eye on it, Rouge wants to turn it into a master thief, and Shadow feels that, despite Sonic's efforts to humanize him, Emerl is still a weapon of mass destruction.",2003-12-04 00:00:00.000,5,NULL,75.0000,1,60.8918,25
+138061,4156,Sonic Heroes,"Dr. Eggman has come back to challenge Sonic and crew again to defeat his new scheme. Sonic the Hedgehog, Miles ""Tails"" Prower, and Knuckles the Echidna gladly accept and race off to tackle the doc's latest plan. Meanwhile, Rouge the Bat swings in on one of Eggman's old fortresses and discovers Shadow the Hedgehog in a capsule. After an odd encounter, Rouge, Shadow, and E-123 Omega join up to find out what happened to Shadow and to get revenge on Eggman.
+At a resort, Amy Rose looks at an ad that shows Sonic in it with a chao and a frog. After getting over boredom, Amy, Cream the Rabbit, and Big the Cat decide to find Sonic and get what they want back. Elsewhere, in a run down building, the Chaotix Detective Agency receive a package that contains a walkie-talkie. Tempting them, Vector the Crocodile, Charmy Bee, and Espio the Chameleon decide to work for this mysterious person, so they can earn some money.",2003-12-30 00:00:00.000,22,NULL,61.6667,3,65.1905,152
+87351,6601,Sonic Pinball Party,NULL,2003-06-01 00:00:00.000,NULL,NULL,81.0000,1,NULL,NULL
+80225,210304,Sonic Reversi,NULL,2003-10-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+5850,198589,Sonic Speedway,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+36004,175927,SonicN,NULL,2003-10-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+189053,198592,Sonic's Action Game,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+60909,43611,Space Channel 5 Special Edition,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+148786,23716,Space Channel 5: Ulala's Cosmic Attack,NULL,2003-07-17 00:00:00.000,NULL,NULL,62.5000,2,NULL,NULL
+143665,22248,Space Colony,"Space Colony is a strategy game with two basic levels of management. On one level you have to manage a futuristic base, while on the other you have to manage the relationships between the crew members who inhabit the base. It clearly draws inspiration from Maxis' popular life-simulator The Sims (just take a look at the box cover), as well as from management games like RollerCoaster Tycoon, SimGolf, and FireFly's own Stronghold series.
+
+Though it has no multiplayer, the game does offer a great deal of content in the form of a comprehensive single-player campaign, a series of skirmish missions, and an open-ended sandbox mode. Plus, there's a map editor you can use to create your own levels. While Space Colony offers a great deal of breadth, and a surprising amount of depth, it never really capitalizes on either of these strengths to become an incredibly compelling or incredibly enjoyable game.",2003-08-29 00:00:00.000,5,NULL,77.0000,3,64.7749,6
+154364,15652,Space Empires: Starfury,NULL,2003-09-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+25247,10213,Space Impact Evolution X,NULL,2003-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+151231,10210,Space Impact+,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+35890,84293,Space Instigators,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+145480,69888,Space Invaders Anniversary,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+90687,64070,Space Invaders Collection,NULL,2003-09-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+14012,66396,Space Station 13,NULL,2003-02-16 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+173024,4160,Spawn: Armageddon,NULL,2003-11-21 00:00:00.000,1,NULL,NULL,NULL,37.0000,3
+28289,62682,Special Force,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+85426,4161,Special Jinsei Game,NULL,2003-05-01 00:00:00.000,NULL,NULL,NULL,NULL,25.0000,0
+87878,39194,Spectral Souls,NULL,2003-10-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+125077,4163,Speed Kings,NULL,2003-05-23 00:00:00.000,NULL,NULL,60.3333,3,33.0000,0
+182846,7027,SpellForce: The Order of Dawn,NULL,2003-11-28 00:00:00.000,12,NULL,83.0000,1,77.0724,44
+194382,4164,Sphinx and the Cursed Mummy,NULL,2003-11-10 00:00:00.000,2,NULL,70.5000,4,79.7929,11
+124743,6150,Splashdown: Rides Gone Wild,NULL,2003-08-05 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+138847,133910,SpongeBob SquarePants: Battle For Bikini Bottom,NULL,2003-10-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98760,2765,SpongeBob SquarePants: Battle For Bikini Bottom,"The game revolves around the theme of robots invading Bikini Bottom, SpongeBob's hometown. The robots were created by Plankton, the evil genius owner of the Chum Bucket, who has built a new machine called the Duplicatotron 3000 to produce an army ofjeremih to take over the world using these robots, but only after he creates them does he realizes that the switch on the Duplicatotron has accidentally been switched to ""Don't Obey"" and the robots quickly kick him out of the Chum Bucket before taking over it.
+
+SpongeBob and Patrick were playing with toy robots and wish they would with real robots. Patrick uses his ""magic wishing shell"" to make their wish come true, hoping they will show up tomorrow. SpongeBob wakes up to find that his house has been trashed after thinking he wants to play with a robot. He wanders through the house for a while and receives a fax from Mr. Krabs, stating that he would give SpongeBob a golden spatula for every certain amount of shiny objects he collects for him. Outside, SpongeBob finds a disappointed Plankton, who weaves a tale of lies to the hero, claiming that the robots showed up out of nowhere and kicked him out. Fooled by the diminutive villain, SpongeBob embarks on a perilous quest to find golden spatulas, get rid of the robots, trading shiny objects to Mr. Krabs for golden spatulas, searching for Patrick's stolen socks (that had been taken by the robots) who will give him golden spatulas if he brings back ten socks, and getting Plankton back into the Chum Bucket, including bungee jumping, bubble blowing, learning new bubble moves from Bubble Buddy, and traveling through dreams amongst others.",2003-10-31 00:00:00.000,5,NULL,100.0000,1,81.3302,52
+19177,49220,Sports Illustrated for Kids: Football,NULL,2003-08-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+2238,43327,Spy Fiction,NULL,2003-12-25 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+129353,23693,Spy Kids 3-D: Game Over,NULL,2003-07-30 00:00:00.000,NULL,NULL,66.0000,1,NULL,NULL
+173183,210723,Spy Muppets: License to Croak,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174504,3261,Spy Muppets: License to Croak,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+107347,6152,SpyHunter 2,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136725,1589,Spyro: Attack of the Rhynocs,"One of the Professor's inventions has inadvertently torn a large hole in the fabric of space/time, creating a portal between the Rhynoc Lands and the Dragon Realms. Ripto, naturally, is taking full advantage of this, as he starts sending his armies of rhynocs through the portal to wreak havoc. Spyro must find somehow find a way to close the portal before Ripto succeeds in taking over the Dragon Realms.",2003-10-27 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+23274,186239,SSX 3,NULL,2003-11-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+195680,4174,SSX 3,NULL,2003-10-20 00:00:00.000,20,NULL,90.0000,2,89.1994,53
+14265,134169,Stack Attack 2 Pro,NULL,2003-08-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+15248,6158,Stake: Fortune Fighters,NULL,2003-05-05 00:00:00.000,NULL,NULL,36.0000,2,NULL,NULL
+194732,11212,Star Ocean: Till the End of Time,"The story begins in the year SD 772 as Star Ocean's protagonist, Fayt brings his family and childhood friend Sophia to the Federation-managed resort planet Hyda for a long-deserved vacation. Their dreamy holiday turns into a nightmare when Hyda is attacked by an unknown space military. In the heat of the attack, Fayt is separated from Sophia and his family and begins an emotional quest into the unknown to find his loved ones.",2003-02-27 00:00:00.000,12,1,75.0000,2,92.6314,29
+49154,8420,Star Trek: Elite Force II,NULL,2003-06-20 00:00:00.000,5,NULL,76.3333,4,76.0357,13
+77108,145,Star Wars Galaxies: An Empire Divided,NULL,2003-06-26 00:00:00.000,4,NULL,75.0000,4,79.7194,14
+90230,150523,Star Wars Galaxies: The Complete Online Adventures,NULL,2003-06-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+141355,6608,Star Wars: Flight of the Falcon,NULL,2003-11-18 00:00:00.000,NULL,NULL,60.0000,1,NULL,NULL
+191783,153,Star Wars: Jedi Knight - Jedi Academy,NULL,2003-09-16 00:00:00.000,139,NULL,69.4000,5,83.9238,311
+18376,116,Star Wars: Knights of the Old Republic,"It is four thousand years before the Galactic Empire and hundreds of Jedi Knights have fallen in battle against the ruthless Sith. You are the last hope of the Jedi Order. Can you master the awesome power of the Force on your quest to save the Republic? Or will you fall to the lure of the dark side? Hero or villain, savior or conqueror... you alone will determine the destiny of the entire galaxy!
+
+Former Jedi Darth Malak, a Dark Lord of the Sith and Darth Revan's former apprentice, has unleashed a Sith armada against the Republic. Malak's aggression has left the Jedi scattered and vulnerable; many Jedi Knights have fallen in battle and others have sworn allegiance to Malak.
+
+The game opens with the player's character - the player can choose a face and be male or female (canonically a male) - awakening aboard the Republic ship, Endar Spire, which is under attack by Malak's forces. The player's character gradually gathers companions and pieces together their past while attempting to stop Malak.
+
+The game is a part of the Star Wars Legends Universe.",2003-07-15 00:00:00.000,401,2,93.6667,12,91.2573,984
+140513,4182,Star Wars: Rogue Squadron III - Rebel Strike,NULL,2003-10-15 00:00:00.000,7,NULL,40.0000,1,75.6918,16
+127983,8148,Star Wars: The Battle of Endor,NULL,2003-12-31 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+150641,4183,Starsky & Hutch,NULL,2003-06-20 00:00:00.000,2,NULL,64.0000,2,66.9456,5
+178620,43341,Steel Dragon Ex,NULL,2003-10-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+80921,167146,Stellar Gun,NULL,2003-02-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180266,97975,Stick RPG,NULL,2003-01-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+102823,8569,Strawberry Shortcake: Amazing Cookie Party,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+119968,141519,Street Chaves,NULL,2003-12-31 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+112451,6178,Street Fighter Anniversary Collection,NULL,2003-12-22 00:00:00.000,1,NULL,60.0000,2,NULL,NULL
+166105,77346,Street Legal Racing: Redline,NULL,2003-07-18 00:00:00.000,4,NULL,NULL,NULL,NULL,NULL
+177956,44912,Street Racquetball,NULL,2003-02-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142552,197884,Stuntman,NULL,2003-06-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+162701,22242,Summer Heat Beach Volleyball,NULL,2003-07-30 00:00:00.000,NULL,NULL,71.0000,2,NULL,NULL
+124367,13108,Summon Night 3,NULL,2003-08-07 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+170281,6615,Summon Night: Swordcraft Story,"Three years after your father was lost, you are an apprentice Craftknight. A tournament is held to find the next Craftlord and you're in it. But first, you need a weapon. Unlike many RPGs, you cannot find or buy weapons to use in this game. Instead, you must learn to make your own weapons. To make a weapon, you'll need to know the technique of making a specific weapon as well as the raw materials to make it with.
+
+You aren't alone in the game. As a partner, you will get a Guardian Beast who will offer magic to help you in your battles as well as helping you make your weapons. You can get four different Guardian Beasts depending on your choices, each with different abilities.
+
+Besides the tournament, you need to gather raw materials to make better weapons by travelling through a large dungeon and battling the creatures you find there in a side-scrolling battlefield similar to Tales of Phantasia. You will also have the opportunity to spend time with your summon creature and certain other characters each night. Who you choose to spend time with will affect the story somewhat.",2003-04-25 00:00:00.000,2,NULL,NULL,NULL,84.1532,12
+142957,24088,Summoner: A Goddess Reborn,NULL,2003-02-04 00:00:00.000,NULL,NULL,NULL,NULL,66.0000,1
+58286,48651,Sunman,NULL,2003-12-15 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+131169,145271,Sunrise World War,NULL,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+66276,198028,Super Bomberman,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+174787,198216,Super Bomberman BT,NULL,2003-12-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+13263,50577,Super Bust-A-Move All Stars,NULL,2003-09-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+114303,44688,Super Dimension Fortress Macross,NULL,2003-11-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+122335,49217,Super Duper Sumos,NULL,2003-11-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+42178,152315,Super Magro World,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188650,16748,Super Mario Advance 4: Super Mario Bros. 3,"The Mushroom Kingdom has remained a peaceful place, thanks to the brave deeds of Mario and Luigi. However, the Mushroom Kingdom forms an entrance to the Mushroom World, a place where all is not well. Bowser sent his seven children to make mischief in this normally peaceful land. As their first order of business, they stole the royal magic wands from each country in the Mushroom World and used them to turn the kings into animals. Mario and Luigi must recover the royal magic wands from Bowser's seven kids to return the kings to their true forms. As Mario and Luigi set off on their journey deep into the Mushroom World, Princess Peach and Toad have but one thing to say: “Good-bye, and good luck!”",2003-07-11 00:00:00.000,16,NULL,90.0000,1,87.1111,31
+57025,55059,Super Puzzle Fighter II,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+107922,37316,Super Robot Taisen Compact 3,NULL,2003-08-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+72938,78766,Super Robot Wars Alpha 2,NULL,2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146233,6626,Super Robot Wars D,NULL,2003-08-08 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+109327,43352,Super Trucks Racing,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+142850,49216,Superman: Countdown to Apokolips,NULL,2003-04-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+171347,57666,Superstar Chefs,NULL,2003-04-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+139305,44914,Superstars Dance Club #1 Hits,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+135820,73100,Sven XXX,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136495,314,SWAT: Global Strike Team,"SWAT: GLOBAL STRIKE TEAM was formed in 2008 in response to an unprecedented escalation of threats of violence against civilians around the world by a well-organized and highly ruthless transnational criminal network bent on destabilizing democracy for its own benefit.
+
+In a secret crisis summit of the UN Security Council in Moscow, the leaders of the free world unanimously agreed that the best way to engage this common foe was to form a global police force whose structure could parallel or mirror that of the criminal network itself.
+
+SWAT: GLOBAL STRIKE TEAM is composed of the cream of police officers from the best tactical units in the world, including some who served in OPERATION URBAN JUSTICE in previous years, as well as ex-special forces personnel from various militaries. It is based on the concept that different nationalities with knowledge of local criminal environments can readily pool their intelligence and expertise to anticipate and prevent the enemy from achieving their goals. Those selected for SWAT: GLOBAL STRIKE TEAM do tours of duty around the world before returning to their previous vocations. Most choose to stay...
+
+SWAT: GLOBAL STRIKE TEAM is the muscle, the business end of a worldwide policy to streamline the law enforcement agencies of civilized nations in a sustained effort to coordinate a response to the real threat posed by the criminal network. SWAT: GLOBAL STRIKE TEAM was therefore designed to work alongside more traditional law enforcement agencies and military/defense organizations throughout the world.
+
+You are Mathias Kincaid, a former member of the US Army's elite Delta Force and now a commander within SWAT: GLOBAL STRIKE TEAM. Having volunteered for GST duty, your wish has finally been granted. As element leader, you will be teamed up with two first lieutenants, a sharpshooting sniper named Kana Lee, and Anthony ""TJ"" Jackson, an excellent field technician.
+
+A major threat to world security has arisen: two rival gangs, the ""Omega Cartel"" (Executive High Rollers) and the ""Whispering Dragon Clan"" (Urban Street Warriors) - in reality organizations - are fighting a bitter turf war over the production and distribution of a deadly new designer drug, LD-50 - nicknamed SPIKE. The Omega Cartel owns the production and distribution arm, but the new boys on the street, the Dragons, want to tax the Omega Cartel or gain access to their territory.
+
+This war has spilled out onto the streets of the world's major cities, terrorizing ordinary decent citizens. Airports have been closed down due to bomb threats, waves of car bomb attacks have swept the US, Europe, and the former Soviet Union, and street gunfights have spread beyond LA into the heartland of the US. In several major European cities, huge areas are considered virtual war zones and have effectively been abandoned by conventional police forces.
+
+To meet this threat, a global police response is needed. And so SWAT: GLOBAL STRIKE TEAM is called in with orders to destroy both narco-terrorist organizations.",2003-10-28 00:00:00.000,1,NULL,64.5000,3,NULL,NULL
+128117,169911,Sword And Fairy 2,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+162134,6630,Sword of Mana,NULL,2003-08-29 00:00:00.000,4,NULL,84.0000,1,67.7177,16
+128917,9738,Swordsman Online,"Swordsman is based upon the novel The Smiling, Proud Wanderer (Xiao Ao Jiang Hu) by Louis Cha, the best-selling Chinese writer alive. He’s famed for his wuxia novels, with 100 million copies of his works sold worldwide. As part of the wuxia genre of Chinese martial arts and chivalry, in Swordsman, the player takes the role of a wandering hero and experiences the hero’s rise to glory amongst one of ten schools of martial arts, the quest to avenge the hero’s destroyed village, and the opportunity to adventure with great heroes around the world.",2003-01-01 00:00:00.000,NULL,NULL,68.0000,1,NULL,NULL
+143018,4193,SX Superstar,NULL,2003-06-26 00:00:00.000,NULL,NULL,67.0000,2,25.0000,0
+139336,49801,Sylvania Family: Yosei no Stick to Fushigi no Ki - Maron Inu no Onna no Ko,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+74406,123432,Taiko no Tatsujin: Appare Sandaime,NULL,2003-10-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+76727,123431,Taiko no Tatsujin: Doki! Shinkyoku Darake no Haru Matsuri,NULL,2003-03-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+9632,122537,Taiko no Tatsujin: Waku-waku Anime Matsuri,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+61778,198593,Tails' Skypatrol,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+52381,181565,Taisho Mononoke Ibunroku,NULL,2003-02-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+87981,2778,Tak and the Power of Juju,NULL,2003-10-15 00:00:00.000,4,NULL,74.0000,3,56.6924,7
+184346,215056,Takahashi Naoko no Marathon Shiyouyo,NULL,2003-11-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+73369,196654,Tales of Phantasia,NULL,2003-08-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+186518,1204,Tales of Symphonia,NULL,2003-08-29 00:00:00.000,40,NULL,89.3333,4,88.0824,91
+16814,49826,Tales of the World: Summoner's Lineage,NULL,2003-03-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+101594,57117,TalesWeaver,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+23217,49853,Tantei Gakuen Q: Meitantei Hakimida!,NULL,2003-10-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+97212,6190,Tao Feng: Fist of the Lotus,NULL,2003-03-18 00:00:00.000,NULL,NULL,40.0000,2,NULL,NULL
+123276,138156,Taxi 3,NULL,2003-02-23 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+161009,144130,Teen Titans Battle Blitz,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176129,185799,Teen Titans One-on-One,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+154992,19747,Teenage Mutant Ninja Turtles,"The main gameplay loosely adapts the following season one episodes: ""Things Change"", ""A Better Mouse Trap"", ""Attack of the Mouser""s, ""Meet Casey Jones"", ""Nano"", ""Darkness on the Edge of Town"", ""The Way of Invisibility"", ""Notes From the Underground"" (Parts 1-3), and ""Return to New York"" (Parts 1-3), as well as a level that is not derived from the animated series at all.
+
+Shortly after a group of mouser robots destroy the turtles' old home, they begin to look for a new home. Michelangelo eventually gets on Raphael's nerves, making Raphael leave to the surface. At the surface, he is confronted by Purple Dragon thugs, Casey Jones, and Dragonface. Baxter Stockman soon uses invisible foot tech ninjas to capture Raphael, and Donatello is forced to rescue him. Afterward, while Raphael and Michelangelo spar for fun, Donatello analyzes a strange crystal he found in their home, noting that they look like mutated brain cells. Raphael kicks Michelangelo into a wall, revealing a large tunnel behind it. Donatello's crystal start glowing and the turtles decide to investigate. They follow the tunnel and they are confronted by genetically mutated humans. After a few scuffles with these mutants, the turtles find that these mutants were turned into their current state by past experiments of Shredder's scientists. The crystals Donatello found are the only thing keeping these mutants alive, and cannot leave their underground home as a result. They plead the turtles to defeat Shredder, so that no more humans will suffer as they have. The turtles decide to defeat Shredder once and for all, and promise the mutants that they will come back for them if they ever find a way to reverse their condition.",2003-10-21 00:00:00.000,8,NULL,60.0000,2,61.1817,26
+143785,146004,Teenage Mutant Ninja Turtles,"Shortly after a group of Mouser Robots destroy the Turtles' old home, they begin to attack their new home. Eventually the Turtles trace the robots back to Baxter Stockman's factory, where they save young April O'Neil. Afterwards Michelangelo gets on Raphael's nerves, making Raphael leave to the surface. At the surface, he is confronted by Purple Dragons' thugs, and meets Casey Jones, who equally hates that gang. Afterwards Stockman develops for the Foot Clan invisible Foot Tech Ninjas to capture Raphael, forcing the Turtles to rescue them and Donatello to use a cloaking device detector to properly fight the invisible ninjas. Afterward, they are confronted by genetically mutated beings.
+
+Once all four levels are completed, the Turtles strike on the Foot Headquarters, where they fight Hun before going after the Foot leader, The Shredder.",2003-10-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+146300,6194,Tenchu: Wrath of Heaven,"After Lord Mei-Oh was defeated in Tenchu: Stealth Assassins, Rikimaru was left in Lord Mei-Oh's fortress carrying a giant boulder to provide an escape route for Ayame and Princess Kiku. He appears to be trapped and left for dead. Ayame stuck Rikimaru's sword, ""Izayoi"" (he is seen drawing this sword in the opening CG of Wrath of Heaven) in snow as a monument for her fellow ninja, now considered dead. A year later, Rikimaru reports to Lord Gohda that he has managed to survive this near-death experience; unbeknownst to them, the real Rikimaru is trapped in the 20th century trying to find a way back to their time. 
+ 
+The game's plot plays differently depending on the character chosen, but connects at certain points. The story revolves mainly around Rikimaru's return and the struggle for the Three Jewels, which are said to give power to those who possess them. These are the Jewels of Heaven, Earth, and Virtue. Tenrai, an evil wizard who wants to get his hands on them, commands a band of his men to take the Jewels from whoever possesses them. However, upon encountering Rikimaru, he seems interested in his power and attempts convincing him to join his men. Rikimaru refuses, and he and Ayame face each one of them. One of the men in Tenrai's arsenal is Onikage, who only serves him to pursue his plan of reviving Mei-Oh (his former master) and Tatsumaru (the former leader of the Azuma Ninja Clan whom Tenrai revived). Rikimaru and Ayame follow Tenrai into his fortress to stop him from destroying the world using the power gained from two of the Jewels. If he can be defeated, peace will be returned to Gohda's land.",2003-03-03 00:00:00.000,10,NULL,80.0000,2,83.6142,26
+114366,92888,Tenerezza,"Tenerezza is a young cute girl who lives in the town Esperanza. She is an expert cook and a highly skilled magician. Cooking various kinds of food, she produces healing items, and she is proficient in using magic of the four elements. One day the town's mayor asks her to go to the nearby Magic Forest and investigate the recent appearance of monsters in the area. On her way Tenerezza meets the fairy Lolo, and together they oppose a dark force that threatens to conquer the world.",2003-01-30 00:00:00.000,1,1,NULL,NULL,NULL,NULL
+116452,23698,Tennis Masters Series 2003,NULL,2003-09-07 00:00:00.000,NULL,NULL,70.0000,2,NULL,NULL
+176581,49849,Tennis no Oji-Sama 2003: Cool Blue,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+176571,49848,Tennis no Oji-Sama 2003: Passion Red,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+2637,49851,Tennis no Oji-Sama: Aim at the Victory!,NULL,2003-01-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+108324,205641,Tennis no Ouji-sama: Sweat & Tears 2,Players witness high school life and experience romantic (and otherwise) adventures in tennis class.,2003-09-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+68486,4198,Tensai Bit-Kun: Gramon Battle,NULL,2003-09-18 00:00:00.000,NULL,NULL,NULL,NULL,23.0000,0
+67515,148442,Tenshi no Inai 12-gatsu,NULL,2003-09-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+78890,167118,Tenshi no Shippo,NULL,2003-02-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+65220,204902,Terminator 3: Rise of the Machines,NULL,2003-11-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+65240,6196,Terminator 3: Rise of the Machines,"Terminator killed John Connor in 2032, before being reprogrammed and sent back in time by Connor's wife. After rescuing them from an initial attack at the animal hospital, the Terminator leads them to the grave of Sarah Connor (who died of leukemia seven years previous) in Victorville.",2003-08-13 00:00:00.000,NULL,NULL,43.7500,4,NULL,NULL
+171789,47069,Terminator 3: War of the Machines,"The inevitable battle between man and machine has begun. War ravages the land as hardened Tech-Com fighters defend John Connor and others against the mechanized onslaught of the CRS force.
+
+This epic cinematic conflict, recreated from the phenomenal Terminator films, places first-person shooter fans at the very center of the uprising. Throughout high-powered multiplayer and single-player missions, combatants fight in apocalyptic landscapes--a decimated downtown Los Angeles, a battered ocean harbor, devastated highways--struggling for survival. Only the strongest will avert catastrophe and save human existence.",2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+56328,137623,Tetris Kiwamemichi,NULL,2003-12-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+15349,69426,Teudogar and the Alliance with Rome,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+23051,3780,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,NULL,2003-09-16 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179697,203503,The Battle for Mata-Nui,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+183066,72137,The Biggest Creators of Empires,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+190753,11261,The Black Mirror,"Black Mirror Castle stands over ancient lands with secrets buried and best forgotten. The crumbling ruins breathe with a life of their own, haunted by the past and waiting to meet the present. 
+ 
+Following the sudden death of his grandfather, Samuel Gordon returns to his estate after an absence of twelve years. While attempting to understand the reasons behind his grandfather’s death, he uncovers an ancient family secret. As Samuel learns the truth of the mysterious origins of the land and history of Black Mirror Castle, he comes face to face with madness, murder, and the true reflection of his soul.",2003-10-17 00:00:00.000,24,NULL,80.0000,1,81.6588,52
+75695,127149,The Butcher,NULL,2003-09-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180694,209293,The Dog Master,NULL,2003-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+110982,24775,The Elder Scrolls III: Morrowind - Game of the Year Edition,"In Tribunal, you journey to the capital city of Morrowind, called Mournhold, to meet the other two god-kings of Morrowind, Almalexia and Sotha Sil. Your journey will lead you to the Clockwork City of Sotha Sil and massive, epic-sized dungeons, where strange and deadly creatures await you, including goblins, lich lords, and the mysterious Fabricants.
+
+Bloodmoon takes you to the frozen Island of Solstheim where you'll experience snow, blizzards, and new creatures, including frost trolls, ice minions, and wolves... just to name a few. You'll have a choice of stories to follow and have the opportunity to defend the colony, take control over how the colony is built up, and eliminate the werewolves. Or, you can decide to join the werewolves and become one of them, opening up a whole new style of gameplay.",2003-10-31 00:00:00.000,5,NULL,NULL,NULL,71.7954,28
+169829,23756,The Elder Scrolls Travels: Stormhold,NULL,2003-12-31 00:00:00.000,NULL,NULL,80.0000,1,NULL,NULL
+105880,9829,The Entente: Battlefields WW1,NULL,2003-08-11 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+189917,3911,The Fairly OddParents: Breakin' da Rules,NULL,2003-11-18 00:00:00.000,3,NULL,NULL,NULL,41.0000,3
+112154,27618,The Fate,NULL,2003-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+29564,39853,The Gladiator: Road of the Sword,NULL,2003-06-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+147651,5853,The Great Escape,NULL,2003-07-23 00:00:00.000,2,NULL,63.6667,4,NULL,NULL
+62199,3945,The Haunted Mansion,NULL,2003-10-14 00:00:00.000,1,NULL,60.0000,2,51.0000,1
+139806,3946,The Hobbit,"Embarking on the legendary quest armed initially with a stick and sack of stones, you'll fend off foes in a platform-action-style adventure which sees Bilbo go from timid Shireling to hobbit hero. As in the epic text, the tale begins with a group of nine dwarves recruiting the home-loving hobbit as a master thief for their mission to recover stolen ancestral gold from under the fiery snout of Smaug the dragon. The group head for the Lonely Mountain, stopping along the way to fight it out with a variety of Middle-earth's less-than-friendly inhabitants, such as giant spiders, murderous goblins and bloodthirsty trolls.",2003-10-24 00:00:00.000,10,NULL,59.0000,1,64.1705,23
+166145,131067,The Incredible Hulk,NULL,2003-05-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143964,3959,The Italian Job,NULL,2003-06-24 00:00:00.000,1,NULL,58.5000,3,47.0000,4
+179241,207007,The King of Fighters,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+51204,15433,The King of Fighters 2003,NULL,2003-12-12 00:00:00.000,5,NULL,50.0000,1,51.4852,23
+144011,18863,The King of Route 66,NULL,2003-03-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+168670,79796,The Kingdom of Loathing,NULL,2003-02-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+132304,78448,The Legend of Sword and Fairy 2,"The story is set eight years after the ending of the first game. Wang Xiaohu, a boy from the same hometown as Li Xiaoyao (the protagonist of the first game), has reached the age of 18. When he was still a child, he was impressed by the story of how Li braved danger to seek a cure for his ill aunt, and has since looked up to Li as an idol. Although he did not have an opportunity to learn from Li, he still hopes to become a great hero one day. Wang inherits his master's priced weapon, the Demon Blade, and sets off on his own adventure. He meets the three female protagonists; Li Yiru, Su Mei and Shen Qishuang. Li is the daughter of Li Xiaoyao and Zhao Ling'er; Su (appeared as a nameless baby fox in the first game) is the daughter of a serpent demon and a vixen demon, and she vows to avenge her parents, who were killed by Li Xiaoyao and Lin Yueru; Shen is a new character who has no apparent connections to the first game. 
+ 
+In the meantime, China is in a state of chaos, as demons have been roaming the land unchecked ever since the Demon Prison Tower collapsed in the first game. A monk called Master Qianye appears and recruits followers to form a sect known as the ""Great Merciful Sect"" to counter the demons and save the people. This sect, along with the Mount Shu Sect (now led by Li Xiaoyao), are seen as the pillars of righteousness in the jianghu. On the other hand, Kong Lin, an assistant of the Lord of Demons, seeks to retrieve three treasures and put them together, in order to resurrect the Lord and allow demons to dominate the world. 
+ 
+The four protagonist set foot into the dangerous world of the jianghu, where they will discover secrets of their past, understand the meaning of forgiveness and love, and join the battle between good and evil.",2003-01-26 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+132343,56624,The Legend of Sword and Fairy 3,"Fei Peng, a divine general from Heaven, fights with Chong Lou, the Lord of Demons. Neither of them is able to defeat his opponent and they gradually become less willing to destroy each other out of mutual admiration. Chong Lou challenges Fei Peng to another battle to determine the final victor between the two of them. Fei Peng hesitates, because he will break Heaven's laws if he agrees, but eventually succumbs to temptation. The battle between Fei Peng and Chong Lou lasts several days and draws the attention of the Heavenly Emperor, who sends his troops to arrest Fei Peng. Fei Peng is distracted and loses to Chong Lou. His sword is knocked away by Chong Lou and falls into the human world below. Fei Peng is punished for breaking celestial rules by banishment from Heaven into the human realm. 
+ 
+Fei Peng, now an ordinary human being, goes through the cycle of life and death numerous times, and is eventually reincarnated as Jing Tian, a young pawnshop worker in Yuzhou. He acquires a magical weapon, the Demon Sword, by chance. The spirit of Long Kui, the younger sister of Long Yang (one of Jing Tian's previous incarnations), resides in the sword, and she joins Jing Tian in his adventures. 
+ 
+At the same time, he meets Tang Xuejian, a girl from the prestigious Tang clan. He is drawn into the internal conflict within Tang's family and the clash between the Tang clan and the Thunderbolt Hall. Subsequently, Jing Tian meets Xu Changqing, an outcast of the Mount Shu Sect, and Xu's fiancee, Zi Xuan. He joins them in their quest to find the five elemental pearls, which can seal all evil spirits and monsters in the Monster-Locking Tower.",2003-08-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+42710,45139,The Legend of Zelda: Collector's Edition,NULL,2003-11-07 00:00:00.000,2,NULL,NULL,NULL,80.0460,6
+186537,45142,The Legend of Zelda: Ocarina of Time - Master Quest,NULL,2003-02-28 00:00:00.000,6,NULL,NULL,NULL,89.9641,19
+130004,131201,The Lord of the Rings Pinball,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+53729,135708,The Lord of the Rings: The Return of the King,NULL,2003-11-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+81567,2973,The Lord of the Rings: The Return of the King,NULL,2003-10-31 00:00:00.000,57,NULL,75.0000,2,76.4022,185
+77649,9256,The Lord of the Rings: War of the Ring,NULL,2003-11-08 00:00:00.000,9,NULL,91.0000,1,62.3763,37
+131978,144422,The Lost Vikings,NULL,2003-03-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+13209,107158,The Maze,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+41700,49321,The Muppets: On With the Show!,NULL,2003-05-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+8259,121824,The Need for Speed Collection,NULL,2003-10-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+133069,188624,The Recruit,NULL,2003-10-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+93350,163160,The Saddle Club: Willowbrook Stables,"The most exciting Saddle Club adventure yet might also be the most difficult and this time you won't have the rest of the Saddle Club to help you. A friend of the Regnerys' has invited Stevie, Lisa, and Carole for a holiday at Willowbrook Stables on Coventry Island. But only one girl and her horse can go, so you'll have to choose which member of the Saddle Club you want to be. And once on the island you'll have to solve a baffling mystery to save Willowbrook Stables from the evil property developer trying to take over.
+
+The island is a complex and colourful world of sights and sounds. It is home to over 30 characters, most of whom have lived there all their lives. Even though the other Saddle Club members won't be with you, you can still keep in touch and tell them all about Willowbrook Stables and your adventures.
+
+Other horse-crazy kids on the island will help you in your quest to save the stables. The skills that Lisa, Carole, and Stevie learned at Pine Hollow will come in handy in your investigations, as horses are just as important on Coventry Island as they are in Willow Creek. Ride all over in search of golden horseshoe clues and collect important information from interesting characters. You can get additional clues and track your progress in your personal game diary.",2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+164289,2844,The Simpsons: Hit & Run,NULL,2003-09-16 00:00:00.000,53,NULL,72.8000,6,75.6911,186
+184651,224864,The Sims,"""Get a Life"" Mode requires the player's character to complete different objectives as they progress through life. They start out unemployed and living in Mom's house, and end with enough money to buy a yacht.",2003-01-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+172917,210728,The Sims Bustin' Out,NULL,2003-12-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140092,4151,The Sims Bustin' Out,NULL,2003-12-15 00:00:00.000,3,NULL,75.0000,6,66.5228,31
+165996,45112,The Sims: Double Deluxe,"Management in The Sims revolves around decision-making. From physical environmental layouts, to mental outlook, emotional makeup and skills of your Sims, you'll be immersed in their daily lives. Activities include buying and placing unique items for households and offices, selling and replacing worn out furnishings, and otherwise building and maintaining the world in which your Sims live.
+
+You'll guide your Sims in life-development phases and chemistry between your Sims is a product of your manipulations as well - all form the level and style of interaction through conversations with other Sims.
+
+The Sims has a range of ten career tracks for your breadwinners to follow and each career advancement requires specific skills for success. There are ten levels of positions within each of the ten career tracks - your Sims can work their way up in career fields.
+
+Your Sims can experience floods, fires, and robberies. Neglect, starvation, loss of energy, failure to perform basic bathroom visits - all can affect your Sims and even stop them in their tracks. Death is an option and entire families could be wiped out by complete neglect and starvation.",2003-09-22 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+39287,72250,The Spirit Engine,NULL,2003-11-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+64773,54292,The Spirit Engine 2,NULL,2003-11-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+89609,66470,The Super Dimension Fortress Macross,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+98964,73268,The Sydney Mystery,NULL,2003-04-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185672,5631,The Temple of Elemental Evil,"Thirteen years before the start of the game, Hommlet was a peaceful town. Due to low taxes and safe roads, the area became prosperous, and the village flourished. This prosperity drew the attention of evil forces, who began slowly trickling into the area. It is not known where these forces came from, but the Dyvers of Nyr Dyv and the inhabitants of the forestlands of the Wild Coast were the chief suspects. As the presence of bandits, kobolds, and goblins increased, a local militia led by Waldgraf of Ostverk was raised to defend Hommlet. This only served to check the evil forces, however.",2003-09-16 00:00:00.000,7,NULL,NULL,NULL,72.1498,25
+34970,67730,The Wild Rings,NULL,2003-04-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+113581,22067,This Is Football 2003,NULL,2003-03-10 00:00:00.000,NULL,NULL,75.0000,2,NULL,NULL
+102452,62072,Thousand Land,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+81730,115761,TibiaMe,NULL,2003-05-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+139310,905,Tiger Woods PGA Tour 2004,NULL,2003-09-22 00:00:00.000,1,NULL,66.5000,5,63.0000,4
+50806,145555,Tir-nan-óg IV,NULL,2003-07-25 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86003,148506,Tokyo Cop,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185430,24184,Tokyo Xtreme Racer 3,"2 years earlier...
+
+A machine known as the fastest, left in defeat.
+
+The name of that machine has not been forgotten.
+
+Along with him, went as many as 13 Ogre Military Officers, plunging Tokyo back into chaos.
+
+Osaka, Nagoya...
+
+Answering to the weakened Shutokou, new powers were being born in various areas.
+
+2 years after the events of Shutokou Battle 0 (and sometime after the events of Tokyo Xtreme Racer: Drift 2), the news of the 13 Devils' defeat has been communicated through all of Japan. Tokyo is plunged into chaos and now two more cities want to compete: Osaka and Nagoya. The racers here will have to beat every team in these 3 cities, and maybe, have the opportunity to challenge the best drivers in each: Speed King & Dejected Angel in Tokyo, Seeks, Genesis R & D3 in Nagoya and No Loser & Darts in Osaka.",2003-07-24 00:00:00.000,NULL,NULL,50.0000,1,NULL,NULL
+190832,44632,Tokyo Xtreme Racer Drift,"The player controls Hiroki Koukami, a wanderer driver. He is able to defeat every rival and challenges every Slashers from Hakone, Haruna, Nikko, Omote Rokko and Irohazaka. After he beats Speed King, Iroha's Uphill's Slasher, he challenges Hamagaki, aka Kaido President, who drives a yellow Pantera GTS (black Acura NSX-R in US Version) and holds the title of ""Emotional King"". As he defeats him, he takes his title, become the new Emotional King, while Hamagaki lost it and becomes a merely Trickster.
+
+The game was set between Zero and 3, according to the Japanese series timeline.",2003-02-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+131027,8029,Tom and Jerry in Infurnal Escape,NULL,2003-03-14 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+173716,175928,Tom Clancy's Ghost Recon: Jungle Storm,NULL,2003-12-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+173701,9891,Tom Clancy's Rainbow Six 3,"""When a terrorist plot threatens to tilt the balance of peace between the United States and Saudi Arabia, team Rainbow is the only answer. Execute your missions with deadly force and precise tactics in order to protect the innocent and ensure peace.""",2003-11-07 00:00:00.000,2,NULL,72.5000,6,62.8403,9
+186236,908,Tom Clancy's Rainbow Six 3: Raven Shield,"In 1945, as two members of the Nazi-sponsored Ustashe regime in Croatia manage to escape the country with huge amounts of Holocaust-era loot just before Allied troops move into the capital. Sixty years later, in 2005, elite multinational counter-terrorism task-force Rainbow finds itself investigating a series of attacks by Neo-Fascist terrorists against South American oil interests and European financial institutions.",2003-03-18 00:00:00.000,13,NULL,81.6667,3,80.6546,38
+178533,134350,Tom Clancy's Splinter Cell,"In April 2004, the president of Georgia is assassinated, allowing Georgian billionaire Kombayn Nikoladze to seize power with a bloodless coup d'état. In August 2004, former U.S. Navy SEAL officer and Gulf War veteran Sam Fisher is recruited by the National Security Agency to work within its newly formed division, ""Third Echelon"". Working with his old friend Irving Lambert, Fisher is introduced to technical expert Anna ""Grim"" Grimsdóttír, and field runner Vernon Wilkes Jr.
+
+In October 2004, Fisher is dispatched to Tbilisi, Georgia to investigate the disappearance of two CIA officers. Fisher attempts to meet an informant, Thomas Gurgenidze, only to find him dying in a burning building. Gurgenidze warns that one agent's transmission mentioned proof that could cause a war. Finding the agents' corpses in a police morgue, Fisher learns that a former Spetsnaz member, Vyacheslav Grinko, removed their subdermal tracking implants. Further investigation of Grinko's license plate number using CCTV leads Third Echelon to tracks him to the Georgian defense ministry headquarters.",2003-04-27 00:00:00.000,NULL,NULL,NULL,NULL,83.8736,8
+190793,218832,Tomb Raider,NULL,2003-10-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+150343,165176,Tomb Raider: The Osiris Codex,"Lara receives an anonymous commission to retrieve a mysterious relic, the Osiris Codex, from a recently uncovered tomb. The stolen manuscript is the earliest record of ancient Egyptian metallurgy, and Osiris (The Egyptian god of resurrection and eternal life) has always been inexorably linked with alchemy.",2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+137865,4202,Tonka: Rescue Patrol,NULL,2003-11-18 00:00:00.000,NULL,NULL,NULL,NULL,43.0000,1
+182697,2698,Tony Hawk's Underground,NULL,2003-10-27 00:00:00.000,32,NULL,80.0000,3,79.3997,112
+175113,210430,Tony Hawk's Underground,NULL,2003-10-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+168557,25326,Toontown Online,"Toontown Online's story centers on an ongoing battle between a population of cartoon animals known as the Toons and a collection of business-minded robots known as the Cogs who are trying to take over the town. Players would choose and customize their own toon and go on to complete Toontasks, play mini-games, and fight the Cogs.",2003-06-02 00:00:00.000,4,NULL,NULL,NULL,73.6945,9
+137394,5234,Top Spin,NULL,2003-10-28 00:00:00.000,5,NULL,80.0000,3,72.5182,14
+61381,6207,Total Club Manager 2004,NULL,2003-11-21 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+122410,185796,Totally Spies! Mall Brawl,"Timothy ""Tim"" Scam has escaped from the WOOHP prison and start his evil revenge plan: make the prices in the malls on all the world became out of control to make everyone buy things on his online store. And put evil robots in the malls to destroy everyone that tries to stop his plan. The mission of the Spies is to defeat the robots and Tim Scam and restore the prices.
+
+To succeed in this mission, you need to go to each affected mall and try to find its corresponding antivirus keycard. Once you have the card, you can proceed and clean up all the infected cash registers. This would not be a piece of cake job, because you should encounter serious resistance from a bunch of enemy robots along your way.",2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+15869,144813,Totò Sapore E La Magica Storia Della Pizza,NULL,2003-12-19 00:00:00.000,4,NULL,NULL,NULL,NULL,NULL
+118595,220854,Tottoko Hamtaro Card-e,NULL,2003-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+63291,73111,Tough Trucks: Modified Monsters,NULL,2003-07-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140288,27166,Touhou Youyoumu: Perfect Cherry Blossom,"PROLOGUE
+In Gensokyo, people relax and bask in the calm of a winter without end. Spring has shown no sign of arriving even though it's already May, and in fact the snowstorms are continually getting worse. Reimu Hakurei, a shrine maiden of the Hakurei Shrine, is tired of being cold day in and day out and wants to find the source of this unnatural weather. Marisa Kirisame, a black-clothed magician, sees a cherry blossom petal float down outside her warm house and wonders if spring is happening somewhere else. Sakuya Izayoi, the maid leader of the Scarlet Devil Mansion, knows that their winter supplies are diminishing quickly, and wants to end this prolonged winter before they run out completely. Depending on who you choose, only one of these three heroines actually goes out and investigates.
+
+MAIN STORY
+The heroine starts off her journey by heading off into the snow-covered forests in search of clues. She battles the ice fairy Cirno and the winter spirit Letty Whiterock in the forest, and the nekomata Chen in the village of Mayohiga, without any progress in her search. Finally, after defeating Alice Margatroid and her dolls, the heroine finds a lead when she notices several cherry blossoms blowing around in the sky. The heroine follows the trail of cherry blossoms high above Gensokyo, breaking through the greetings of Lily White, eventually reaching a great magical boundary and the poltergeist musicians Prismriver Sisters. After silencing the Prismriver Sisters, the heroine crosses the boundary into the Netherworld.
+
+After fighting off several ghosts, the heroine is confronted by human-ghost gardener Youmu Konpaku. Youmu explains that she had been stealing the essence of ""spring"" throughout Gensokyo in order to make the Saigyou Ayakashi, a youkai cherry tree, bloom perfectly with the rest of Hakugyokurou's gardens, as per her master's orders. The heroine defeats Youmu and hurries to Hakugyokurou to get Gensokyo's spring back. Now at the end of a long journey, the heroine comes face to face with Yuyuko Saigyouji, the ghost princess of Hakugyokurou. Yuyuko reveals that she wanted to revive a certain soul that has been sealed within the Saigyou Ayakashi from before her existence. In order to break the seal, the youkai cherry blossom tree needed to bloom fully and completely. Yuyuko and the heroine wage a fierce battle, to get the last ""spring"" contained in the heroine needed for the Perfect Cherry Blossom, and to reclaim Gensokyo's spring, respectively. After the heroine defeats Yuyuko, the Saigyou Ayakashi starts to lose its health. However the seal has been weakened from the near-complete bloom, and the sealed soul is temporarily unleashed. The soul is actually Yuyuko's. The heroine dodges attack after attack until Yuyuko's soul is finally sealed once more.",2003-08-17 00:00:00.000,3,NULL,NULL,NULL,80.3040,17
+75701,18728,TrackMania,NULL,2003-11-21 00:00:00.000,12,NULL,81.0000,3,83.9123,27
+74939,27012,TrackMania Original,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149645,92251,Train Simulator + Densha de GO!: Tokyo Line,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+24432,11013,Trainz Railroad Simulator 2004,NULL,2003-12-31 00:00:00.000,NULL,NULL,100.0000,1,NULL,NULL
+175732,24107,Traitors Gate 2,"In the modern age, the world's lifeline is through digital technology. A new threat to Earth comes in the form of a simple yet lethal virus contrived by those set out to bring worldwide chaos and destruction. You play Raven, an American secret agent, whose mission is to use his stealth, cunning and imagination to seek out and stop the virus at its source.",2003-11-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86023,69158,Transworld Surf: Next Wave,NULL,2003-03-18 00:00:00.000,NULL,NULL,NULL,NULL,36.0000,0
+101950,5576,Tribal Wars,NULL,2003-06-10 00:00:00.000,2,NULL,NULL,NULL,NULL,NULL
+93886,79551,Trickster Online,NULL,2003-04-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+45253,124317,TROGDOR!,NULL,2003-03-17 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160006,6217,Tron 2.0,NULL,2003-08-26 00:00:00.000,14,NULL,74.4000,5,77.2902,29
+20203,40496,Trophy Hunting,NULL,2003-06-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+184723,3323,Tropico 2: Pirate Cove,NULL,2003-04-08 00:00:00.000,4,NULL,86.0000,2,70.0269,11
+38275,19284,Truck Dismount,NULL,2003-08-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138330,89072,Truck Racing,NULL,2003-02-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58224,4216,True Crime: Streets of LA,NULL,2003-11-03 00:00:00.000,20,NULL,74.3333,4,73.0670,71
+39862,59219,Tsumamigui 2,NULL,2003-03-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+87638,4217,Tube Slider,NULL,2003-04-17 00:00:00.000,NULL,NULL,65.0000,2,43.0000,0
+86270,128564,Tuboflex,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+144714,44926,Turnabout,NULL,2003-06-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+36522,127973,Uden at prale - det er Harry,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+123274,6219,UFC: Tapout 2,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+185222,8928,UFO: Aftermath,NULL,2003-10-24 00:00:00.000,1,NULL,80.0000,1,50.0000,4
+136787,49353,Ultimate Beach Soccer,NULL,2003-12-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+28997,6644,Ultimate Brain Games,NULL,2003-03-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+178910,203349,Ultimate Casino,NULL,2003-11-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+157613,49208,Ultimate Muscle: The Kinnikuman Legacy - The Path of the Superhero,NULL,2003-07-05 00:00:00.000,NULL,NULL,73.0000,1,NULL,NULL
+126106,51793,Unreal 2: The Awakening Special Edition,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175609,46625,Unreal II: The Awakening - Special Edition,NULL,2003-03-03 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+170255,50395,Uru: Ages Beyond Myst,NULL,2003-12-11 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+79449,154843,Usagi: Yasei no Touhai: Yamashiro Mahjong Hen,NULL,2003-11-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+115685,145775,Vajimon,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143736,124319,VeggieTales Creativity City,"There's so much to do in Creativity City! Take a tour with Bob the Tomato and Larry the Cucumber. Visit the shops to design and print your own creations -- even games and activities! 
+ 
+> Bob's Bookworks : Check out Bob's colossal collection of activities! Design your own storybooks and electronic books to send to family. Even create photoframes, bookmarks, notepads, coloring pages, calendars and more! 
+ 
+> Junior's Toybox : Exciting games and activities! Design your own mazes, connect-the-dots, card games, puzzles, stickers and a Pin the Tooth on Larry party game! Then print them out for hours of fun! 
+ 
+> VeggiePlex Theater : Be a star! Create an amazing ""photo mosaic"" of your own face, then use your imagination to create electronic posters and, of course, VeggieTales® movie posters. Look out, Hollywood! 
+ 
+> Post Office : Express your creativity with lots of fun activities! Make your own greeting cards, stationery, e-cards and more! 
+ 
+> Larry's Sign Shack : Larry's in a pickle! How can one cucumber create all of these signs? Put your creativity into overdrive with fun activities that include creating and coloring posters, banners and doorknob hangers!",2003-02-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+184868,124311,VeggieTales: Minnesota Cuke and the Coconut Apes,"Master explorer Minnesota Cuke (Larry the Cucumber) has recovered the fabled Crock of Hookie Balookie. But trouble strikes when his airplane crashes in the jungle, and when Minnesota locates it, he discovers that the treasure is missing!
+
+With help from Bob the Tomato, you and Minnesota will track the Crock to the legendary city of the Coconut Apes, - and learn an important lesson about stealing.",2003-09-23 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+57892,84319,Venus & Braves: Majo to Megami to Horobi no Yogen,NULL,2003-02-13 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+92455,4079,Vexx,NULL,2003-02-10 00:00:00.000,NULL,NULL,60.5000,4,60.9677,5
+190666,50180,Victoria Complete,NULL,2003-12-14 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+147955,11036,Victoria: An Empire Under the Sun,NULL,2003-11-24 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+130175,271,Vietcong,NULL,2003-03-26 00:00:00.000,10,NULL,70.0000,1,73.0439,37
+111514,4229,Viewtiful Joe,NULL,2003-06-26 00:00:00.000,13,NULL,90.0000,1,78.5977,43
+73747,59739,Virgin Queen Beauty,NULL,2003-01-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175545,66555,Virtua Cop 3,NULL,2003-03-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+166324,1553,Virtua Fighter 10th Anniversary,NULL,2003-11-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+75948,22239,Virtua Fighter 4: Evolution,NULL,2003-03-13 00:00:00.000,NULL,NULL,85.0000,3,88.0797,13
+186630,43244,Volleyball Challenge,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+138769,5466,Voodoo Vince,NULL,2003-09-23 00:00:00.000,2,NULL,74.5000,2,NULL,NULL
+175542,23694,Wakeboarding Unleashed Featuring Shaun Murray,NULL,2003-07-03 00:00:00.000,NULL,NULL,73.0000,1,NULL,NULL
+168998,2728,Wallace and Gromit in Project Zoo,"The diabolical penguin, Feathers, has imprisoned all the baby animals in a zoo, and it's up to Wallace and Gromit to rescue them. Charge through the gates as the resourceful and adventurous Gromit, and receive helpful hints from Wallace. This indomitable duo has an array of new inventions such as the Porridge Gun and the Banana Launcher, plus interesting contraptions built by Wallace himself. Gromit's break dancing, backflips, and sneaking moves will also prove valuable in your adventure.",2003-10-03 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+126415,111548,Walt Disney's The Jungle Book,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+38379,93410,War Chess,NULL,2003-10-02 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+160290,3208,War Of The Monsters,"The plot is set in the 1950s where a fleet of alien flying saucer warships invade the Earth, causing massive damage. The scientists of the world's nations manage to create a series of secret weapons, which, when activated, let loose shock waves that short-circuit the saucers and cause them to crash. Unfortunately, each flying saucer is fueled by a green radioactive liquid, which leaks out from destroyed crafts as they crash. Through this, the fuel infects creatures, humans, and robots, creating a war between the monsters. The player acts as one of these monsters and battles against the rest in fictional cities across the globe and the remaining UFOs.",2003-01-14 00:00:00.000,4,NULL,80.0000,2,69.9308,10
+167088,128358,Warblade,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+136287,9550,"Warhammer 40,000: Fire Warrior",NULL,2003-09-10 00:00:00.000,2,NULL,60.0000,2,69.8082,6
+116706,1700,Wario World,NULL,2003-06-20 00:00:00.000,7,NULL,74.6667,3,69.6685,29
+170212,1703,"WarioWare, Inc.: Mega Microgames!",NULL,2003-03-21 00:00:00.000,12,NULL,91.0000,1,84.7891,53
+95877,1712,"WarioWare, Inc.: Mega Party Games!",NULL,2003-10-17 00:00:00.000,2,NULL,70.0000,1,80.3348,17
+117828,24182,Warlords IV: Heroes of Etheria,NULL,2003-10-21 00:00:00.000,NULL,NULL,83.0000,1,NULL,NULL
+55525,50111,Warning Forever,NULL,2003-07-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+162892,24179,Warrior Kings: Battles,NULL,2003-09-30 00:00:00.000,NULL,NULL,67.0000,1,80.0000,1
+114068,153617,Water In Fire 2,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+130930,10157,Way of the Samurai 2,"The player, a starving ronin (Samurai without a lord), collapses at the gate of a renowned trading town called Amahara. When aided by a little girl the ronin is then introduced to the life of a samurai, whose decisions can give rise to various factions or lead to their destruction, or even stay out of the politics of the those factions.",2003-10-09 00:00:00.000,3,NULL,51.5000,2,70.0256,6
+121091,129543,Weird War - The Unknown Episode of World War II,"Weird War is a classic RPG with loads of action and is set during the Second World War. It's a game brimming with adventures and humor but also with many battles. The hero of the game manages to board a German submarine after a torpedo destroys his boat. It soon becomes apparent that the submarine is on a secret mission to Africa. This is where the story begins, quickly leading to a wild adventure involving the Wunderwaffe, ancient artifacts, Leon the trusty Camel and many squash...",2003-08-29 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+94335,71096,Western Outlaw: Wanted Dead or Alive,NULL,2003-09-28 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+167722,203103,When Stuffed Animals Attack!,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+123595,6233,Whiplash,NULL,2003-11-18 00:00:00.000,NULL,NULL,55.5000,4,NULL,NULL
+58886,1680,Wild Arms Alter Code: F,NULL,2003-11-27 00:00:00.000,2,NULL,85.0000,2,NULL,NULL
+136683,17591,Wildlife Park,NULL,2003-12-03 00:00:00.000,NULL,NULL,55.0000,1,50.0000,2
+133403,23717,Will Rock,"As the title suggests, the protagonist is Willford Rockwell or Will Rock. Will is an archaeology student, complete with an experienced mentor (Dr. Richard Headstrong,) good build, average looks and a smoking hot girlfriend (Emma) who is also the daughter of his mentor. But when a seemingly uneventful dig takes a turn for the worse, Will is forced into becoming a one-man army against a fanatic cult known as the Olympian Restoration Army (ORA) who have found a way to bring back Zeus and a boatload of mythological beings from ancient Greece (who all really existed, evidently.)
+
+The ORA then murder Richard, and abduct Emma as a mortal bride for Zeus so that he can gain complete power over the mortal world which, unsurprisingly, drives Will over the edge and leaves him in a rather unpleasant position. Luckily for Will the Titan god Prometheus, who happens to be in the market for recruits to destroy Zeus, was close by. With similar goals in mind, Prometheus imbues Will with power leaving him half-man, half-titan - perfect for Will to exact his revenge and rescue his damsel in distress. Locked, loaded and possessed the player is left to control Will as he storms the lost city of Olympus without fear of the terrors within...",2003-06-09 00:00:00.000,5,NULL,67.0000,2,80.0289,16
+131229,161174,Wind: A Breath of Heart,"That summer day. Makoto Okano and his younger sister Hinata sit across from each other in the box seats of a local express heading to that town, underneath a blue sky that seems to stretch out to infinity. The town they are heading to is the very one that they were born in and were separated from long ago -- Kazune City. In the midst of the midsummer wind, bathed in the wind that rushes in from the train window, they head to that town, which they only have vague memories of.
+
+""Say, let's promise to meet again.""
+
+""I'll keep playing this harmonica, okay? Because even if I can't reach you, the sound of the harmonica surely will.""
+
+The harmonica, which was handed over together with the promise to that girl.
+
+And within the shaking cabin of the train, Makoto wakes up, dimly but surely recalling that memory...",2003-01-30 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+132655,27248,Wings of Honour,NULL,2003-09-06 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+179774,213857,Winky The Little Bear,NULL,2003-06-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+177721,221002,Winning Eleven Tactics: J.League,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+180127,2987,Wolfenstein: Enemy Territory,"There is no real story in this game. However, there are some background information to the various missions and campaigns, and locations. The setting is World War II and both sides (Allies and Axis) are in the middle of the conflict. In game, they are fighting for various territories using different unit types.",2003-05-29 00:00:00.000,19,NULL,NULL,NULL,83.6267,47
+119672,6238,World Championship Pool 2004,NULL,2003-12-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+117951,14547,World Championship Snooker 2003,NULL,2003-06-27 00:00:00.000,NULL,NULL,70.0000,1,NULL,NULL
+161220,203263,World Fighting,NULL,2003-12-18 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+99075,6241,World Series Baseball 2K3,NULL,2003-03-10 00:00:00.000,NULL,NULL,60.0000,2,NULL,NULL
+188392,936,World Soccer: Winning Eleven 7 International,NULL,2003-10-17 00:00:00.000,11,NULL,87.2500,5,77.2890,44
+142508,71327,World Tour Soccer 2003,NULL,2003-02-10 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+131106,10155,World War II: Frontline Command,NULL,2003-07-27 00:00:00.000,1,NULL,76.0000,2,NULL,NULL
+175755,1047,Worms 3D,NULL,2003-10-31 00:00:00.000,20,NULL,80.0000,1,71.9244,70
+115770,8315,WRC 3,NULL,2003-11-21 00:00:00.000,2,NULL,60.0000,1,70.1517,5
+144017,4570,WWE Crush Hour,NULL,2003-03-17 00:00:00.000,2,NULL,30.0000,1,67.6112,4
+105064,6249,WWE Raw 2,NULL,2003-09-15 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+184716,6442,WWE Smackdown! Here Comes The Pain,NULL,2003-10-27 00:00:00.000,14,NULL,90.0000,2,66.8182,38
+140077,4574,WWE WrestleMania XIX,NULL,2003-09-08 00:00:00.000,1,NULL,85.0000,2,76.0000,3
+71479,9318,X2: The Threat,NULL,2003-08-07 00:00:00.000,3,NULL,67.0000,2,75.6887,5
+112585,4579,X2: Wolverine's Revenge,NULL,2003-04-14 00:00:00.000,2,NULL,40.0000,1,56.8359,6
+128668,5798,Xbox Music Mixer,NULL,2003-10-27 00:00:00.000,NULL,NULL,20.0000,1,NULL,NULL
+121113,221670,Xenosaga Episode I: Der Wille zur Macht - Reloaded,NULL,2003-11-20 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+140071,4581,XGRA: Extreme G Racing Association,NULL,2003-09-11 00:00:00.000,NULL,NULL,61.0000,2,63.0000,2
+190647,1987,XIII,NULL,2003-11-18 00:00:00.000,42,NULL,73.2000,7,78.5359,93
+58072,64000,X-Plane 7,NULL,2003-03-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+188670,205811,XS Moto,NULL,2003-06-30 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+2670,24110,Xtreme Air Racing 2,NULL,2003-10-30 00:00:00.000,NULL,NULL,55.0000,1,NULL,NULL
+143543,6255,Yager,NULL,2003-05-23 00:00:00.000,2,NULL,70.0000,1,NULL,NULL
+59808,222152,Yoshi no Cookie,NULL,2003-02-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86543,141624,Yoshi vs. Windows,NULL,2003-12-31 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+86641,142404,Yoshi vs. Windows Platinum,NULL,2003-09-27 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+117628,124499,Ys I & II: Eternal Story,NULL,2003-08-07 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+149143,15454,Ys VI: The Ark of Napishtim,"The story begins after Adol's ship is attacked by a fleet of Romun ships. Forced to sail into an unknown area, they encounter a large storm. Adol is swept off the vessel while trying to rescue a fellow sailor and washed ashore by the vortex that surrounds the Canaan Islands. He is found, unconscious, by the nieces of the chieftain of the nearby Rehda village, Olha and Isha, who are the daughters of his brother that died when battling with fellow Redha against the Wandering Calamity. The girls take him to their village and lay him to rest in their Uncle Ord's house. Adol hears them talking about him and wakes up briefly, afterwards going back to sleep because of his exhaustion. His adventure then begins.",2003-09-27 00:00:00.000,8,NULL,71.7500,9,79.8427,24
+140153,6696,Yu Yu Hakusho: Spirit Detective,NULL,2003-12-09 00:00:00.000,1,NULL,NULL,NULL,NULL,NULL
+49600,50834,Yu-Gi-Oh! Power of Chaos: Yugi the Destiny,NULL,2003-11-18 00:00:00.000,8,NULL,NULL,NULL,60.4745,22
+33765,49379,Yu-Gi-Oh! Reshef of Destruction,NULL,2003-03-20 00:00:00.000,NULL,NULL,NULL,NULL,54.1480,6
+162080,49211,Yu-Gi-Oh!: Dungeon Dice Monsters,NULL,2003-03-11 00:00:00.000,1,NULL,NULL,NULL,49.9502,5
+127965,63934,Yumeria,NULL,2003-04-24 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+129974,65146,Zatch Bell! Electric Arena,NULL,2003-12-12 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+67355,50466,Zen Puzzle Garden,"If you thought that you could never reach enlightenment by playing a computer game? 
+Well... you're probably right. You can, however, fry your brain by trying to solve seemingly impossible puzzles that take place in a relaxing zen garden.",2003-02-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+25384,50585,Zoids VS II,NULL,2003-09-04 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+143672,1473,Zone of the Enders: The 2nd Runner,NULL,2003-02-13 00:00:00.000,8,NULL,69.8000,6,79.0545,25
+174749,50863,Zoo Tycoon: Complete Collection,NULL,2003-09-05 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+175674,3753,Zuma,NULL,2003-12-12 00:00:00.000,17,NULL,68.0000,1,73.6847,39
+152229,187044,Zwart Wit,NULL,2003-01-01 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+44133,52758,Петька 4: День независимости,NULL,2003-10-09 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
+58974,113375,Ядерный Титбит,NULL,2003-02-21 00:00:00.000,NULL,NULL,NULL,NULL,NULL,NULL
